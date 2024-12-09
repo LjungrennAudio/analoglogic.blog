@@ -1,0 +1,54 @@
+- initial thought:
+
+triangles as per elec notation for amps, inc.:
+>>VCAs, attens, invrts, attvrts, polar/isising VCAs, mixers(need to specify summin or unity)? if so then also xfaders, dynamics, comparators, mid-side coding, waveshapers/folders/distortions, sync gen, 
+
+logic, analogue/digtal: digital needs 
+
+
+
+squares for combo items such aa slopes and egs etc. that internally are a collection of comparators/vacs/mixers/trisource, matrices?
+>>VCSs, EGs, VCFs, LPGs, LFOs, VCOs? fre shifter, 
+- what are dc offset source listed as by this rule? tri for amp type i guess
+what shape for delay family? digital/bbd/tapped delay's, phase, flange, comb filt/tl0
+
+
+didgital modules:
+gates, flipflops, switches, etc. dt_switch is naanalogue logi, seyencers#
+cock dividers, mults tc.
+note: penta can be comparator schmitt by setting to step or 2step and 0/5/0/5 etc.,
+
+
+feedback-wrapaound looping arrow for self patchable?
+
+
+signal representationsat all? if so - offset, cv, audi, gate, trig, clock, .
+
+
+reprasent:
+schmitt symbold fo some dort of shape gonaa be needed
+technically needs vc/non vc [do w make any non-vc crud?]
+will need way of implying variable slopes cos daisy chaining 3xVCA goes from linear to expo to wait...
+internly normalled for some convenience?
+>>analogue
+digital/analogue logic
+>>digital
+buff_outs
+>>audio
+>>cv
+audio rate mod possible, ultrasonic mod possible - [linketty cos wtf?: https://en.wikipedia.org/wiki/Hypersonic_effect (accessed 230923 2318)]
+lin/expo/higher order, log, 1V/oct
+patch programmable symbol or just ref elswhere as whool set okf missing turtles?
++/- voltage range given as Vpp?
+will saturate/clip/distort/overdrive - use general waveshaper symbol?
+vactrol symbol? general opto symbol?
+dual/quad symbol
+dt_switch is naanalogue logic
+will need logoc symbols and way to show anlo/digi capablity
+
+
+c
+
+
+ CA laims invertor on NAND will work for compressor but surely is digital only?
+ptodist ssays  total frq controlable range 0 - 50khz but  due vctrols i doubt is exactly true - iirc due slew time of vactrols it ont go massively above maybe 16-17khz?

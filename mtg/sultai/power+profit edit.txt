@@ -1,0 +1,421 @@
+
+**HOW I ACHIEVED BOTH PROFIT & POWER FOR $12**
+
+Sultai Green/Blue/Black Deck Creation:
+CP2 Power and Profit - the Fate Reforged Clash Pack 'combo deck' upgraded.
+
+***********
+
+This wasn't intended to be anything more than my latest attempt at blogging my deck design efforts. But somewhere along the way it became a whole thing. i was browsing eBay for cheap booster boxes as a birthday investment and treat;
+
+~ (gambling, investing, collecting, planning strategy, ocd organising and preserving, punding, thinking about what I'm going to spend my next bit of budget on, shopping for new cards and treats, enjoying artwork/stories/other lore, and yes, I guiltily admit, watching card prices climb - but above all else simply playing the game) ~
+
+Aaaaaand then I spotted something unusual...
+
+Previously I had been completely uninterested in pre-made decks since one of my main pleasures with MTG is deck designing and then seeing if I'm successful, especially limited by budget and being no-where near a convenient comic-store to riffle through stacks of cards directly etc.
+
+I had never looked at the world outside of buying cards 'loose'. What I had seen I didn't at first realise even was part of the world of pre-made decks - I saw a box of unusual shape, labelled fates reforged [hence I knew this was old enough to be cool but also uninteresting to anyone competitive or probably many collectors since the cards had been available a long time and by now become cheap.], and, crucially - it was only $12.
+	Expecting just a single booster pack in a special edition box or similar I didn't really have my hopes up, but no - the box contained two pre-configured 60 card decks designed to be played against each other between two players learning the game and then perhaps jumbled up to form one better super deck of the players own design. Maybe this might seem just another way of selling cards long out of the current interest as far as competition etc. goes, but to me it was a chance to get EX condition, sealed arms, knowing what rares and foils I'd get.
+	the full contents were readily listed a 1000 times over across the interwebs and it was apparent the set included a whole bunch foils with alternative art, reprints of old cards from very hard to get sets and even rates from those sets! [they may be rereleases but I wanted them for the fun of playing, not as a means of getting a quick million dollar black lotus or whatever idiot price they go for now.]
+
+$12 seemed fantastic value so I nabbed it straight off the 'buy it now', one click PayPal had it on its way to me within days and I was particularly pleased with myself. By the time it arrived I had already spent a good few hrs in bed at night scouring the card lists and pondering how the best way to play the remade decks was as well as for wondering how I'd design my own super deck.
+	Impressively for me, I actually had the restraint to try both of the pre-made decks a bit as designed before rushing into making my own deck to try and get a real good idea of how the main mechanics were supposed to be used and hence have a good idea of what suited me, what I thought was not fro me and what extra cards I might need to perfect my super deck via filling holes.
+
+Here's the full run down of my thoughts on the whole Fates Reforged 'clash-pack' box-set and what I did with the cards:   
+
+
+***********
+
+
+The original clash pack cp2 individual decks were a pair of Sultai (Green/Blue/black) and a “Golgari” (green/black). The 'Power' (sultai) had an overarching mechanic to get high powered creatures onto the battlefield relatively early for the total mana available by using the 'delve' ability - I.e. mill cards into the graveyard as quick as possible then exile them to reduce the cost of otherwise high cmc cards. The idea as that the player will load their graveyard, cast cards such as Necropolis Fiend and use their abilities to control the game. The 'profit' (golgari) on the surface appears to use the “constellation” mechanic - when an enchantment enters the battlefield it triggers an ability, ""sometimes even affecting all future enchantments entering the battlefield as long as that constellation card is in play"".
+
+Unfortunately both the cp2 decks have some issues;
+
+
+Power Deck breakdown:
+
+First up, lets check out the non-creature spells; there's a great selection of counters and destroy creature/artefact stuff:
+1 Annul				cmc1	counter artefact/enchantment
+1 Dead Drop			cmc10	delve, sacrifice creature
+1 Despise			cmc1	look at opponent hand, discard creat./plnswlk 
+1 Hero's Downfall		cmc3	look at opponent hand, discard creat./plnswlk
+2 Murderous Cut			cmc5	delve, destroy creat.
+1 Naturalize			cmc2	destroy artefact/enchantment
+1 Neutralizing Blast		cmc2	counter multicolour
+1 Set Adrift			cmc6	delve, non land permanent to top of library
+
+Drifting from counters into draws:
+2 Sultai Charm			cmc3	Choose one --
+					• Destroy target monocolored creature.
+					• Destroy target artifact or enchantment.
+					• Draw two cards, then discard a card.
+1 Treasure Cruise		cmc8	delve,
+1 Monastery Siege		cmc3	As Monastery Siege enters the battlefield, choose 					Khans or Dragons.
+				• Khans - At the beginning of your draw step, draw an 						additional card, then discard a card.
+				• Dragons- Spells your opponents cast that target you or 					a permanent you control cost  more to cast.
+
+A draw artefact that's also a mana a mana source:
+1 Sultai Banner			cmc3	tap: g or b or bl
+					g+b+bl+tap+scarifice - draw
+
+Scry/surveil/spy type cards that have the bonus of feeding the main mechanic:
+1 Sultai Ascendancy		cmc3	beginning of upkeep, look at top 2 of library.
+					Put any no. into gvyd, rest top library any order
+2 Taigam's Scheming		cmc2	look at top5, any no. in gvyd, rest on top any 						order
+
+Which neatly leads into a look at the creature selection, the main mechanic supporting cards are fantastic;
+1 Merciless Executioner		cmc3 3/1	both sacrifice 1
+2 Necromancer's Assistant	cmc3 3/1	mill
+2 Sultai Soothsayer		cmc5 2/5	look, one into hand, mill
+1 Returned Centaur		cmc4 2/4	mill
+1 Sultai Skullkeeper		cmc2 2/1	mill
+4 Satyr Wayfinder		cmc2 1/1	draw, keep 1 land, mill
+
+The main mechanic movers and shakers
+1 Necropolis Fiend		cmc9 4/5	flying, cards in gvyd -X/-X to target
+2 Sultai Scavenger		cmc6 3/3	flying		
+1 Gurmag Angler			cmc7 5/5		
+
+There's an opening cheap cannon fodder with a sting in the tail
+1 Typhoid Rats			cmc1 1/1	deathtouch
+
+General purpose midge boosting creature
+1 Herald of Torment		cmc3 3/3	bestow, flying, upkeep lose life
+
+Random assed artefact tank guy
+1 Scuttling Doom Engine		cmc6 6/6	2 or less can't block, 6damage upon die	
+
+
+And last but in no way least, the lands - first a coupla game mechanic feeding search cards:
+2 Evolving Wilds	Sacrifice Evolving Wilds: Search your library for a basic 				land card, put it onto the battlefield tapped, then shuffle.
+
+Some multicolour lands:
+4 Opulent Palace	enters tapped, g, b or bl
+2 Dismal Backwater	enters tapped, enters the battlefield, gain 1 life, b or bl
+
+And a fairly even balance of Basic lands which I care so little about that I'm just trusting is the correct balance to make up the missing numbers to achieve good mana fixing:
+7 Swamp			
+5 Island		
+5 Forest		
+
+Straight off on that last note I was wrong - there's way too many lands given there's lots of ways to search for specific lands using evolving wilds and also noting that although cards are being milled fast in this deck, on average as many mana sinks are milled as mana sources so the overall balance should be maintained. There's a slight lack of balance in the distribution chosen between g/b/bl for my liking  I'm not certain someone did their stats right, but I'm damned if I'm doing a full calculation for both of these decks just to check - its close enough.
+	also there's a few other mana fixing issues - there's too many 'enter's tapped' lands and not enough advantage being taken of evolving wilds to get the bonus of having an extra card in the graveyard as a payoff for putting the resulting land gained in tapped. using  Mana Confluence or the like would be the super fix to make a real killer deck, but since I'm limited by budget and card availability, personally I'd opt to fix with cheaper/more common cards and just throw in a couple more evolving wilds or maybe if things are gonna be tapped but not feed the graveyard then gateway plazas to get the advantage of the any colour'.
+
+	Power annoyed me slightly at first glance as I like to check out non-creature spells first, and what I checked out first was 'set adrift' - frankly, it sucks. All that mana spent just to get a card back on top of the library?! Even if the mechanic is delve and the card isn't expensive, why waste that much mana when you can destroy or exile a card with an instant for half the cost or even the full price and not waste painfully milled cards on uselessness.
+		Other than this at first glance and play through the deck seems quite good. As I found though there's bigger issues; although I don't love cards such as sultai charm, annul, neutralising blast and dead drop, preferring more despise, murderous cut, heroes downfall and naturalize, the real issues aren't so much spells, or the near total failure to use artefacts but the whole creature mechanic; the sum total of delve creatures is a gurmag angler [unspecial 5/5] and two sultan scavengers [flying 3/3's] - not exactly game winners, and the necropolis fiend which relies more on hindering the opponent with its abilities rather than overpowering or actually killing off opponents.
+	Herald of torment just plain sucks and so the only real blessings are typhoid rats - one of the best cheap starter creatures I've come across, the beauty that is Despise, two [2!] Taigam's Scheming, and perhaps scuttling doom engine, tho that's not a winner alone. Even though there's some star cards in the power deck and it plays quite well the lack of true killer delve cards to actually take on powerful creatures or do actual player damage, as long as there's no real capability to remove significant life points via combat after defeating creatures or via abilities/direct spells, this deck just ain't a consistent winner. (Oh, and off, Treasure Cruise is fantastic fun in this deck since there's near no cost to playing it thanks to delve!)
+
+Tldr, Power is designed to use the delve mechanic to get its big hitters on the battlefield early after filling the graveyard, but leaves only 4 cards, the biggest being  Necropolis Fiend to control the game.  It has little real damage inflicting ability - the ultimate downfall of the deck since the way to win is take life to zero before you lose yours or mill all your cards away - a big risk here. I guess it was supposed to be kinda a  control deck, strong on counter and destroy spells along with the necropolis fiend hindering ability and by far of the two decks I prefer it but nevertheless it's still just a source of some real cool cards I'd use way differently in a deck of my own design.
+
+****************
+
+- I'm not gonna look into the second deck in quite as much depth, mostly because I was less inspired and excited by the cards in it and partly because it feel wizards didn't put as much effort into making an equal opponent for the Power deck - it feels like they had a great idea but got bored halfway through the project and threw it together hurriedly. straight off comparing the two decks you'll notice this its a similar deck but lacks the blue - as a golgari deck it's in theory simpler to plan and hence should be able to be decent for the same conditions - less colours is no hindrance, especially when comparing multicoloured... and yet it isn't as good - why? It seems to have as good cards. Yet something's lacking. Glancing down the card list I'll try to highlight the shortfalls and triumphs:
+
+Less effort towards special lands
+2 Jungle Hollow			
+12 Forest			
+11 Swamp			
+
+Non-creature spells
+3 Commune with the Gods		
+2 Dark Betrayal			
+1 Debilitating Injury		
+1 Defend the Hearth		
+1 Font of Fertility		
+1 Nyx Infusion			
+1 Plummet			
+1 Reviving Melody			
+2 Vineweft			
+
+1 Whip of Erebos		
+
+Creatures
+1 Baleful Eidolon		
+2 Brain Maggot			
+1 Courser of Kruphix		
+1 Doomwake Giant		
+1 Eidolon of Blossoms		
+1 Graverobber Spider		
+2 Grim Guardian			
+1 Leafcrown Dryad		
+1 Loathsome Catoblepas		
+2 Nemesis of Mortals		
+1 Nighthowler			
+1 Noble Quarry			
+3 Nyx Weaver			
+2 Oakheart Dryads		
+1 Reaper of the Wilds		
+
+
+On the surface  it seems that profit is designed to use the constellation mechanic. As mentioned whilst looking down the card list there's also a large number of 'bestow' cards. These are how the big creatures are made stronger. So although there's not the greatest selection of game winners, the combination of applying bestow cards powers to the power cards sourced by the constellation cards/given time to be played by the constellation cards creates some possible winners.
+	Unfortunately the constellation mechanic just doesn't cut it - Eidolon of Blossoms is expensive for what you get, cmc4 gets you a 2/2 that gives draw card when it enters the battlefield and whenever another enchantment enters the battlefield.  Not only is this relatively unsocial - its hella expensive really, a 2/2 with draw - and if it gets countered then you've not even got the benefits of the constellation mechanic for that card [the whole advantage of constellation being that the cards worth using from this selection affect everything downstream from that ability trigger occurring repeatedly so being worth the mana spent - i.e. 'and whenever another enchantment enters the battlefield' is crucial and not only do you lose the card if countered but also that whole chain of events]. Furthermore, the Eidolon is so weak, even if not countered, it gets killed before the trigger kicks in more than the initial time so it is, anyway, wasted.
+
+	On top of all that, the deck is a bit poorly thought in a second way it might seem since he hard hitting cards that are needed as winners, especially if you are to get in early enough to take on the Power deck, rely on the graveyard being full.  Nighthowler, nemesis of mortals and graverobber spider all take this role in this deck, but - there's no mill cards to feed the graveyard so the cards don't get much cheaper or stronger early to mid game since the graveyard is somewhat bare. (Below I'll expand on my assumption behind why this is setup like this).
+	Profit has suspiciously too many creatures with reach, spiders and the like for a single deck really - it's suspiciously convenient to oppose the flying nasties of Power, but also it's a good way to get nyxweavers into the selection which are frankly a fantastic mill capable creature providing good value for cmc, and reach and the ability to pull em back out the graveyard should they themselves get milled as well as killed. There's a few special cards despite all these complaints [after all, I dint buy this set to loot for cards purely on the strength of the Power deck!] - specifically, Doomwake Giant is a pretty decent big guy along with the previously mentioned night howler. Courser of Kruphix is a al cool one, and the crowning glory of the whole box, The Whip of Erebos.
+	Its a consistently expensive, very useful and kinda unique card. I nearly didn't notice the reason whip is special when first glancing at the cards and seeing the ones prized highly - the whole pulling things back only to exile them didn't seem so special, then I read through it twice and saw the little first line of ability text I looked right past... Lifelink for EVERYBODY!!! I really like the inclusion of a little more life regaining cards in Profit, especially since it lacks the oomph of Power and so needs the extra chances to live a little longer. sadly that does little to save it when pit against the Power deck with if its a contest of two evenly skill matched players - but whip is a little treat to help things along and definitely contributed to my grabbing this little box of greatness.
+
+Tldr: The second deck, Profit also uses the graveyard as a source of power to generate fast mana cost reductions and hence getting the big guys out fastConstellation.  Constellation works great against the Power deck, but not in the current metagame for tournaments.  This is more of an aggro” deck, with the aim of getting Nighthowler bestowed onto something and beat you down with that suddenly huge creature, or getting Nemesis of Mortals out and activating Monstrosity sooner than you normally should.  Most of the creatures help load the graveyard and trigger constellation if you are lucky.  One of the best inclusions is Doomwake Giant, who is hot in the meta-game against Prowess decks.  This deck gets 3/5.
+
+************
+
+As mentioned above, I think that its more likely no-one at wizards could be so dumb as to include mazing cards relying on graveyard filling like night howler then stick em in the deck opposing all the milling powers, to suit and watch those juicy full graveyards but left with barebones on their side. Of course the truth is they wanted the cards present for budding deck designers to use together.
+	I suspect that the truth is not so much that there's especially bad design in either of the two decks - more so that wizards intended the separate decks to be for beginners relatively new to the game and that the more long term game was to teach people to build their own decks as their skills developed, encouraging learning from both the advantages and good lessons in the two remade decks, but perhaps also the shortcomings of the two somewhat limited profit/power singles. Since wizards were planning for the decks eventually to be combined, its unlikely they would supply two fully capable decks In total and since there's a near fantastic deck buildable from the combination, the ultimate endgame, I'm guessing they were thinking more about the final use of the cards not the detail of the beginner using the two remade decks too much.
+	even combining the two decks there's a few odd extras needed to totally satisfy and so I added a few cards from elsewhere - but as usual, limited by funds and availability I made do with what I had available and have had pretty decent fun with mine. What I just can't quite figure is how the heck the suggested combination 'Power + Profit' deck seems so less exciting and fun compared to either of the individual decks - was this intentional to encourage creativity and for people to actually think for themselves? 
+
+- - -
+
+Amongst the junk promo crap in the [rather crappy] box was a suggested decklist for a combo deck. Sadly it's even less inspired and more rushed feeling/lacklustre than the profit compared to the power deck. They even managed to skip over  Nighthowler! Between this and one of my regular opponents latest deck design, a samurai deck drawing heavily from the Kamigawa: Neon Dynasty set, I learned one absolute crucial lesson from these decks:
+
+- Design a deck around a single mechanic or maybe two complimentary mechanics not just pick a colour and use your best cards or try to make the strong cards stars and focus entirely on getting them to the battlefield with everything else merely supporting.
+- The Power deck in this clash pack is a shining example to a degree - it makes use of every card to make the most of the Delve mechanic, but still has redundancy cover via duplicate cards and cards sharing similar functions, yet it still has all the necessary features of a useable deck such as counters and good stating low cmc cards etc.
+- there are failures in the power deck for my ways of playing such as lack of life re-gaining and some rather wasted card spaces in the line-up that could have been better spent on more of the existing good cards in the deck. i.e. it's better to have 2/3/4 of a good card than 60 individual cards of varying types since the chances of drawing one of a few ideal cards within a small number of turns, carrying out a plan and inning early on is way higher than hoping for a lucky draw every turn and suffering for 20+ turns only to lose.
+- likewise lessons can be learned from the profit and power+profit decks even though they have more shortcomings than the power deck. First off I've learned there's a hella lotta good funs in delve and 'Dredge' type decks - even though they were completely alien to me and it's a little scary at first intentionally pouring every yard possible into the graveyard and watching so many fantastic rare killer cards sinking into exile or the bottom of a heap.
+
+So, here's my attempts at designing a deck using mostly the cards chosen by wizards in the clash pack and thoroughly inspired by the spirit of the power/profit theme:
+
+
+************
+
+Star Cards:
+
+
+- Courser of Kruphix; ~€4.50 |[CP2] Fate Reforged Clash Pack #6 (R)	
+Enchantment Creature - Centaur | Power/Toughness: 2 / 4 | (A G G - CMC 3)
+.Play with the top card of your library revealed.
+.You may play lands from the top of your library.
+.Whenever a land enters the battlefield under your control, you gain 1 life.
+
+
+- Whip of Erebos; ~€6.75 | [CP2] Fate Reforged Clash Pack #5 (R)
+Legendary Enchantment Artifact | - | (A A Bl Bl - CMC 4)
+.Creatures you control have lifelink.
+.[A A Bl Bl, tap] Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.
+
+
+- Monastery Siege; ~€0.95 | [CP2] Fate Reforged Clash Pack #? (R)
+Enchantment | - | (A A B - CMC 3)
+As Monastery Siege enters the battlefield, choose Khans or Dragons.
+• Khans -- At the beginning of your draw step, draw an additional card, then discard a card.
+• Dragons -- Spells your opponents cast that target you or a permanent you control cost  [A A] more to cast.
+
+
+- Izoni, Thousand-Eyed ~€0.70 | [GRN] Guilds of Ravnica #180 (R)
+Legendary Creature - Elf Shaman | Power/Toughness: 2 / 3 | (A A G G Bl Bl - CMC 6)
+.Undergrowth -- When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.
+.[G Bl] Sacrifice another creature: You gain 1 life and draw a card.
+
+
+- Reaper of the Wilds; ~€0.45 | [CP2] Fate Reforged Clash Pack #4 (R)
+Creature - Gorgon | Power/Toughness: 4 / 5 | (A A G Bl - CMC 4)
+Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+.[Bl]: Reaper of the Wilds gains deathtouch until end of turn.
+.[A G]: Reaper of the Wilds gains hexproof until end of turn.
+
+
+- Nighthowler; ~€0.45 | [CP2] Fate Reforged Clash Pack #? (R]
+Enchantment Creature - Horror (A Bl Bl - CMC 3)
+Bestow  (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
+
+
+- Braids, Cabal Minion; ~€0.45 | [MH2] Modern Horizons 2 #273 (R)
+Legendary Creature - Human Minion | Power/Toughness: 2 / 2 | (A A Bl Bl - CMC 4)
+At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.
+
+
+- Nemesis of Mortals; ~€0.20 | [CP2] Fate Reforged Clash Pack #? (R)
+Creature - Snake | Power/Toughness: 5 / 5 | (A A A A G G CMC 6)
+This spell costs  less to cast for each creature card in your graveyard.
+.[A A A A A A A G] Monstrosity 5. This ability costs [A] less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)
+
+
+- Wand of Vertebrae; ~€0.20 | [GRN] Guilds of Ravnica #242 (U)
+Artifact (A - CMC 1)
+.[tap]: Mill a card.
+.[A A, tap, Exile Wand of Vertebrae]: Shuffle up to five target cards from your graveyard into your library.
+
+
+- Liliana's Indignation ~€0.25 | [SOI] Shadows over Innistrad #120 (U)
+Sorcery (X A - CMC '1')
+. Mill X cards. Target player loses 2 life for each creature card put into your graveyard this way.
+
+
+***********
+
+
+Main
+
+
+23 Lands
++ gateway plaza x 2, jungle hollow x 1, dismal backwater x 2;
+
+2 Evolving Wilds	-		search, bring in tapped
+2 Gateway Plaza		+ 2		1 or sac, A		
+4 Opulent Palace	-		tap, B, G or Bl
+3 Jungle Hollow*	+ 1		tap 1 life, G or Bl	
+2 Dismal Backwater	+ 2 power	tap 1 life, B or Bl	
+2 Island		- 1		B
+3 Forest		- 5		G			
+5 Swamp			- 2		Bl			
+
+- swamp x 2, island x 1, forest x 5;
+
+
+4 Artefacts
++ desecrated tomb x 1, wand of vertebrae x 1, sultan banner x 1; 
+
+1 Desecrated Tomb	+ 1		A A A
+1 Wand of Vertebrae	+ 1		A
+1 Whip of Erebos.	-		A A Bl Bl
+1 Sultai Banner		+ 1 power	A A A
+
+- no removals
+
+
+3 Enchantments
++ Raiders wake x 1;1 Sultai Ascendancy	-		B G Bl
+1 Monastery Siege	-		A A B
+1 Raiders' Wake		+ 1		A A A Bl
+
+- font of fertility x 1, debilitating injury x 1;
+
+
+6 Instants
++ dark betrayal x 2, naturalise x 1, dihada's ploy x 1;
+
+2 Dark Betrayal		+ 2 sideboard	Bl
+1 Sultai Charm		- 1		Bl G B
+1 Hero's Downfall	-		A Bl Bl
+1 Dihada's Ploy		+ 1		A B Bl
+1 naturalize		+ 1 sideboard	A G
+
+- murderous cut x 2, sultai charm x 1;
+
+
+7 Sorceries
++ Taigam's scheming x 2, reviving melody x 1, despise x 1, seek the horizon x 1, lilianas indignation x 1;
+
+1 Commune with the Gods	- 2		A G
+2 Taigam's Scheming	+ 2 power	A B1 Reviving Melody	+ 1 profit	A A G
+1 Despise		+ 1 power	Bl
+1 Seek the Horizon	+ 1		A A A G
+1 Liliana's Indignation	+ 1		X Bl
+
+- commune with the gods x 2;
+
+
+17 Creatures
++izoni, thousand eyed x 1, braids, cabal minion x 1, merciless executioner x 1;
+
+2 Nemesis of Mortals	-		A A A A G G	
+1 Izoni, Thousand-Eyed 	+ 1		A A G G Bl Bl
+1 Sultai Soothsayer	- 1		A A G B Bl
+1 Reaper of the Wilds	-		A A G Bl
+1 Braids, Cabal Minion	+ 1		A A Bl Bl
+1 Courser of Kruphix 	-		A G G
+2 Nyx Weaver		- 1		A G Bl
+1 Nighthowler		-		A Bl Bl	
+1 Merciless Executioner	+ 1 from power	A A Bl
+2 Satyr Wayfinder	- 2		A G
+2 Brain Maggot		- 		A Bl
+1 Baleful Eidolon	+ 1 sideboard	A Bl
+1 Typhoid Rats		+ 1 sideboard	Bl
+
+- herald of torment x 1, scuttling doom engine x 1, eidolon of blossoms x 1, doomwake giant 1, necropolis fiend x 1, gurmag angler x 1, sultai soothsayer x 1, nyx weaver x 1, satyr wayfinder x 2;
+
+
+Sideboard
++ strata the silencer x 1, urban evolution x 1, graverobber spider x 1, nyx weaver x 1, 
+satyr way finder x 1;
+
+SB: 1 Etrata, the Silencer	+ 1		A A B Bl	
+SB: 1 Graverobber Spider	+ p+p sideboard	A A A G
+SB: 1 Nyx Weaver		+ from p+p	A G Bl
+SB: 1 Satyr Wayfinder		+ from p+p	A G
+SB: 1 Urban Evolution		+ 1		A A A G B- [see official deckles for sideboard removals - silly number gone] 
+
+
+***********
+
+MANA FIXING:
+To correct the poor mana fixing and changes in the cards in the deck this was based on, along with changes to the original land balance due to number of lands changes, the balance of colours available needs to be altered - I don't have any more special lands to offer true changes to mana fixing such as risking more gateway plazas to provide the 'any' option - enter tapped is a gamble with too many, and I lack cards such as jungle hollow or opulent palace in great numbers, so the adjustments will be made using the basic single colour lands:
+
+
+mana avail
+G	B	Bl	Tot
+12	10	15	37
+33%	27%	40%	100%
+
+Mana needed
+A	G	B	Bl	Tot
+54	19	6	27	106
+51%	18%	5%	25%	51% + 48% = 99% [within rounding err]
+
+wtd prob. Mana needed [inc. any]
+(A)		G	B	Bl		Tot
+(106 + 54)	19 + 54	8 + 54	27 + 54		106
+(160/160)	73/160	62/160	81/160		-				
+100%		46%	39%	51%		-
+
+comparing:	G	B	Bl
+		33	27	40
+		18	5	25
+		46	39	51
+
+(On the surface the balance between needed g/b/bl appears very much less blue than g/bl, but since to supply b at any point in the game there needs to be sufficient to statistically likely draw blue at any time, more needs to be present hence the near 33/33/33 split).
+As can be seen by the wad prob. mana calc, the real avail figures are less over the top seeming on blue but still show even compensating for statistical card drawing needs, there does need to be an adjustment to the current land numbers therefore to re-balance the mana accounting for card changes but keeping the same number of lands total, two bl must be added and 2 blue removed
+
+
+Compensating: -2 B; +2 B
+		G	B	Bl	tot
+old		12	10	15	37	chksum=1
+
+new		12	8	17	37	chksum=1
+% of tot	32%	22%	46%	100%	chksum=1		
+
+Wtd prob	12 + 37	8 + 37	17 + 37	37 + 37
+		49 / 72	45 / 72	52 / 72	72 / 72			
+		68%	63%	72%	100%
+
+Old wtds 	46%	39%	51%	-
+For ref
+
+Now it can clearly be seen that there's a significant weighting toward bl compared to b or even g but still enough b to allow for statistical card drawing needs regardless of when a b need arises.
+
+***********
+
+Mana curve/distribution
+
+Overall smooth curve. Creature curve a little messy, spell curve very gated
+Lots of draw and destroy but not much hinder
+Everything heard to graveyard - whether life, death, spawning or boosting. It's a fast growing fast winning deck.
+
+See graphs etc.
+
+Looking at the lands probabilities chart it might look like though there's a high likelihood of having 2 or three lands in any starting hand, by turn 10 [if it goes that far] its more like only being sure of getting maybe 6 total - this is not accounting for the cards allowing playing extra lands, seeking out lands, controlling the deck etc.
+
+***********
+
+I've played with this deck a bit and been very successful at first - but recently I've been pitching my eldrazi and orzohv decks against the pesky samurai - and been floored. This deck may be my last hope so I really gotta get this right and make sure I use the deck correctly as well as trusting my understanding of design necessary. Wish me luck - I'm sending a 2.86 avg. cmc deck worth approx €28 into battle against a deck I've [iirc] yet to win more than maybe one game against.
+
+D:
+
+
+***********
+
+
+GLOSSARY
+
+
+DEATHTOUCH - Any amount of damage this deals to a creature is enough to destroy it.
+
+MILL - player puts that many cards from the top of their library into their graveyard.
+
+MANA FIXING - refers to the process of ensuring that the correct lands or sources of mana are played in order to be used for the cards in one's hand. 
+
+DELVE - For each generic mana in this spell’s total cost, you may exile a card from your graveyard rather than pay that mana.
+
+LIFELINK - Damage dealt by this creature also causes you to gain that much life.
+
+CONSTELLATION - An enchantment's constellation ability triggers every time it or another enchantment enters the battlefield under the player's control
+

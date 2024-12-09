@@ -1,0 +1,109 @@
+izzet electroshock - ravnica izzet guild electric magic theme deck
+
+Yes, i've rebuilt my red/blue deck yet again and here's the thought process behind it:
+
+The previous red/blue deck was somewhat fragmented and had lost its strategy after multiple rebuilds and lack of understanding of how a deck should best be built to be a good deck in all situations/against a variety of opposing decks. Since I got a bunch of new cards it seemed a good time to not only restructure to suit the new cards but go for a complete rebuild so, here we go...
+
+________
+
+The original deck started with started with:
+22 lands: 4 mountains; 8 islands; 2 dual basic lands and 8 dual izzet guildgates
+
+Of those;
+1 x +1 life when entering the battlefield
+5 x draw a card when tapping and paying one mana
+
+These will need adjusting once the changes to the set up have been made:
+
+________
+
+The new deck will have;
+
+21 spells based mostly on instants and sorceries in blue and red - a mix of sorceries and enchantments to reduce other spells mana cost / duplicate them, draw cards, do non combat route damage and a couple of 'possess creature' / others.
+
+There will be sufficient counterspells and 'hindering' of creatures [i.e. -/-, return to hand etc] to allow some avoiding serious threats from opponents.
+
+________
+
+17 creatures specifically focussing on wizards and multicoloured creatures;
+
+- wall style creatures for defence, as much as possible very cheap ones like aegis turtle for early game protection;
+- low mana cost creatures that can be used to either block [sacrificial if need be], especially early in the game, or to swarm in mass numbers later in the game;
+- mid mana cost, flexible use creatures that have the ability to grow in power/toughness to keep usefulness as the game progresses so not to become redundant later on;
+- big powers/toughness creatures that though relatively costly in mana are very hard to defend against and remove from the game and have very powerful abilities.
+
+again, the choice of creatures specialises in abilities that reduce mana cost of spells, especially instants and sorceries; counterspells / hindering; and drawing cards - again instants and sorceries specifically are the focus.
+
+By focussing on just instants and sorceries as a target of abilities and spell effects the numbers of spells can be weighted on those types greatly increasing chances of drawing cards that will be useful to play, and likewise choosing to have a lot of 'draw' cards increases odds that useful cards will be ready for use at any point in the game.
+
+The vulnerabilities are that an opposing deck that causes milling, returning cards to hand or drawing cards can really push the total cards in hand to be maxed out and need to discard or that the library will be depleted. Another vulnerability will be to decks that 
+Are heavily anti magic or anti wizard - but I think the mixture of red and blue along with a variety of creature types, spell types and an even balance of many possible options greatly reduces these vulnerabilities. Plus there's counterspells and creatures to deal with any issues surrounding too much magic being countered or magic focussed abilities hindered.
+
+___________________________________________
+
+analysis
+
+	red	blue	multi	|checksum
+Creat	3	9	5	|17
+Spell	9	11	1	|21
+				---
+Subtot	12	20	6	|38
+				
+Land	4	8	10	|22
+
+Total	16	28	16	|60
+				---
+________
+
+Total mana costs for the two colours are:
+
+49 red/any colour mana76 blue/any colour mana 
+
+
+From the figures above you can see:
+
+- I currently have 78% blue / 22% red lands
+So of the 22 lands, 78% = 17 blue capable and 5 red capable land cards are present.
+
+- 64%b/36%r mana need
+And therefore, of the 22 lands 64% = 14 blue capable and 8 red capable land cards are needed.
+
+As a result, I have changed the balance to:
+
+22 lands consisting of: 7 red; 5 blue; 2 dual basics and 8 izzet guildgates
+
+Of which;
+1 x +1 life upon entering the battlefield
+6 x draw a card when tapped and one mana paid
+
+This reasoning behind the choices of basic vs. Multi colour vs. Guild gates is that although I have cards that massively benefit from the presence or playing of gates, the gates enter the battlefield tapped - too many of these risks having too little mana available early gam since it might be entering tapped. The basic lands have some special abilities but although additional life is a nice option it only can be used once when entering battle field vs. The ability to draw a card every turn for the cost of effectively only two mana [tapping the land itself plus the cost of one mana for the ability].
+
+___________________________________________
+
+detailed mana curve analysis:
+
+Mana	creat	spell	total	checksum
+cost			
+1	2	3	5
+2	8	1	9
+3	1	7	8
+4	2	4	5	
+5	3	3**	6		
+6	0	1	1
+7	1	1	2
+8	0	1*	1	__
+	17	21	38	+ 22 lands = 60
+
+Due to one mana cost being X, there is a minimum and an unlimited - so the minimum is given below but cost is state as 3 [its the average I find spot on a card when the choice is open across any given game]
+
+*min 6
+**min 4 [two cards of this cost]
+
+as can be seen, the creature mana curve is not very smooth and also very heavy wighted towards early game cards, specifically 2 mana cost small cards - this deck needs creatures for defence / blocking / cannon fodder early on when no spells are in hand to be played,  mana isn't available to counter stuff yet using those spells or mana has been spent during a turn on other things. 
+Also the creature mana curve has a smaller weighting toward big endgame attacks, but since spells are there for general damage and doing defence later on when big creatures need knocking out as well, not so many mid cost creatures are necessary.
+as a result, spells are more evenly distributed in mana cost since numbers present in the deck are greater and hence the spells have a more smooth mana curve.
+
+The overall mana curve is textbook which hopefully is a sign this is a well balanced and good all-round deck that should work.
+
+We shall see if this is so when I try playing with it for the first few test games - I will probably report back with game analyses and any changes I choose to make...
+

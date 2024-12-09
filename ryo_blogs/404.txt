@@ -1,0 +1,1 @@
+∄	U+2204			∄\nexists	THERE DOES NOT EXIST			strike out existential quantifier, same as "¬∃"	

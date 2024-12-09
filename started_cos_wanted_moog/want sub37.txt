@@ -1,0 +1,148 @@
+even very recently i probably woulda tried to convince myself that shelling out £1700 for a moog analogue vco>vcf>vca type eastcoast basic ass architecture hardware keyboard just wasn't really justifiable. here's why i eat my words and admit there's just no two ways about such things def being worth the investment:
+
+there's a few standout moogs that are undeniably just examples of why moog are such enduring name - not just cos 2x[vco]>1x[ladder lpf]>1x[vca]+_2x[eg]. it's the absolute perfection that's been worked in over yrs'n'yrs of tweaking and learning just what range of min/max to set the frequencies that the filter can feed the vca, at what amount of res/gain to get the perfecc mix of low, raw growl thru to rich, harmonicy peaks at high end - but those ones they get just right like that - never come down in price.
+new they all cost. alot. used, you want the gooduns - the subfatty, sub37, etc., you pay.
+
+tbh i would absolutely get a subsequent37
+such perfect example of simple on surface - keys and the core basic controls -  cutoff/res/pitch;levels;eg-times/mod-amounts - but that thing is def the clear product of 60-odd yrs of experience etc., as well as a major effort in getting the exact combo of a ridiculous level of attention to details like (i kinda gess here, but not sure - hand selected 0.01% tol. resistors? at 'x' node in 'y' circuit...? maybe if they use smd, tols aren't such a scam...? but then how do you also keep that subtle variation/non-linearities etc. that contributes to making  analogue stuff what it is? tangent - oop), such that at any setting, it's always kinda the sweetspot compared to an identical patch on even same circuit-schem but modular or va or whatever.
+
+you get what you pay for and that dif between a subsequent37 from moog vs equiv in va, vst, modular, w/e is the experience and team of v. good people's time and effort - not just a label and stuff...
+what i really ultimately respect are odd standout examples of this same thing that aren't milked excessively for cash*:
+
+...
+
+the now soul-destroyingly graceful defunt/abandoned/retired at peak emilie gillet's Mutable Instruments eurorack company "elements" voice module is very much a a shining example of similar results of such legacy influence and hard work combined. this is quite evidently somewhat due emilile gillet's lifetime from kid messing with electronics/synths to learning up as far as university PhD and on, then to hard won experience in real world, as well as studying those who came before, both w.r.t. code/math/electronics, but also just taste in music and love of synth sounds.
+
+the resulting case study i use here emerges notably looking at code for elements - you could do it just via bow/blow/strike sample-source granulated -> waveguide tube/string to excite resonator bank of 64 max bpf -> verb. but no. 
+every single lil aspect:
+- the input contour-eg;
+- the bow/blow/strike timbre n filtering n selction; 
+- the myriad of waveguide non-linearities and interctions with exciter and modal resonator alike;
+- the modal resonator filterbank non-linearities and voicing;
+- the spatial mid-side/mixing/balancing/limiting/etc.; 
+- all the complex cross-modulatuons and interactions, that, _(believe me, i experimented)_, are so deep if you have even one 'off' by a floatingpoint decimal value 0.0001 amount the whole thing just spirals to feedback `*div-by-0/stack-overflow!/bsod-crash/etc. or dies as it can't maintain equilibrium.
+it's a goddamn work of art.
+
+as, or possibly more impressively, the amount of rng to keep not just non-linearities, but even each unit drawing on unique 'serial-id' upon power cycle to minutely randomise every single godamn caluclation performed (bar certain necessary repeatables like C0 tuning is always C0 tuning), results in every single unit ever made being a unique instrument in it's own right. very slight differences in sound, behaviour/response to i/o/cv _and_ interaction with ther modules etc. _as well as_ the unit's response to performance controls or patching.
+further, without all that reigned in by very clever use of hysteresis etc. to keep that magic equilibium from collapsing due to all the non-linearities and random being excessive or too much  mess of noise/distortion/detune/etc., it would just be useless at probably anything but total zero power cycle/original factory reset state.
+
+the final genius - rather than a wall of controls for e.g.
+- the exciter [eg's]/[lvl-mix],
+- bow[eg], bow source-sample settings;
+- bow-source granulation parameters;
+- bow-timbre filter/etc. settings;
+- similar for the myriad of details relevant to the waveguide sections;
+- and the modal resonator;
+- the modal resonator interactions with exciter section;
+- the various ways harmonic-content/balance/interplay of how much bowing causes certain modes to ring out as longer, low-freq  separated implementation vs. stike from a plectrum exciter-source element pulling out more, denser-spread modes much of more complex, rich, high-freq yet inharmonic content...
+well - controls for all that could fill a control panel beyond the scale of a 24Ux85hp case of euro even without cv and stuff.
+
+instead:
+- neat section for exciter-contour shaping;
+- 3x exciter mix/timbre/etc. in 5 knobs;
+- resonator condensed to 6 timbre controls;
+- and then 4 for ptich/level/spatial/fm;
+- add attenuverts for everythng as mini-5mm since set'n'forget:
+you got yourself what on a computer usually takes a full screen of knobs/sliders/buttons and 3-4 alt screens, each with dropdowns to select for multiple menus of the variations of all those control interactions etc., on the panel of elements becomes simple, accessible and musical.
+
+it's not the simplifying alone - as with good moogs etc., it's that immense investment of time and experience to get each little minimum/maximum limit for every control and interaction perfect, such that it's a balance of damn near always sweetspot and no deadzone at maximum range of creative possibility for soudn design.
+previous attempts even in software inolving physical modelling employing stuff like granular exciter souces, advnced non-linear wavegide and modal resonators have generally proven inaccessible to many due straight up complexity alone.
+
+previous hardware implemetaions likewise to a degree (such things requiring  advanced synthesis implementations and computinggenerally only available in bi expenseive flagship synts, worstations orreal scary monsters from peope like korg/yamaha/etc.) and also - half the time the results just are'nt commonly musically useful or highly playble live because there are so many too many possible control parameters etc. to assing and adjust that even with macros etc. to assign  easing top-level performace control, since they rely on user programming and hence having  the experience/time investemnt of a master individually, case-by-case to get such good results.
+
+by doing the work and permanenty setting the 'macros' as simply: "here's elements. this is your interface, turn knobs, play." - it's not dumbing down or taking away user control (after all, the damn thing has 25+ knobs and cv-controls etc.), since the possible interactions/combos/etc. are near infinite ayways - otoh, the user is left with all the previously horrific-to-most hassles hidden behind the panel in the hardcoded setup-patching/macros etc.
+
+...
+
+i should make clear, it was an absolute nightmare of learning to reach the level sufficient to grasp the true art and depth of skill that it took to really get the subtle genius of some of the math/coding/synthesis/etc. behind elements. there's rally not many things out there either of such  degree of availability, near 'public property' due age/opensource status etc., of the 'classic enduring example of near perfection' level that you can easily dig into and get to see truly,  deeply and exactly every minute detail of what's going on under-the-hood and hence apppreciate why they are special/unique/enduring items.
+
+early serge/moog/buchla, all the mutable stuff, some doepfer - examples exist, but too much is buried in proprietary/industrial espionage fearing/paywalled/gatekept crap etc.
+
+god bless the fact that gods of synth design like bob moog, serge tcherepin, emilie gillet etc., even compared to damn near any other industry i can think of, for the most part, are/were quite so astonishingly generous and open with their knowledge/experience/investment of time/etc. and not just closed books.
+
+🙂
+
+fascintingly there's a fair few similar souls out there immensely undersung - not just the ones you might immediately think of i've not mentioned like chowning for example, but e.e. chownings colleague and antecendent at ccrma , julius o. smith
+look up his books, all online, all free on stanford ccrma website.
+by the time you read all 4 main books you'll have covered near 85-90% of synthesis methods used, analogue/digital, code/math, physics/electronics, etc.
+
+it does require parallel learning to sometimes post-doc math and some scary physics, but equally it takes you right back to basic newtonian physics of a sinewave travelling along a single dimension medim til teminte kinda fundamentals
+it's so valuable not just for designers/manufactuures, but also just to inform new ways of using gear - patching, programming, sound design, production, scoring to take advantage of how things will behave etc.
+...
+or you could just trust the masters, invest in a sub37 and tweak knobs til you get it to sing
+: D
+
+
+*no, i actually don't think a sub37 is milking you for cash - they give you hella monys worth for what you pay - my point is more that the genius of mutable instruments business model is finding a way to draw on previous decades of learning and experience, i.e. standing-on-shoulders-of-giants, and emilie gillet's life's work, and yet offer it in a format the partly once the work was done can be reproduced endlessly near free - the magic of coded digital synths!
+the combo of high quality components, professionally machined'n'manufactured hardware, and the genius code etc., allowed something that if was a pure hardware equiv. would cost, like moog gear etc., as is fair, $$$$'s;
+instead by having a digital core and mostly very mass-producible/standardised hardware but particularly, taking advantage of tech like the arm cortex M cellphone processors that by wonder of moore's law/miniaturisation etc., result in computing power of a high end gaming pc from a few yrs back in an ic costing now barely $15 piecewise, yet have multiple core, dedicated DSP capabilities, even back in 2012-13 32bit f.p. math and so could do the massive depths of nonlinear beauty and unique that is elements at 32khz 16bit Audio acquisition and restitution.**
+
+**see separate article all about elements whenever i finally write it. or series of articles... :s
+
+
+
+[i personally pick out sub37 equally as such gas for cos:
+i) it's all the above wordspew, but with midi/usb/etc. - and that works. right. i.e. they nailed it.
+ii) i heard stephan bodzin play "singularity" on his boileroom set 7 yrss ago with that wildass controller, that performance with the same sub37 bass/melody but as progresssive and much dancier, harder, techier live... 🤯  ]
+
+
+for ref:
+⁠share-their-tunes⁠
+https://youtu.be/Hv_oF2ol_Ks?t=118 [202309080900] _(timecoded youtbe link for stephan bodzin boiler room performance)_
+
+...
+
+_(only needs 10secs playback to go 'ohhhhh...' 💡  - but i bet once you hit play, even if you know song, ven if you know the particular performance - you'll probably let it play a lil : D. i've had it running 34mins ongoing as i type now and damnnnnnn... 🥲 )_
+
+although it's a timecoded link for a quick listen/remind if you know the track, and technically is only 118secs in anyways - you might as well listen from start for full impact...
+
+:')
+
+
+`The Moog ladder filter isn't a mathematically ideal 24dB/octave lowpass filter, it also posesses a rather interesting characteristic in that as you increase the resonance, the passband amplitude decreases. Most other filters just increase the amplitude around the cutoff frequency as you increase resonance instead of also lowering the passband, so at high resonance values, it acts like a resonant lowpass filter combined with a shelving eq subtly cutting the sound below the cutoff frequency.
+
+This has a marked effect on the resulting sound, and is especially obvious in bass patches. It is somewhat ironic that the famous "Moog bass" sound has less bass frequency content, but it's possible that the subtle cut of subharmonics may make the fundamentals and partials closer to the filter's cutoff more prominent in a mix, so it ends up sounding subjectively better.`
+
+https://www.reddit.com/r/synthesizers/comments/5ywbe2/comment/detqoq4/?utm_source=share&utm_medium=web2x&context=3 [accessesed 202309080910]
+
+
+#####
+
+
+ 
+ChatGPT said:
+ChatGPT
+Moog, Mutable Instruments, and the Art of a Good Synthesizer
+
+Not too long ago, I would’ve told myself there was no way to justify spending £1700 on a Moog synth, no matter how revered the brand or how iconic its analog design might be. But now? I’m eating my words and fully admit that sometimes, these instruments are worth every penny. Here’s why.
+
+Why Moog Synths Stand Out
+Moog synthesizers represent a legacy of refinement. With flagship models like the Sub Phatty and the Subsequent 37, Moog demonstrates that a classic setup—dual VCOs, a ladder low-pass filter, and a VCA with two EGs—can feel incredibly rich and complex. Sure, there’s a price tag to match, but with that comes decades of expertise: each component and every frequency range has been dialed in to perfection. The result is synths that provide a raw, powerful growl in the low end, smooth and expressive highs, and a “just right” balance of character and playability that’s rare to find.
+
+One reason Moog has lasted so long is that, unlike other analog options or even virtual analogs (VAs) and modular setups, the Moog sound isn’t just about the circuits. It’s the sum of carefully honed details that ensure the synth sounds remarkable at any setting. Moog’s engineering team consistently nails that magic balance: whether it’s hand-picked 0.01% tolerance resistors, expertly calibrated gain staging, or meticulously tuned resonances. This isn't just branding—it’s the result of relentless R&D and obsessive attention to detail.
+
+Moog isn’t just putting out synths with a high price for the sake of exclusivity. Their products reflect a level of dedication that you won’t find replicated in VA plugins or more generic analog clones. And while their instruments might demand a higher investment, that investment pays off with synths that deliver incredible sound, durability, and the kind of character that becomes a staple in your creative setup.
+
+The Genius of Mutable Instruments’ “Elements”
+While Moog epitomizes analog refinement, Mutable Instruments' Elements module exemplifies a modern approach to synth design that draws from similar principles of perfectionism and innovation. Mutable’s founder, Émilie Gillet, took a truly different path. With an extensive background in electronics and sound synthesis, Gillet crafted something uniquely musical and technically astonishing in Elements. It’s a eurorack module that doesn’t just mimic a physical instrument but creates an intricate world of sound through exquisite digital modeling.
+
+The design of Elements doesn’t simply stop at simulating a granular exciter or a bank of resonating filters; it goes beyond by making each small detail in the interaction of parameters vital to the final sound. Every piece of the code—from the envelope shaping to the interactions between waveguides and resonators—is so carefully set that even the slightest shift in a parameter can throw the entire system out of balance. But when it works (which it always does, thanks to painstaking engineering), the sound is alive. Each unit is subtly unique, thanks to randomization processes that make each power-up just a bit different from the last, creating instruments that feel both digital and organic.
+
+Instead of giving users a control panel with an overwhelming number of parameters, Elements distills this complexity into a thoughtful interface. With just a few knobs for timbre, spatialization, and exciter settings, you can access an astonishing range of sound without wading through endless sub-menus or macros. It’s an interface that allows deep exploration without compromising ease of use, a rare combination that feels like magic in eurorack.
+
+The Importance of Depth and Simplicity in Synth Design
+Both Moog and Mutable Instruments have shown that the essence of a good synthesizer isn’t about packing in every feature but instead about balancing depth with accessibility. Elements could have been cluttered with control options for each waveguide and filter resonance, but Gillet made the brilliant choice to condense these into a set of intuitive, performance-ready knobs. This isn’t “dumbing down” the instrument; it’s the art of designing for musicality, where the user can immediately explore sound without endless setup.
+
+Moog’s Subsequent 37 follows a similar philosophy. With a clear, straightforward control panel, it gives the user immediate access to filters, envelopes, and modulation while keeping Moog’s characteristic richness and responsiveness intact. The tactile interface, combined with MIDI and USB integration, creates an instrument that’s both traditional and modern, ready to handle a wide range of sounds from thick, bass-heavy grooves to intricate leads.
+
+The Legacy of Synth Innovators
+Synth designers like Bob Moog, Serge Tcherepnin, and Émilie Gillet have not only left us remarkable instruments but also paved the way for a more open and collaborative approach to synthesis. Their contributions have gone beyond proprietary designs to influence generations of synth enthusiasts, designers, and musicians. Gillet, for instance, has made her designs open-source, allowing others to learn, adapt, and build on her ideas—a generosity that’s rare in an age where intellectual property is often heavily guarded.
+
+Exploring New Horizons in Synthesizer Knowledge
+For those inspired to go deeper, there’s a wealth of knowledge available. Take, for example, Julius O. Smith, a pivotal figure in physical modeling synthesis whose books are available for free on Stanford’s CCRMA website. Diving into his works can give you a comprehensive understanding of everything from the physics of sound to advanced digital synthesis techniques. It’s a commitment to learning that can transform how you approach sound design, whether you’re tweaking patches on a Moog or programming your own instruments.
+
+Or, if you prefer to trust in the mastery of those who have already paved the way, just grab a Moog Subsequent 37, dive in, and explore. You’ll discover that a truly great synthesizer, whether it’s a vintage analog or a digital marvel like Mutable’s Elements, offers a balance of accessibility and depth that’s endlessly rewarding.
+
+
+
+

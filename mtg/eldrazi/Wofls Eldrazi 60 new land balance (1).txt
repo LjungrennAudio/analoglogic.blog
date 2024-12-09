@@ -1,0 +1,67 @@
+Wofl's Moist Ulamog worshipper's deck
+
+
+Main
+
+
+18 Lands
+16 Island		[B]
+2 Strip Mine		[Cls]
+	
+4 Artefact								A	Cls	B
+4 Sol Ring		A [Cls Cls]			4		4	0	0
+
+1 Enchantment		
+1 Eldrazi Conscription	A A A A A A A A			8		8	0	0
+
+12 Instants		
+4 Abstruse Interference	A A B	[Cls]			12		8	0	4	
+4 Flash			A B				8		4	0	4
+2 Spell Shrivel		A A B				6		4	0	2
+1 Void Shatter		A B B				3		1	0	2
+1 Warping Wail		A Cls	[Cls]			2	31	1	1	0
+	
+6 Sorceries		
+2 Ponder		B				2		0	0	2
+2 Gitaxian Probe	\0\ [B or 2 life]		2	/4life	0	0	22 Slip Through Space	B				2	6	0	0	2
+
+19 Creatures		
+1 Pathrazer of Ulamog	A A A A A A A A A A A		11		11	0	0
+1 Thought-Knot Seer	A A A Cls			4		3	1	0
+1 Ulamog's Reclaimer	A A A A B			5		4	0	1
+1 Tide Drifter		A B				2		1	0	12 Murk Strider		A A A B				8		6	0	21 Benthic Infiltrator	A A B				3		2	0	1
+1 Eldrazi Skyspawner	A A B	[Cls]			3		2	0	1
+2 Oracle of Dust	A A A A B			10		8	0	2
+2 Blinding Drone	A B				4		2	0	2
+3 Salvage Drone		B				3		0	0	3
+4 Cultivator Drone	A A B	[Cls]			12	65	8	0	4							tot	114	77	2	35	114															Math
+
+Tot
+Avail	B	Cls
+18	16lands	2lands ( + 8sol ring + 4cult drn + 5opt from spell)
+100%	89%	11% ( = 16/33 ... = 19/33
+			48%   ...   51% ) chksum 99% [given riding err. ]
+
+
+
+Needed:
+Tot	B	cls	A
+114	35	2	77	114 chksum	
+	31%	1.75%	68%	chksum 100.75% [good enough for jazz given rounding err. ]	
+
+
+Needed (both col + any). current
+Tot		B		Cls
+114 + 77 = 191	35 + 77 = 112	2 + 77 = 79	112 + 79 = 191 chksum 100%	
+191/191		112 / 191	79 / 191
+100%		59%		41%		chksum 59 + 41 = 100%
+
+compare
+Avail tot	B	Cls
+100%		48%	51%		
+Need tot	B	Cls
+100%		59%	41%
+
+Appears imbalanced even with col + any combined figures compared - but in fact since tho only 2 cards require colourless at only one specified each, in fact the chances of getting a colourless mana when needed if only having 2 supplied in the whole deck would make the cards near impossible to play so a siginofcant imbalance needs to be present to allow for this.
+
+	

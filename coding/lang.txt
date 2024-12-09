@@ -1,0 +1,24 @@
+concept:
+coding language
+enter as unicode glyphs
+uses analogue logic
+copes with didi and analogue
+works euro volts
+some non-lins?
+
+type boolean function as glyph string, ente numbers for initial conditions? plus truth table.
+out is approx?
+
+e.g.:
+
+to design serge vcs
+
+trig -> s latch -> slew -> out
+^    ->	r	|> cv
+|     0v+  -<<<<<<<<v>>>>>+   -8v
+|	comp	|  bipol   comp
+----------|-----><- mix	
+
+whats point.
+
+forget.

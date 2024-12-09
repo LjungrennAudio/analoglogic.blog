@@ -1,0 +1,45 @@
+Main
+1 [JMP] Aegis Turtle
+1 [GRN] Beamsplitter Mage
+1 [RNA] Benthic Biomancer
+1 [GRN] Cosmotronic Wave
+1 [GRN] Crackling Drake
+1 [KHM] Cyclone Summoner
+1 [HOU] Desert of the Fervent
+1 [GRN] Dimir Informant
+1 [M19] Dwindle
+1 [RNA] Electrodominance
+1 [GRN] Electrostatic Field
+1 [RNA] Essence Capture
+3 [C18] Forgotten Cave
+1 [RNA] Gates Ablaze
+1 [GRN] Goblin Electromancer
+1 [GRN] Gravitic Punch
+2 [GRN] Guild Summit
+1 [RNA] Immolation Shaman
+1 [GRN] Ionize
+7 Island
+8 [GRN] Izzet Guildgate
+1 [GRN] League Guildmage
+1 [C18] Lonely Sandbar
+1 [HOU] Manticore Eternal
+1 [RNA] Mass Manipulation
+1 [RIX] Mutiny
+1 [GRN] Narcomoeba
+1 [EMN] Niblis of Frost
+1 [GRN] Omnispell Adept
+1 [GRN] Quasiduplicate
+1 [GRN] Radical Idea
+1 [ZNR] Relic Robber
+1 [GRN] Risk Factor
+1 [RNA] Rubble Reading
+1 [SOI] Skin Invasion // Skin Shedder
+1 [EMN] Spontaneous Mutation
+1 [GRN] Steam Vents
+1 [C19] Stratus Dancer
+1 [FRF] Swiftwater Cliffs
+1 [C15] Synthetic Destiny
+1 [DOM] The Mirari Conjecture
+1 [RNA] Thought Collapse
+1 [IKO] Voracious Greatshark
+1 [GRN] Wall of Mist

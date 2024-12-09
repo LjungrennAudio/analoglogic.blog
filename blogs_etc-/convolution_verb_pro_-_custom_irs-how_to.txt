@@ -1,0 +1,24 @@
+
+adding custom IRs to ableton Convolution Reverb Pro.
+
+format:
+11025khz
+16bit
+mono
+
+
+place your IRs directly into Ableton's default IR folder:
+
+`C:\Users\phine\Documents\Ableton\Factory Packs\Convolution Reverb\IRs\[your folder here]\`
+e.g.
+`C:\Users\phine\Documents\Ableton\Factory Packs\Convolution Reverb\IRs\12 Vintage\`
+
+Folder Structure and File Placement:
+**Avoid Nested Folders**
+
+Convolution Reverb Pro does not scan subfolders within your user folder.
+Action: Move your IR files directly into the user created folder without any additional subfolders.
+
+Refresh the IR List:
+
+Action: Close and reopen Convolution Reverb Pro to refresh its file index.

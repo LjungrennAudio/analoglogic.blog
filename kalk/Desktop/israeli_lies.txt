@@ -1,0 +1,14 @@
+Krytrons and their variations are manufactured by Perkin-Elmer Components and used in a variety of industrial and military devices. They are best known for their use in igniting exploding-bridgewire and slapper detonators in nuclear weapons, their original application, either directly (sprytrons are usually used for this) or by triggering higher-power spark gap switches.
+
+Export restrictions in the United States
+Because of their potential for use as triggers of nuclear weapons, the export of krytrons is tightly regulated in the United States. A number of cases involving the smuggling or attempted smuggling of krytrons have been reported, as countries seeking to develop nuclear weapons have attempted to procure supplies of krytrons for igniting their weapons. One prominent case was that of Richard Kelly Smyth, who allegedly helped Arnon Milchan smuggle 15 orders of 810 krytrons total to Israel in the early 1980s.[10] 469 of these were returned to the United States, with Israel claiming the remaining 341 were "destroyed in testing".[10]
+
+Krytrons and sprytrons handling voltages of 2,500 V and above, currents of 100 A and above, and switching delays of under 10 microseconds are typically suitable for nuclear weapon triggers.[11]
+
+[irrelevant but cool:
+Further developments
+Optically triggered solid-state switches based on diamond are a potential candidate for krytron replacement.[14] ]
+
+found whilst reading about tubes cos i like my tube modules...
+
+https://en.wikipedia.org/wiki/Krytron (accessed 22/09/23 16:11)

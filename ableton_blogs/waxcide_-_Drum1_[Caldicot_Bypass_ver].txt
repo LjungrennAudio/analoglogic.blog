@@ -1,0 +1,47 @@
+it was made with like 20 low pass filters doing subtle cutting off high freqencies everywhere, some in the feedback loops of the delays giving those trippy dubby resonant warm low sounds
+
+there's 5 channel convolution reverb [hat's where some loon records a mic in a dry flat environ, subtracts the sound profile from a recording in a space and then you run the sound through that image - i.e. they are convolved together so you get the reverb or whatever of the space.] 
+[[usually used for amp/spkr/cab setups for guitars e.g. celestion 12"s in a 4x cab with such n such fender amp @ grill/1"/1 foot - then you subtract the mapping of the dry sm58 mic and when you run your guitar signal through the convolution plugin you get perfect sound of that amp/cab/spkr combo - neat! and if you adjust vols. of the three chans you move fro next to grille to 1foot away - dead clever!] 
+
+i took 5 mic convolutions spaced in a big empty room, set the dif sounds like each individual drum hit or synth or sample with dif amounts of the 5 so its like they in dif places - like say less near most mid less far or most near least far in curves, or going more n more panned l/r or something to get placements round the 'room', then added eq's so as you et further there's less n less low freqs - inverse of normal reality so it's like a weird shimmer verb, then finally the further away the more to the sides and less middle is spaced by using special stereo imaging bit lie panning both ways at once, subtracting opposite vol from panned inv. - gives impression of sound spreading out in bigger wider space further away 
+...
+there's like 7 or 8 real expensive reel2reel tape emulators that have dif 'creamy' tape formulations, slap-back 60s delay stuff, analogue valve pre-amps, magnetic flux adjust, bias adjust, wer of the tape thinning, dirty heads/jitter/wow/flutter/wobble/grease on the various bits, over-bias, hysteresis stuff - you name it 
+there's vintage compressor emlations doing gle compression on channels with eqs before and omps in between/before n after the various tapes and saturation stuff
+there's a final limiter that adds subtle colour by giving very slight odd harmonic distortions [for some reason human ear/brain likes odd numbered harmonics but not even  when it comes to distortions] at end 
+so it all got like 10000 layers of 0.0001% subtle nonlinearities that add up to a real gorgeous sp0acey dubby warm drippy track
+hehehehe
+that was an essay
+
+[[oooh - wasn't that all v technical]]
+
+
+#####
+
+
+Crafting Warm, Dubby Sounds in Ableton Live 12 Suite: A Deep Dive
+Creating a rich, dubby atmosphere in Ableton Live 12 Suite involves layering subtle effects, creating realistic spatial depth, and embracing analog warmth through nonlinearities. Here’s a look at how I achieve those deep, resonant sounds—packed with warmth, space, and a touch of vintage character.
+
+1. Sculpting Warmth with Low-Pass Filters and Delay Feedback Loops
+To get that rich, immersive sound, I start by layering multiple low-pass filters across various tracks. Here’s how it works:
+
+Subtle High-Frequency Cuts: With around 20 low-pass filters doing light cuts, I’m rolling off high frequencies everywhere. This keeps the sound soft and warm, leaving space for bass-heavy elements to shine.
+Filters in Delay Feedback Loops: Placing low-pass filters inside delay feedback loops creates those resonant, dubby echoes that feel thick and spacious. The delay feedback builds up warmth as each echo passes through the filter, giving the low end a warm, trippy vibe.
+2. Convolution Reverb for Realistic Space
+One of my favorite techniques for adding depth is using convolution reverb with multiple impulse responses (IRs). Convolution reverb works by capturing the acoustics of a real space and then “convolving” or combining your sound with that space’s reverb characteristics. Here’s a breakdown of how I use it:
+
+Five-Channel Convolution Reverb: I load five different IRs recorded in a large, empty room. By assigning different amounts of reverb from each IR to individual elements—like drums, synths, or samples—I can make each sound feel like it’s coming from a different part of the room.
+Placing Elements in Virtual Space: By adjusting the blend of each IR, I can control how close or far each sound appears. For example, a drum hit might feel “closer” with more of the near IR and less of the distant ones, while a synth pad could feel far and diffuse with more distant IR.
+Unconventional EQ Adjustments: Normally, you’d expect sounds to lose high frequencies the further they are from the listener. Here, I inverse this by rolling off low frequencies as the sound gets “further away,” creating an ethereal, shimmering reverb effect.
+Stereo Imaging Tricks: By using specialized stereo imaging techniques, I spread the further-away sounds toward the sides of the stereo field, giving the impression that they’re in a wide, open space.
+3. Adding Vintage Tape Warmth with Reel-to-Reel Emulators
+For that creamy, analog warmth, I stack up several reel-to-reel tape emulators:
+
+Tape Characteristics: Each emulator is set to emulate different aspects of tape, like “slap-back” delay from the 60s, magnetic flux adjustments, and varying tape biases. Each layer adds its own slight imperfection—like dirty tape heads, subtle wobble, or wow and flutter—that combines into a smooth, vintage warmth.
+Over-Bias and Hysteresis Effects: These add subtle but important textures that make each layer feel unique and imperfect, capturing the unpredictable character of real tape machines.
+4. Dynamic Control with Vintage Compressor Emulations
+I use vintage compressor emulations to add gentle “glue” compression across the channels:
+
+EQs in Between Compressor Stages: Placing EQs before, between, and after the compressors and tape emulations shapes the tone while maintaining control over dynamics. This order emphasizes the low end while keeping the overall sound balanced.
+Adding Harmonic Color: Compressors and limiters with slight odd-harmonic distortion add subtle warmth. Interestingly, the human ear tends to find odd harmonics more pleasing than even ones when it comes to distortion, so this adds a subtle richness that enhances the whole mix.
+The Final Product: A Warm, Spacious Soundscape
+With all these layers—low-pass filters, convolution reverbs, reel-to-reel tape emulators, compressors, and limiters—I end up with a track that feels drenched in warm, dubby sound. Each layer adds an almost imperceptible 0.0001% nonlinearity, but together, they create a lush, detailed soundscape that’s immersive and captivating. This subtle layering process lets me sculpt a track with a deep, spacious character, like a sonic journey through echoes and warmth.

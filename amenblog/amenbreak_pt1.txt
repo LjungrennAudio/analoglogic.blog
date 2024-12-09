@@ -1,0 +1,61 @@
+plagiarised from:
+https://en.wikipedia.org/wiki/Amen_break [accessed 202411101423]
+
+
+The Amen break is a renowned drum break that has been widely sampled in popular music across various genres. It originates from the 1969 track "Amen, Brother" by the American soul group the Winstons, which was released as the B-side of their single "Color Him Father." This drum break, performed by Gregory Coleman, lasts for seven seconds and has significantly influenced music production.
+
+With the rise of hip hop in the 1980s, the Amen break was incorporated into influential tracks such as "Straight Outta Compton" by N.W.A and "Keep It Going Now" by Rob Base & DJ E-Z Rock. In the 1990s, it became a staple in drum and bass and jungle music. Its extensive use has led to its presence in thousands of tracks across various genres, making it one of the most sampled recordings in music history.
+
+The Winstons did not receive any royalties for the sampling of the Amen break. The bandleader, Richard Lewis Spencer, was unaware of its widespread use until 1996, by which time the statute of limitations for copyright infringement had expired. Initially, he condemned its unauthorized use as plagiarism but later expressed that he found it flattering. He noted that Gregory Coleman, who died homeless and destitute in 2006, was likely unaware of the profound impact he had made on music.
+
+At approximately 1 minute and 26 seconds into "Amen, Brother," the other musicians pause, allowing drummer Gregory Coleman to perform a four-bar drum break lasting seven seconds. In the first two bars, Coleman maintains the previous beat. In the third bar, he introduces a delayed snare hit, adding a unique rhythmic variation. In the fourth bar, he leaves the first beat silent, then plays a syncopated pattern and an early crash cymbal, creating a dynamic and engaging sequence.
+
+The drum break was added to extend the length of the track, which was initially too short when featuring only the main riff. Richard Lewis Spencer claimed he directed the inclusion of the break, but Phil Tolotta, the only other surviving member of the band as of 2015, attributed the creation of the break solely to Coleman.
+
+To sample and manipulate the Amen break for your own music production, follow these detailed instructions:
+
+Select the Desired Audio Section: Begin by choosing the approximate section of the audio you wish to sample. Ensure it contains an entire loop of the material, ideally from one zero-crossing point to the next on the beat. This helps in creating a seamless loop without clicks or pops.
+
+Crop Unnecessary Audio: Trim off the rest of the song to focus solely on the loop, making the file size more manageable. If your CPU resources are limited, consider using the [RAM] button (or equivalent function in your software) to load the sample into RAM, reducing processing strain.
+
+Adjust Pre-Trimmed Audio: If the audio doesn't loop smoothly from the start of the section, you'll need to adjust it. This might involve fine-tuning the start and end points or adjusting the tempo to ensure a perfect loop.
+
+Bounce the Audio: Render or "bounce" the looped section so that it starts precisely at the beginning of the new audio file. This ensures that playback will loop seamlessly from the start.
+
+Final Length Cropping: After bouncing, crop the audio to the final desired length. This step refines the loop to match the specific duration you need for your project.
+
+Complete the Sample Loop: The loop is now prepared and ready for further processing or integration into your project.
+
+Slice to MIDI: Use the "Slice to MIDI" function in your digital audio workstation (DAW) to convert the audio loop into a MIDI sequence. This allows for greater flexibility in editing and manipulating individual drum hits.
+
+Prepare for Slicing: Before slicing, select appropriate transient detection settings to ensure that each drum hit is accurately identified. Adjust quantization settings to align the slices with the tempo grid if necessary.
+
+Reference the Original Sequence: Compare the sliced MIDI sequence with the original audio to verify accuracy. This helps in maintaining the integrity of the rhythm and feel of the original break.
+
+Review the Sliced Loop: Play back the new sequenced loop resulting from the slice to MIDI process. Ensure that it replicates the original groove and make adjustments as needed.
+
+Adjust Slice Settings for Loop A: Fine-tune the slice parameters for Loop A to suit your taste. This might involve adjusting the attack and release times, velocity sensitivity, or applying effects to individual slices.
+
+Rearrange MIDI to Create Loop B: Copy the MIDI sequence and rearrange the notes to generate Loop B. Experiment with different patterns to create a new variation while still retaining the essence of the original break.
+
+Duplicate the Drum Loop: Create a duplicate of the drum loop on a new channel. This allows you to work on Loop B independently without affecting Loop A.
+
+Rearrange for MIDI Loop B: On the new channel, further rearrange the MIDI notes to produce MIDI Loop B. Explore creative possibilities by altering the rhythm, timing, or adding new elements.
+
+Group the Elements: Organize your drum loops by grouping related channels together. This helps manage your project more efficiently and allows for collective processing of the grouped elements.
+
+Create a Break Pair Group: Form a group specifically for the paired breaks (Loop A and Loop B). This makes it easier to apply group effects and maintain consistency between the loops.
+
+Trim Sequenced Loop 2: Adjust the length of Sequenced Loop 2 to create a different loop length. This variation can add interest and prevent the track from sounding repetitive.
+
+Rearrange Loop 2: Modify Loop 2 by rearranging the MIDI notes or applying different effects. This step enhances the diversity of your drum patterns within the track.
+
+Set Up a Group Breaks Channel: Establish a dedicated channel for group breaks. This centralizes control over all your breakbeat elements and simplifies mixing and processing.
+
+Apply Chopper Effects: Utilize chopper effects or similar tools to slice and manipulate the loops rhythmically. This can create stuttering effects, gated rhythms, or other intricate patterns.
+
+Adjust Master Output Settings: Fine-tune the master output settings to achieve the desired overall sound. This includes adjusting levels, EQ, compression, and adding any master effects that enhance the final mix.
+
+Export the Final Product: Once you are satisfied with the arrangement and sound, export your track. Your sampled and manipulated Amen break is now ready for use in your music production.
+
+By meticulously following these steps, you can effectively sample, edit, and incorporate the iconic Amen break into your music projects. This process not only pays homage to a pivotal piece of music history but also allows you to creatively explore and contribute to the legacy of one of the most influential drum breaks ever recorded.

@@ -1,0 +1,121 @@
+ableton live 12 suite revealed:
+
+beat repeat.
+
+
+yup, at long last i'm getting round to the undersung, underused and much underexplained 'beat repeat';
+
+this fantastically powerful effect is very capable of producing an immense variety of different results from what is actually a much simpler control set than appears at first glance, so panic no longer as i break it down such that you'll never again be baffled by it's mysteries and instead find yourself diving into the world of slicing, gating, stutters, pitchdrops, fadeouts, filtersweep edits and other rhythmic wonders;
+
+so to start things off easy, let's break down the main controls into two sets of groupings:
+
+our first highlighted groups are the rhythmic settings, those that control
+- the pattern the repeats occur in marked in magenta; and,
+- the probability of various events occuring in lime.
+
+then we have on the second screenshot the displays and controls for:
+- the main overview in green,
+- filter section in red,
+- the pitch section in yellow; and,
+- the volume section in purple.
+
+let's now use our next screenshot to actually explain how these various sections work and interact:
+
+the main pattern section occupies the majority of the overview display;
+- [interval setting] the main division applied to the incoming audio - when combined with the
+- [grid setting], these together set the actual resolution of the segments the audio is sliced into - i.e. the interval and the grid combine to act as a granularity setting overall.
+- the [gate] sets the number of segments at the resolution set by [interval] and [grid] to give a number of silenced segments, the place in the chain of segments set by the
+- [offset] control which pushes the start/end of the audible segments and the silence section to the right, wrapping round until the original point is reached.
+
+the probability controls then set the chance of this incoming audio being repeated/stuttered [chance], from never (0%) to (100%) every time it loops through the time set by the [interval] and [grid] controls, e.g. 1/4 beats of a bar x 1/32th notes giving 8 x divisions of a 4/4bar. the [no trpl] button ensures no triplet occurrences of the repeats happen when engaged, i.e. ignores any incoming triplets forcing repeats to binary divisions only.
+the [variation] control sets how many different variations of the actual set pattern occur when the [chance] setting dictates a pattern of repeats occur. finally, control of the section [variation]s are set by a dropdown below the knob, allowing choice of either variations [triggere]d by the grid settings causing repeats, regular 1/4; 1/8; or 1/16th divisions of the overall global time signature or an [auto] setting which engages variations to occur every single repeat, resulting in the most complex possible patterns.
+
+the [pitch] setting: dictates the total shift in pitch applied to the repeated sounds in semitones up to one octave and the [pitch decay] setting how much each successive repeat is lower than the previous to create a pitchdrop effect. n.b. pitchshift is achieved by lengthening segments with but not making any adjustment for length change resulting in some weird effects at higher values.
+
+the filter section: a simple bandpass with adjustable center and q applied to out put sound of the repeated effect.
+
+the volume section has:
+- an overall initial gain setting [volume] which can set the initial repeat to start anywhere from 6dB boosted to -inf silence.
+- a [decay] setting to fade out successive repeats to produce a trailing off effect; and,
+- a choice of, via radio buttons either [mix] mode, blending the og and effected signals, [ins] mode muting og signal only when repeats are playing and a [gate] mode, passing only repetitions - useful the same as setting an effect to 'wet' only when using as a send effect.
+
+
+finally there's a piano roll shot of the effective output when there's variations in number, division, offset and chance etc. of repeats along with examples of pitch shift/drop, filtering and initial/decaying volume variations.
+
+by choosing different combinations of these settings you should be able to achieve anything from quick'n'easy stutter edits, aphex twin/autechre style rhythmic carnage, subtle filter or volume fades and ghosts, or simple echoes that act like lil fills n breaks!
+
+
+#####
+
+
+Ableton Live 12 Suite: Mastering Beat Repeat
+
+Welcome to my guide on one of Ableton Live's most versatile yet underappreciated effects: Beat Repeat.
+
+This powerful tool can produce an incredible range of effects—from slicing and gating to stutters, pitch drops, fades, and filter sweeps. Its controls may seem complex at first glance, but with a little guidance, you'll be ready to create everything from subtle rhythmic enhancements to wild, glitchy effects.
+
+Let’s break down Beat Repeat’s main controls into intuitive sections and look at how each can shape your sound.
+
+The Core Controls
+We'll group Beat Repeat’s controls into two main categories for easier navigation:
+
+Rhythmic Controls:
+
+Pattern Controls – These set the rhythm of the repeats.
+Probability Controls – These determine how often effects will trigger.
+Processing Controls:
+
+Main Overview – The master settings for Beat Repeat.
+Filter Section – Shape the sound of the repeats with bandpass filtering.
+Pitch Section – Control pitch changes in the repeats.
+Volume Section – Control the dynamics and blending of repeats.
+Exploring the Rhythmic Controls
+In the main Pattern section, you’ll find the heart of Beat Repeat’s timing and probability settings. Here’s how each part works:
+
+Interval: Sets the primary time division for repeats. Combine it with the Grid control to determine the length and resolution of the repeated audio slices.
+Grid: Defines the granularity of slices within each interval, allowing for precise control over how finely the audio is divided.
+Gate: Controls how many segments are active within each interval, effectively silencing certain segments.
+Offset: Shifts the start point of the repeats along the timeline, moving the repeats forward or backward within the interval.
+The Probability section brings unpredictability to your repeats:
+
+Chance: Controls how likely a repeat is to trigger. Set from 0% (never) to 100% (every time).
+No Triplets: Locks the repeats to binary subdivisions, avoiding triplet-based rhythms.
+Variation: Introduces variations in repeat patterns. When active, Beat Repeat will change the pattern of repeats, creating more dynamic rhythmic movement. Select how often variations occur, using options like 1/4, 1/8, or Auto for maximum unpredictability.
+Processing Controls in Depth
+Now, let’s look at how Beat Repeat shapes the sound of each repeat through filtering, pitch, and volume.
+
+Pitch Section
+Adjust the pitch of repeats for more dramatic effects:
+
+Pitch: Changes the pitch of repeats by up to one octave in semitones. For a descending pitch-drop effect, try turning up Pitch Decay, which lowers the pitch with each successive repeat. High values here create unusual, stretched effects.
+Filter Section
+A simple but powerful bandpass filter applies to each repeat:
+
+Frequency: Adjusts the center frequency of the filter.
+Q: Controls the resonance, or how sharp the filter’s peak is. High resonance values accentuate frequencies around the center frequency, creating distinct filter sweeps.
+Volume Section
+Controls the dynamics and mixing of the repeated audio:
+
+Volume: Sets the initial volume of the repeats. Values range from boosted (+6 dB) to silent (-inf).
+Decay: Gradually lowers the volume of each repeat, creating a fade-out effect.
+Modes:
+Mix: Blends the original audio with the repeats.
+Ins: Mutes the original audio when repeats are active.
+Gate: Passes only the repeats, similar to a "wet-only" effect, ideal for sends.
+Visualizing the Beat Repeat in Action
+The final setup can be seen in a piano roll-style representation, showing how variations in division, offset, chance, pitch, filtering, and volume can alter the rhythm in real-time. This visualization makes it easy to fine-tune your settings and achieve specific effects.
+
+Crafting Your Sound
+With these controls, Beat Repeat can create anything from minimal stutter edits to full-on rhythmic chaos:
+
+Quick Stutters: Lower the Interval and Grid settings, add moderate Chance, and use Gate mode for quick stutter effects.
+Complex Glitch Patterns: Experiment with high Variation and Auto setting for variations, and engage No Triplets to keep things tight.
+Pitch Drops and Filter Sweeps: Increase Pitch Decay and Q for descending tones with rhythmic filter sweeps.
+Dynamic Echoes and Fills: Use Volume Decay with Mix mode to create ghostly echoes, perfect for subtle rhythmic fills.
+By combining these settings, you’ll discover countless ways to transform your beats—adding texture, energy, and rhythm to your tracks in Ableton Live 12 Suite.
+
+
+
+
+
+

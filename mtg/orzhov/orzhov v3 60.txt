@@ -1,0 +1,36 @@
+Main
+2 [RNA] Archway Angel
+1 [RNA] Basilica Bell-Haunt
+1 [GRN] Blood Operative
+2 [GRN] Candlelight Vigil
+1 [GRN] Chromatic Lantern
+2 [RNA] Consecrate // Consume
+2 [GRN] Creeping Chill
+1 [GRN] Crush Contraband
+1 [GRN] Dawn of Hope
+3 [GRN] Dead Weight
+1 [GRN] Demotion
+1 [RNA] Expose to Daylight
+1 [DTK] Foul-Tongue Shriek
+1 [RNA] Gate Colossus
+1 [GRN] Gatekeeper Gargoyle
+1 [RNA] Godless Shrine
+2 [RNA] Ill-Gotten Inheritance
+2 [RNA] Impassioned Orator
+1 [AER] Implement of Malice
+1 [RNA] Kaya's Wrath
+2 [GRN] Luminous Bonds
+1 [RNA] Mortify
+1 [GRN] Never Happened
+7 [RNA] Orzhov Guildgate
+6 Plains
+1 [KHM] Revitalize
+1 [RNA] Revival // Revenge
+4 [GRN] Severed Strands
+1 [RNA] Spawn of Mayhem
+8 Swamp
+2 [GRN] Sworn Companions
+1 [BFZ] Transgress the Mind
+1 [AKH] Trespasser's Curse
+2 [GRN] Vicious Rumors
+1 [RNA] Vindictive Vampire

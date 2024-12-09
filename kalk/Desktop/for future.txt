@@ -1,0 +1,35 @@
+[psu just crapped out on my ms surface pro4 - two weeks after buying new psu. so i decide i'll just pull out an old windows lenovo i got lying around and use that as emergency backup - oh what a fool i was... windows decided to do updates - then expected me to login to some microsoft account upon windows launch - for which it required a user name and password - after using both letter and number versions of the only two ms PIN login codes to no avail i resorted to 'forgot password' - at which point it kicked m out to the beginning of the windows launch process. i's not like i was even using a cracked windows or didn't have an account - just a flawed system meant it was physically impossible for me to use my computer.
+- in the end i had to boot into safe mode, to discover safe mode with networking failed so all internetting was being doe via my phone;
+- to change ms auto login on startup required hitting [win]+r then typing 'netplwiz' and unchecking a box;
+- this got me to where i could boot windows normally without it asking for the logon to microsoft accounts, i then had to somehow get into the windows logon/screenlock/whatever password for this specific computer - which was stored in my google password manger which requires bein logged onto the right goggle  account for  which it decided to requires an 8 digit backup code which required i therefor be signed into the google account i was trying to access. :s checkmate.
+- or so you'd think. managed to get into 'manage my account' for that google account via my phone - good job i have an android galaxy 'googlephone';
+- grabbed 8 digit security code, accessed google account, got into password manager so got password to logon to computer.
+
+ofc by this point i've received variously 13 different pings to my phone across my google account, the phone, my g-mail, the mail associated with the phone and the google identity but isn't google, all saying 'new logon - was this you?'
+
+to top it all off, due to not using this computer in forever, not only was there the windows update that caused this whole nightmare in the first place, but also ofc all the other software was needing updates - including discorb, which decided it wanted a fresh login  naturally, discorb being a standalone app, not browser based, the password didn't autofill - so yet again i have to access my google account on chrome to sign into google to get to the password manager manually to get the discorb password. naturally, google being difficult insist i enter the screenlock pin for windows i just reset on this computer in order to access the passwords in the password manger - good job i set the PIN code to a number pattern i can recall via muscle memory so wasn't relying on recalling a brand new created code.
+
+managing to progress to the 2fa part of discorb login, forearmed with the knowledge that discorb asks for you to provide a code only available via being logged into the accounts page of discorb (i once ended up in a true three way mexican standoff between laptop, desktop and phone, all requiring i log into the other to access the code to login to a dif one :D ) - but i used secret option #no.2 - there's tiny writing just at edge of the popup code request window saying 'receive code via sms' - by doing this you don't gotta login to the very discorb account that you're trying to login to in order to login. win. am in.
+
+so now, over 2hrs after pressing power on a not recently used laptop, i finally am looking at a blank windows with no apps running, no notifications, no safe mode, etc. - and bear in mind all this was done on a computer that isn't exactly _modern_ - 2.16ghz, 4gb ram, mysteriously slow disk - cant help but wonder if  is old 2.5" laptop mechanical/magnetic not ssd, the bottom coverplate has no screws so if i pick it up then not only that coverplate falls off, but the innards are exposed, the mouse-trackpad thing is bronken so i'm using a usb mouse plugged into one usb port, and the keyboard is very iffy so am using the usb keyborat from my upstairs desktop plugged into the other usb port (which ofc was a problem when i tried to update my windows PIN code and it insisted for security purposes it needed a window  recovery usb inserted [???] ), i.e. every time i had to restart or perform any other significant resource impact task it was so slow it was like wading through treacle...
+
+this last 2hrs hrs been an undertaking of epic proportions that would tried the patience of the buddha himself!
+
+
+if it weren't for approx. 1/4g of heron, some methylphenidate, the last lonely beer in the crate, a cheeky gabapentin ir - welp, i think with a situation like that, enough to try the patience of the buddha himself, i'd still be sat wondering why, due to a windows update, i could no longer use my own computer because microsoft insisted i log in to some account that nobody ever uses and isn't essential as part of windows or the operation of the computer...
+:s ]
+anyways, now that i finally have access to a basic computer, internet, discorb and am nicely high, exactly where i should have been 2.5hrs ago, i can respond to you message... 
+
+ofc, i just tried to open chrome only to discover it considered this a 'new device' -  had to, instead of just click, 'recover 11 tabs' or whatever, instead, one by one go to history, then tabs from another device, then open it, then go through the login/2fa process for that netflix/spotify/fb/whatever account, along with the associated  messages o phone saying 'you signed in from  new device, was this you, congratulations you successfully ssigned in from a new device, woul you lie to review your security settings?'
+and naturally, discorb, even though not a fresh install, for some reason, due to  fresh logon, needed, from scratch to e told that i didn't want desktop pop-up notifications, or little audio dings  for every time a message was posted in an seerver on my entire server list, etc. etc.
+
+
+it's a tribute to the cocktail of drugs i've consumed the none of this has made me angry, stressed, frustrated or even feeling too tired to now begin my evening's works lol :D
+
+
+what i don't get, is, some peope do this for a living - with computers that arent theit own unique collection of passwords/shortcuts round quirks etc.
+fucking masochists.
+proof that you should do a job beccause you enjoy it, not because youre  good at it...
+...
+
+

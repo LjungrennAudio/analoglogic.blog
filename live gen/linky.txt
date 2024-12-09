@@ -1,0 +1,225 @@
+------
+
+
+{34.3 Non-Neutral Operations}
+Audio Fact Sheet 782
+
+34.3.8 Clip fades
+When Create Fades on Clip Edges is enabled in the Record/Warp/Launch Preferences, a short 
+(up to 4 ms) fade is applied to the clip start and end to avoid clicks at the clip edges. These “declicking“ fades can also be applied to Session View clips via the Clip Fade (page 143) button. 
+Additionally, Arrangement View clips have editable fades and crossfades (page 105). Applying any of these fade options is a non-neutral operation
+
+Audio Fact Sheet 783
+34.3.9 Panning
+Live uses constant power panning with sinusoidal gain curves. Output is 0 dB at the center position and signals panned fully left or right will be increased by +3 dB. In order to minimize this volume change, it may be helpful to narrow the overall stereo width before doing extreme panning. This can be done via the Width control in the Utility device.
+
+34.3.10 Grooves
+Under most conditions, playback of a warped clip that is at the same tempo as the Set is a neutral operation. However, if a groove (page 205) is applied, playback will be non-neutral at 
+any tempo.
+
+
+{Audio Fact Sheet 783}
+(abusing)34.4 Tips for Achieving Optimal Sound Quality in Live
+*add*
+
+Working with Instruments and Effects 281
+
+Devices are turned on and off using their Activator switches. Turning a device off is like temporarily deleting it: The signal remains unprocessed, and the device does not consume CPU cycles. 
+Live devices generally do not load down the CPU unless they are active.
+
+Note that no clipping can occur between devices because there is practically unlimited headroom. Clipping can occur when an overly strong signal is sent to a physical output or written to a 
+sample file.
+
+
+Working with Instruments and Effects 286
+
+You can create multiple slicing presets and choose between them in the Slicing Preset chooser in 
+the slicing dialog.
+
+To create default presets for converting Drums, Harmony, or Melody to MIDI (page 202):
+
+In addition to these “master” default presets, you can also create default presets that are specific to only one Project.
+
+
+------
+------
+
+
+Routing and I/O 229
+
+15.5 Internal Routings
+Live’s mixer and external routing devices allow for inter-track routings. These routings, albeit 
+potentially confusing, enable many valuable creative and technical options. Via the mixer, intertrack routing can work two ways:
+1. Track A is set up to send its output signal to Track B. This is possible because every track 
+that can receive an output signal of the appropriate type from Track A shows up in its Output Type chooser.
+2. Track B is set up to receive its input signal from Track A. This works because every track that 
+delivers a signal of the appropriate type appears in Track B’s Input Type chooser.
+
+{Routing and I/O 230}
+Both approaches result in Track A’s output being fed into Track B. Approach 1 leaves Track B’s 
+in/out settings alone, and we can, at any time, add more tracks that feed their output into Track 
+B. This is the method of choice for “many-to-one“ routings such as submixes or several MIDI 
+tracks playing the same instrument. In this scenario, soloing Track B will still allow you to hear the 
+output of the tracks that are feeding it. Also, you can still solo Track A and hear its output signal. 
+In this case, all other tracks are muted, including those that might also feed into Track B. Technically, what you hear is the output of Track B, with everything except Track A’s signal removed.
+Approach 2, on the other hand, leaves Track A unaffected except for Track B tapping its output. 
+We can easily add more tracks like Track B that all tap Track A’s output. Instrument layering is a 
+good example of such a “one-to-many“ routing setup.
+
+
+{Routing and I/O 229}
+The “Resampling“ option in any audio track’s Input Type chooser will route the Master output to 
+that track. You can then decide on what exactly you will be resampling and mute, solo or otherwise adjust the tracks that are feeding the Master output. You will probably want to use the Master Volume meter to make sure that your level is as high as possible without clipping (indicated by red in the meter). Then you can arm the track and record into any of its empty clip slots (page 260). Note that the recording track’s own output will be suppressed while resampling is taking place, and will not be included in the recording.
+Samples created by resampling will be stored in with the current Set’s Project folder (page 
+81), under Samples/Recorded. Until the Set is saved, they remain at the location specified 
+by the Temporary Folder (page 267).
+
+
+Routing and I/O 232
+
+If a track has one or more Instrument or Effect Racks (page 299) in its device chain, internal 
+routing points (Pre FX, Post FX and Post Mixer) will also be available for every chain within the 
+Rack. If a track contains one or more Drum Racks (page 310), internal routing points will be 
+available for any of the Rack’s return chains.
+
+
+------
+------
+
+
+Converting Audio to MIDI 204
+
+Live uses the transient markers (page 155) in the original audio clip to determine the divisions 
+between notes in the converted MIDI clip. This means that you can “tune” the results of the conversion by adding, moving, or deleting transient markers in the audio clip before running any of the Convert commands.
+
+Although each of the commands has been designed for a particular type of musical material, 
+you can sometimes get very interesting results by applying the “wrong” command. For example, 
+Convert Harmony will usually create chords. So running it on a monophonic clip (like a vocal recording) will often generate notes that weren’t present in the original audio. This can be a great way to spark your creativity.
+
+
+------
+------
+
+
+Using Grooves 207
+
+The Groove Pool’s controls work as follows:
+
+•Timing — adjusts how much the groove pattern will affect any clips which are using it.
+•Random — adjusts how much random timing fluctuation will be applied to clips using the 
+selected groove. At low levels, this can be useful for adding subtle “humanization“ to highly quantized, electronic loops. Note that Random applies differing randomization to every 
+voice in your clip, so notes that originally occurred together will now be randomly offset 
+both from the grid and from each other.
+{Using Grooves 208}
+•Velocity — adjusts how much the velocity of the notes in clips will be affected by the velocity information stored in the groove file. Note that this slider goes from -100 to +100. At 
+negative values, the effect of the groove’s velocity will be reversed; loud notes will play 
+quietly and vice versa.
+•Global Amount — this parameter scales the overall intensity of Timing, Random and Velocity for all of the available groove files. At 100%, the parameters will be applied at their assigned values. Note that the Amount slider goes up to 130%, which allows for even more 
+exaggerated groove effects. If grooves are applied to clips in your Set, the Global Amount 
+slider will also appear in Live’s Control Bar.
+
+
+Using Grooves 208
+
+13.1.2 Committing Grooves
+
+Pressing the Commit button below the Clip Groove chooser “writes“ your groove parameters 
+to the clip. For MIDI clips, this moves the notes accordingly. For audio clips, this creates Warp 
+Markers at the appropriate positions in the clip.
+After pressing Commit, the clip’s Groove chooser selection is automatically set to None
+
+
+Using Grooves 210
+
+13.3.1 Grooving a Single Voice
+Drummers will often use variations in the timing of particular instruments in order to create a 
+convincing beat. For example, playing hi-hats in time but placing snare hits slightly behind the 
+beat is a good way of creating a laid-back feel. But because groove files apply to an entire clip 
+at once, this kind of subtlety can be difficult to achieve with a single clip. Provided your clip uses a Drum or Instrument Rack, one solution can be to extract the chain (page 319) containing the 
+voice that you want to independently groove. In this example, we’d extract the snare chain, creating a new clip and track that contained only the snare notes. Then we could apply a different groove to this new clip.
+
+13.3.2 Non-Destructive Quantization
+Grooves can be used to apply real-time, non-destructive quantization to clips. To do this, simply 
+set the groove’s Timing, Random and Velocity amounts to 0% and adjust its Quantize and Base 
+parameters to taste. With only Quantize applied, the actual content of the groove is ignored, so 
+this technique works the same regardless of which Groove file you use.
+
+13.3.3 Creating Texture With Randomization
+You can use a groove’s Random parameter to create realistic doublings. This can be particularly useful when creating string textures from single voices. To do this, first duplicate the track 
+containing the clip that you want to “thicken.“ Then apply a groove to one of the clips and turn 
+up its Random parameter. When you play the two clips together, each note will be slightly (and 
+randomly) out of sync with its counterpart on the other track.
+
+
+------
+------
+
+
+Launching Clips 219
+
+14.7.1 Looping Parts of a Clip
+Let’s say that you want to play a longer clip, but then you want only the last eight bars to loop. 
+You can set this up using Follow Actions:
+1. Drag the clip into the Arrangement View and make sure that the Clip View’s Loop switch is 
+not activated. Use the Edit menu’s Split command (page 111) to split the clip between the 
+non-looping and looping parts.
+
+------
+Arrangement View 111
+
+6.11 Splitting Clips
+The Split command can divide a clip or isolate part of it.
+To split a clip in two halves, do the following:
+1. Unfold the track;
+
+{Arrangement View 112}
+2. In the waveform or MIDI display, click at the position where you want the clip to be split;
+3. Execute the Split command.
+To isolate a part of a clip, do the following:
+1. Unfold the track;
+2. In the waveform or MIDI display, drag a selection over the part of the clip you want to 
+isolate;
+3. Execute the Split command to divide the original clip into three pieces.
+------
+
+2. Click and drag the resulting two clips into the Session View by letting the mouse cursor 
+hover over the Session View selector. Drop the two clips into a track. They now form a Follow Action group.
+
+3. Set up Follow Actions for the first clip. You will want to make Follow Action Time equal 
+to the clip’s length. Set the Follow Action A chooser to “Next“, with a Chance setting of 
+100%, and set Follow Action B to “No Action“. Now this clip is set up to advance to the 
+looping clip after it plays.
+
+{Launching Clips 220}
+4. Activate the Loop switch for the second clip.
+The first clip will now proceed to the second after it has played in its entirety; the second clip will simply play in a loop until it is stopped.
+
+
+------
+------
+
+
+Computer Audio Resources and Strategies 769
+
+*complete*
+
+Strategies for Saving CPU Power
+Real-time synthesis needs lots of computing power. However, there are strategies for reducing 
+CPU load.
+
+•When using warping, be aware that the Complex and Complex Pro modes use significantly more CPU power than the other Warp Modes.
+•Turn off the any filters not needed.
+•A filter’s CPU cost correlates with the steepness of its slope — the 24 dB slope is more expensive than the 12 dB slope.
+•Turn off any LFOs for a slightly positive influence on CPU.
+•Stereo samples need significantly more CPU than mono samples, as they require twice the 
+processing.
+•Decrease the number of simultaneously allowed voices with the Voices control.
+•Turn Spread to 0% if it is not needed.
+•Any Interpolation and Antialias modes can also be turned off to conserve CPU resources.
+
+
+-----
+33.1.3new
+In the Session View, it is possible to see each track’s impact on the CPU load by clicking on the Show/Hide Performance Impact selector in the Mixer Section.
+
+In the Performance Impact section, each track has its own CPU meter with six rectangles that light up to indicate the relative impact of that track on the CPU level of the current Set. Freezing the track (see ‘Track Freeze’) with the largest impact or removing devices from that track will usually reduce the CPU load.

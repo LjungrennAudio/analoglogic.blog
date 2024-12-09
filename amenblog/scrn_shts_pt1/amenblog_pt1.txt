@@ -1,0 +1,72 @@
+#####
+
+plagiarised from:
+https://en.wikipedia.org/wiki/Amen_break [accessed 202411101423]
+
+
+`The Amen break is a drum break that has been widely sampled in popular music. It comes from the 1969 track "Amen, Brother" by the American soul group the Winstons, released as the B-side of the 1969 single "Color Him Father". The drum break lasts seven seconds and was performed by Gregory Coleman.
+
+With the rise of hip hop in the 1980s, the Amen break was used in hits including "Straight Outta Compton" by N.W.A and "Keep It Going Now" by Rob Base & DJ E-Z Rock. In the 1990s, it became a staple of drum and bass and jungle music. It has been used in thousands of tracks of various genres, making it one of the most sampled recordings in music history.
+
+The Winstons received no royalties for the sample. The bandleader, Richard Lewis Spencer, was not aware of its use until 1996, after the statute of limitations for copyright infringement had passed. He condemned its use as plagiarism, but later said it was flattering. He said it was unlikely that Coleman, who died homeless and destitute in 2006, realized the impact he had made on music.`
+
+#####
+
+again from wiki:`At about 1 minute and 26 seconds into "Amen, Brother", the other musicians stop playing and the drummer, Gregory Coleman, performs a four-bar drum break that lasts for seven seconds. For two bars, Coleman plays the previous beat. In the third bar, he delays a snare hit. In the fourth bar, he leaves the first beat empty, then plays a syncopated pattern and an early crash cymbal.[3]
+
+The drum break was added to lengthen the track, which had been too short with just the riff. Spencer said he directed the break, but Phil Tolotta, the only other surviving member of the band in 2015, credited it solely to Coleman.[2]`
+
+2. Otzen, Ellen (March 29, 2015). "Six seconds that shaped 1,500 songs". BBC News. Archived from the original on April 11, 2018. Retrieved March 29, 2015.
+3. "Seven seconds of fire". The Economist. December 17, 2011. ISSN 0013-0613. Archived from the original on October 14, 2018. Retrieved March 20, 2019.
+
+
+#####
+
+
+- first we need to select the desired approximate section of audio we wish to sampl such that it contains an entire loop of the material, from zero crossing to zero crossing on the beat
+
+- then we need to crop off the rest of the song to make the loop manageable size, hitting the [ram] button if cpu is in short supply
+
+- pre-trimbthe audio doesnt loop from the start of the section
+
+- we bounce it so it loops from start
+
+- we then crop to final length as needed
+
+- finished sample loop og
+
+- slice-to-midi
+
+- preparing to slice we select transienr detection and quantize settings 
+
+- for comparison, the actual og seq
+
+- we get this as a result of slice to midi
+
+- resulting in this new sequenced loop
+
+- slice settings for loop a adjusted for taste
+
+- we rearrange re-arrange the midi to generate loop b
+
+- how duplicate
+
+- duplicate drum loop to new channel
+
+- re-arrange loop to produce midi loop b
+
+- how to group
+
+- break pair group
+
+- trim seq loop 2 to get different length loop
+ 
+- re-arranging loop 2
+
+- we make a group breaks channel
+
+- choppers
+
+- master out settings for final sound
+
+export, done

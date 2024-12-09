@@ -1,0 +1,99 @@
+Understanding Frequency Shift Keying (FSK)
+Frequency Shift Keying (FSK) is a form of digital modulation where data is transmitted by varying the frequency of a carrier signal. This technique is commonly used in digital communication systems, such as modems and radio transmission, due to its resilience to noise and ability to transmit binary information (1s and 0s) efficiently.
+
+The diagram attached illustrates a simple FSK waveform, showing how different frequencies represent binary values. In this post, we'll break down the concept of FSK, explain how it works, and provide Python code to generate an FSK signal.
+
+What is Frequency Shift Keying?
+In FSK, binary data (0s and 1s) is represented by different frequencies. Typically:
+
+Binary '1' is represented by a higher frequency.
+Binary '0' is represented by a lower frequency.
+In the diagram, you can see this distinction: each time the binary value switches between 0 and 1, the frequency of the waveform changes accordingly. The waveform for binary '1' has a higher frequency, meaning it oscillates more times per second compared to the waveform for binary '0'.
+
+How Frequency Shift Keying Works
+Carrier Frequencies: FSK involves choosing two distinct frequencies: 
+𝑓
+1
+f 
+1
+​
+  for binary '1' and 
+𝑓
+0
+f 
+0
+​
+  for binary '0'.
+Modulation: The transmitter switches between these two frequencies based on the binary data to be sent.
+Demodulation: The receiver detects the frequencies in the received signal and decodes them back into binary values.
+This simple method of switching frequencies provides a straightforward way to encode binary data over a signal. It also makes FSK relatively robust to noise because the information is contained in the frequency, not the amplitude, which makes it less susceptible to signal degradation.
+
+Python Code to Generate an FSK Signal
+Let's dive into some Python code to generate an FSK signal based on a sample binary sequence. We'll use two frequencies, one for binary '1' and another for binary '0', and plot the resulting FSK signal.
+
+```python
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Parameters for FSK signal
+bit_rate = 1  # bits per second
+f1 = 5  # Frequency for binary '1'
+f0 = 2  # Frequency for binary '0'
+sampling_rate = 100  # Samples per second
+bit_duration = 1 / bit_rate  # Duration of each bit in seconds
+
+# Example binary data to transmit
+data = [1, 0, 1, 0]
+
+# Time array for each bit
+t_bit = np.linspace(0, bit_duration, int(sampling_rate * bit_duration), endpoint=False)
+
+# Generate FSK signal
+fsk_signal = np.array([])
+
+for bit in data:
+    if bit == 1:
+        # Generate high-frequency signal for binary '1'
+        fsk_signal = np.concatenate([fsk_signal, np.sin(2 * np.pi * f1 * t_bit)])
+    else:
+        # Generate low-frequency signal for binary '0'
+        fsk_signal = np.concatenate([fsk_signal, np.sin(2 * np.pi * f0 * t_bit)])
+
+# Time array for the entire signal
+t = np.linspace(0, bit_duration * len(data), len(fsk_signal), endpoint=False)
+
+# Plot the FSK signal
+plt.figure(figsize=(10, 4))
+plt.plot(t, fsk_signal, color="orange")
+plt.title("Frequency Shift Keying (FSK) Signal")
+plt.xlabel("Time (seconds)")
+plt.ylabel("Amplitude")
+plt.grid()
+plt.show()
+```
+
+Explanation of the Code
+Parameters: We define key parameters for the FSK signal:
+bit_rate: the rate at which bits are transmitted (1 bit per second in this case).
+f1 and f0: the frequencies for binary '1' and '0', respectively.
+sampling_rate: the rate at which the signal is sampled.
+Binary Data: We define a binary sequence [1, 0, 1, 0] as an example.
+Generate Time Array: t_bit is the time array for each bit, allowing us to generate a sinusoidal wave over the duration of one bit.
+Generate FSK Signal:
+For each bit, we append a sine wave at f1 for binary '1' and f0 for binary '0' to our fsk_signal array.
+Plot the Signal: We plot the resulting FSK signal, with higher frequency segments for binary '1' and lower frequency segments for binary '0'.
+Key Points about FSK
+Frequency Representation: The higher frequency represents binary '1', and the lower frequency represents binary '0'.
+Waveform Changes: Every time the bit value changes, the frequency changes, creating a distinct transition in the waveform.
+Noise Resilience: FSK is less affected by amplitude noise, making it more robust in environments with signal degradation.
+Applications of FSK
+FSK is commonly used in:
+
+Modems: Early dial-up modems used FSK for transmitting binary data over phone lines.
+RFID Systems: FSK modulation is also applied in RFID technology for secure data transmission.
+Digital Radio: It is used in some digital radio systems for encoding and transmitting information.
+Conclusion
+Frequency Shift Keying (FSK) is an essential modulation technique that uses different frequencies to represent binary data. By understanding the basics of FSK and how to generate and visualize it, we gain insight into a fundamental digital communication technique used in various technologies. Hopefully, this explanation and example code make the principles of FSK clearer and easier to grasp.
+
+Happy coding and signal processing!

@@ -1,0 +1,117 @@
+
+2.86 avg. cmc
+
+26.08 €
+
+Note:
+
+- Courser of Kruphix; 4.49 €	
+.Play with the top card of your library revealed.
+.You may play lands from the top of your library.
+.Whenever a land enters the battlefield under your control, you gain 1 life.
+
+- Whip of Erebos; 6.75 €
+.Creatures you control have lifelink.
+.Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.
+
+
+
+23 Lands							25 Lands
+2 Evolving Wilds	saerch, bring in tapped			2 Evolving Wilds
+2 Gateway Plaza		1 or sac, A				4 Opulent Palace		A
+4 Opulent Palace	tap, B, G or Bl				2 Dismal Backwater		B G Bl
+2 Dismal Backwater	tap 1 life, B or Bl			5 Island			B	
+3 Jungle Hollow		tap 1 life, G or Bl			5 Forest			G	
+2 Island		B					7 Swamp				Bl
+3 Forest		G										
+5 Swamp			Bl					
+
+4 Artefacts							1 Artifact
+1 Whip of Erebos	A A Bl Bl				1 Sultai Banner			A A A		
+1 Sultai Banner		A A A									
+1 Desecrated Tomb	A A A							
+1 Wand of Vertebrae	A					
+
+17 Creatures							16 Creatures
+2 Nemesis of Mortals	A A A A G G				1 Merciless Executioner		A A Bl
+1 Izoni, Thousand-Eyed	A A G G Bl Bl				2 Necromancer's Assistant	
+1 Sultai Soothsayer	A A G B Bl				1 Herald of Torment		
+1 Reaper of the Wilds	A A G Bl				1 Returned Centaur		
+1 Braids, Cabal Minion	A A Bl Bl				2 Sultai Soothsayer		
+1 Courser of Kruphix	A G G					2 Sultai Scavenger		
+2 Nyx Weaver		A G Bl					1 Scuttling Doom Engine		
+1 Nighthowler		A Bl Bl					1 Necropolis Fiend		
+1 Merciless Executioner	A A Bl					4 Satyr Wayfinder		A G
+2 Satyr Wayfinder	A G					1 Typhoid Rats			Bl
+2 Brain Maggot		A Bl								
+1 Baleful Eidolon	A Bl
+1 Typhoid Rats		Bl
+
+3 Enchantments							1 Enchantment1 Raiders' Wake		A A A Bl				1 Sultai Ascendancy		B G Bl	
+1 Monastery Siege	A A B							
+1 Sultai Ascendancy						
+
+6 Instants							8 Instant
+1 Sultai Charm							1 Annul
+1 Dihada's Ploy		A B Bl					1 Naturalize			A G
+1 Hero's Downfall	A Bl Bl					1 Neutralizing Blast
+1 Naturalize		A G					2 Sultai Charm			B G Bl
+2 Dark Betrayal		Bl					2 Murderous Cut
+								1 Hero's Downfall
+
+7 Sorceries							6 Sorceries1 Seek the Horizon	A A A G					1 Set Adrift			1 Reviving Melody	A A G					1 Despise			Bl
+1 Commune with the Gods	A G					2 Taigam's Scheming		A B
+1 Liliana's Indignation	X Bl					1 Treasure Cruise		
+2 Taigam's Scheming	A B					1 Dead Drop			1 Despise		Bl					
+
+61 total							61 total							
+
+Sideboard
+
+SB: 1 Urban Evolution		A A A G B
+SB: 1 Etrata, the Silencer	A A B Bl
+SB: 1 Graverobber Spider	A A A G
+SB: 1 Nyx Weaver		A G Bl
+SB: 1 Satyr Wayfinder		A G
+								
+
+
+mana avail							mana avail
+G	B	Bl	Tot					G	B	Bl	tot
+12	10	15	37					9	11	13	33
+33%	27%	40%	100%					%	%	%	%
+
+
+Mana needed							Mana needed
+A	G	B	Bl	Tots				A	G	B	Bl	Tots
+54	19	6	27	54/52/106							
+	78%	60%	81%	51%/49% = 100%				%	%	%	%/% = 100%
+
+	18%	5%	25%	48% + 51% = 99% [within rounding err]	%	%	%	%+% = 99%
+(-)51%	 74%	+ 57%	+ 76%	= 75% hmm?			(-)%	%	%	%	= %
+
+
+Adjusting: -2 B; +2 Bl
+G	B	Bl						G	B	Bl	
+12	8	17			
+33%	22%	46%						%	%	%
+			
+
+	66	62	73	106				
+	62%	58%	69%	100%				%	%	%	%
+
+
+
+This deck is Sultai; Black, Green, and Blue.  It is very clear that the deck is great at getting cards into the graveyard.  The idea is that you will load your graveyard, cast a few flyers with delve, and maybe control the game with the graveyard using Necropolis FIend’s ability.  A big positive…there are four copies of Satyr Wayfinder, a big clue that the design here is better than an Event Deck.  The mana-fixing is of the slow “gain-land” variety, and I’m not sure a person should ever play a banner outside of draft, sealed, and commander styles.  The instants and sorceries are perfect for their respective color, and both Sulai Charm and Sultai Ascendancy are really great for this deck.  Oh yes…did I mention Treasure Cruise, a card that is so good it is already banned everywhere except Standard?  I believe that fixing the mana better, using Polluted Delta, Mana Confluence, or similar, then this deck might be really good as it is.  You might trade up to four copies of Hero’s downfall, but Murderous Cut is really good.  And you have a backup win condition, Scuttling Doom Engine!  You could modify it by adding Taisigur or Sidisi…I’m not sure Herald of Torment is the best choice here, as it usually won’t do anything but hurt you.
+
+
+There is no blue in this deck, so we could call it “Galgari.”  What “Profit” tries to do is use the “constellation” mechanic.  For me, historically, this has been weak sauce.  Eidolon of Blossoms is really … so-so.  And it is a good case study for most of Constellation.  For four mana, you get a 2/2 with a card draw ability triggering when it enters the battlefield and whenever another enchantment enters the battlefield.  Maybe I’m just dumb, but the trigger doesn’t go off if your spell gets canceled, and that is exactly usually what happens.  (sadness).  If not, the Eidolon just gets murdered before you can trigger constellation and draw a second time.  (more sadness).  But I really like the other thing this deck does…It keeps cards in the graveyard for more power.  Nighthowler is a key card here, and there should be more of them in this deck.  (I suppose they didn’t want to add TOO MANY RARES.) But you get Nemesis of Mortals, who is a big guy for cheap with more stuff in the graveyard.  The deck has a few spiders to catch those flyers in the other deck, including one of my personal favorites, Nyx Weaver.    Dark Betrayal is no good against opponents who are not playing black creatures…Not a problem when clashing against “Power,” but no good except for side boarding in tournaments.  This deck tries to have more life gain.  The Courser of Kruphix is ALWAYS a good card.  The Whip of Erebos as well, and this is a card where a one-of is welcomed.  Finally, the Wizards must have their eye on the meta-game…Doomwake Giant is a currently good card against Jeskai “prowess” decks and Blue-White “heroic” decks.
+
+The promotional insert provides a suggested deck.  I don’t think it is as good as it could be.  For one thing, it splashes the blue for the Sultai cards, but the designers decided to mana-fix with Jungle Hollow instead of Dismal Backwater.  That seems a little wrong to me.  Thankfully they opted for only two Opulent Palace, which has been the correct choice for the current Standard environment.  I think Herald of Torment just doesn’t fit this deck.  It would be better with another Hero’s Downfall, or maybe Nighthowler.  I even think a fourth copy of Nyx Weaver would be better if the purpose of the Herald of Torment was to provide evasion on turn three.  I will even go as far to say that Sultai Scavenger is a better, probably cheaper flyer.  The Herald needs to bestow on something with Heroic to be worthwhile.
+
+Just the same, I think it is great that the Wizards are encouraging people to mix the decks.  If all you had were these 120 cards in your collection, then you have some good tools to really get going in making your preferred “Delve” or “Dredge” deck.  And the experience can even be educational, as your tournament opponent drops “Polluted Delta” on the battlefield, turn one, and you have played “Dismal Backwater.”  The opponent gets to Thoughtsieze that Necropolis Fiend right out of your hand on turn one, while you cry because your land … couldn’t ..even …do ………anything.
+
+“Power” leans on the graveyard for Delve costs, and hopes to drop Necropolis Fiend on the battlefield early, and control the opponent with even more delve.  It has a backup strategy of Scuttling Doom Engine.  This deck is more of a control deck, featuring two Murderous Cuts and cancel-type spells.  Of the two, I like it the best, but I am taking off a point because the Mana-fixing is slow, and Herald of Torment sucks.  It gets 4/5.
+
+“Profit” leans on the graveyard as a way of boosting creature power and toughness, and also leans on Constellation.  Constellation works great against the Power deck, but not in the current metagame for tournaments.  This is more of an aggro” deck, with the aim of getting Nighthowler bestowed onto something and beat you down with that suddenly huge creature, or getting Nemesis of Mortals out and activating Monstrosity sooner than you normally should.  Most of the creatures help load the graveyard and trigger constellation if you are lucky.  One of the best inclusions is Doomwake Giant, who is hot in the meta-game against Prowess decks.  This deck gets 3/5.
+

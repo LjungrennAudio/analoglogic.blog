@@ -1,0 +1,58 @@
+https://audioordeal.co.uk/you-need-to-know-this-hidden-trick-in-abletons-utility/
+
+Top tips for Mid/Side Processing
+Watch the low end – it is always important to keep your low end tight. Try not to boost too much bass and sub frequencies on the stereo portions of the track as this can lead to very problematic phase issues.
+Two reverbs – this can be quite a fun trick to do if you need clear vocals, but want a good use of space. Have a dedicated reverb for both the mid and side portions. Keep the reverb on the centre quite tight and subtle, then play about with the scale and amount on the stereo field. EQ each so they don’t muddy up the mix.
+Dual compression – Add a compressor to both the mid and the side channels. Compress each separately and see what it brings. You can often get away with squashing the sides a bit more if you keep the transients of the centre elements free to punch through. Likewise, if your main elements are lost in the mix, you may want to add a bit of compression to the mid chain to bring them up.
+EQ the space – If you are using lots of stereo reverb and delays, the original element can be a bit lost. Assuming it is in the middle, you can carve out the stereo effects at the main frequencies to let it sit snugly in amongst the stereo effects.
+
+
+
+You need to know this hidden trick in Ableton’s Utility
+
+One of Ableton’s most useful built-in plugins is Utility, it is widely used, but not everyone knows that it is also a very handy Mid/Side (M/S) tool.
+
+When you load up Utility for the first time, you are faced with some very basic controls. On the left, you have a stereo width control which can tighten or broaden the stereo width of the sound. It is also able to set frequencies below a cutoff to mono to keep basses tight.
+
+On the right, you have a simple set of gain and pan controls as well as a mute and DC button.
+
+It is easy to dismiss Utility as a simple “mixing desk” control but it also has a feature that makes it a whole lot more useful.
+
+If you right click on the Width knob you can select a Mid/Side mode which completely transforms Utility into a whole new tool.
+
+pic
+
+
+What is Mid/Side processing?
+Mid/Side or M/S processing is a technique to separate out the sounds in the centre from the sounds panned to the sides. It allows you to process these sounds differently and can be key to bringing out the best in your mix.
+
+When the control is set to the “mid” end, it oly lets through the sounds which are present on both the left and the right channels. These sounds are perceived by the listener to be in the centre.
+
+READ MORE: Ableton EQ Eight, EQ Three, and Channel EQ – what’s the difference?
+
+When it is set all the way to “side” it only lets the sounds which are unique to each channel through.
+
+If you had a drum kit with the kick panned centre, the snare panned hard left, and a cymbal panned hard right, it would play the kick only when set to “mid” and the snare and cymbal only when set to “side”.
+
+How to use Utility’s M/S mode
+Using Utility as a M/S separator is really easy. You may want to do it to compress the mid signals and stereo signals different amounts. Perhaps you have a mix that you want the bass to punch through the middle and the reverb to shine – in this case you could have a separate EQ for the mid and side components.
+
+To get started, drag a Utility onto the track and group it into a rack. Right click the Width knob and set it to M/S mode.
+
+Then go to the rack’s chain selector and right click to add a new chain. Add another Utility and set it to M/S mode as well.
+
+
+pic
+
+
+Now you can set one chain to only mids and one chain to only the side. Make sure to rename each chain to make it easier to follow.
+
+Select the chain you want to add effects to and drag them in. Now, these effects will only alter the chain you have picked. You can then set the effects on the other chain and tweak them independently.
+
+Top tips for Mid/Side Processing
+Watch the low end – it is always important to keep your low end tight. Try not to boost too much bass and sub frequencies on the stereo portions of the track as this can lead to very problematic phase issues.
+- Two reverbs – this can be quite a fun trick to do if you need clear vocals, but want a good use of space. Have a dedicated reverb for both the mid and side portions. Keep the reverb on the centre quite tight and subtle, then play about with the scale and amount on the stereo field. - EQ each so they don’t muddy up the mix.
+Dual compression – Add a compressor to both the mid and the side channels. Compress each separately and see what it brings. You can often get away with squashing the sides a bit more if you keep the transients of the centre elements free to punch through. Likewise, if your main elements are lost in the mix, you may want to add a bit of compression to the mid chain to bring them up.
+- EQ the space – If you are using lots of stereo reverb and delays, the original element can be a bit lost. Assuming it is in the middle, you can carve out the stereo effects at the main frequencies to let it sit snugly in amongst the stereo effects.
+
+

@@ -1,0 +1,63 @@
+
+adding custom IRs to ableton Convolution Reverb Pro.
+
+format:
+11025khz
+16bit
+mono
+
+
+place your IRs directly into Ableton's default IR folder:
+
+`C:\Users\[username]\Documents\Ableton\Factory Packs\Convolution Reverb\IRs\[your folder here]\`
+e.g.
+`C:\Users\[username]\Documents\Ableton\Factory Packs\Convolution Reverb\IRs\12 Vintage\`
+
+Folder Structure and File Placement:
+**Avoid Nested Folders**
+
+Convolution Reverb Pro does not scan subfolders within your user folder.
+Action: Move your IR files directly into the user created folder without any additional subfolders.
+
+Refresh the IR List:
+
+Action: Close and reopen Convolution Reverb Pro to refresh its file index.
+
+
+#####
+
+
+Adding Custom Impulse Responses to Ableton Live 12 Suite's Convolution Reverb Pro
+Ableton Live 12 Suite's Convolution Reverb Pro allows you to use your own impulse responses (IRs) for unique reverb textures and spaces. Here’s a quick guide on how to add and organize your custom IRs to maximize flexibility and creativity.
+
+File Format Requirements
+Ensure your custom IR files are in the correct format:
+
+Sample Rate: 11025 kHz
+Bit Depth: 16-bit
+Channels: Mono
+File Placement: Adding IRs to Ableton’s Default IR Folder
+Place your IR files directly into the designated folder for impulse responses:
+
+Default Folder Path:
+
+plaintext
+Copy code
+C:\Users\[username]\Documents\Ableton\Factory Packs\Convolution Reverb\IRs\[your folder here]\
+For example:
+
+plaintext
+Copy code
+C:\Users\[username]\Documents\Ableton\Factory Packs\Convolution Reverb\IRs\12 Vintage\
+Folder Structure Tips
+Avoid Nested Folders:
+
+Convolution Reverb Pro does not recognize subfolders within your custom IR folder.
+Action: Place IR files directly within the folder you've created without any additional subfolders. This ensures that all your IRs are accessible directly from Convolution Reverb Pro.
+Refreshing the IR List
+After adding your custom IRs, restart Convolution Reverb Pro to refresh its file index.
+
+Action: Close Convolution Reverb Pro and reopen it to load the new IRs. This step is essential for the software to recognize your additions.
+With this setup, you’ll have access to your custom impulse responses within Ableton Live 12 Suite's Convolution Reverb Pro, ready for creative use in any project!
+
+

@@ -1,0 +1,45 @@
+Krytrons and their variations are manufactured by Perkin-Elmer Components and used in a variety of industrial and military devices. They are best known for their use in igniting exploding-bridgewire and slapper detonators in nuclear weapons, their original application, either directly (sprytrons are usually used for this) or by triggering higher-power spark gap switches.
+
+Export restrictions in the United States
+Because of their potential for use as triggers of nuclear weapons, the export of krytrons is tightly regulated in the United States. A number of cases involving the smuggling or attempted smuggling of krytrons have been reported, as countries seeking to develop nuclear weapons have attempted to procure supplies of krytrons for igniting their weapons. One prominent case was that of Richard Kelly Smyth, who allegedly helped Arnon Milchan smuggle 15 orders of 810 krytrons total to Israel in the early 1980s.[10] 469 of these were returned to the United States, with Israel claiming the remaining 341 were "destroyed in testing".[10]
+
+Krytrons and sprytrons handling voltages of 2,500 V and above, currents of 100 A and above, and switching delays of under 10 microseconds are typically suitable for nuclear weapon triggers.[11]
+
+[irrelevant but cool:
+Further developments
+Optically triggered solid-state switches based on diamond are a potential candidate for krytron replacement.[14] ]
+
+found whilst reading about tubes cos i like my tube modules...
+
+https://en.wikipedia.org/wiki/Krytron (accessed 22/09/23 16:11)
+
+
+#####
+
+
+Exploring Krytrons: The High-Stakes Trigger Tubes
+So, you’re into electronics, maybe you’ve got a thing for vacuum tubes, and you stumble upon… krytrons. With a name that sounds like something out of a sci-fi film, krytrons are fascinating—and they come with a fair share of intrigue, export restrictions, and a surprising history.
+
+What Are Krytrons, Anyway?
+At their core, krytrons are high-speed switching tubes. Manufactured by companies like Perkin-Elmer Components, these little guys are built to handle incredibly high voltages and currents, with super-fast switching speeds. They’re kind of like the elite members of the tube family. But unlike the tubes in your guitar amp or synthesizer, krytrons aren’t here to warm up your tone. They’re designed for serious stuff.
+
+Their main claim to fame? Detonating explosives. Yep, krytrons were originally developed to ignite the exploding-bridgewire and slapper detonators used in nuclear weapons. When a krytron is triggered, it switches in a matter of microseconds, sending a high-current pulse that can trigger the kind of high-energy spark needed to set off explosive devices. And if you think that sounds intense, well, you’re right.
+
+But wait, there’s more! There’s a close cousin in the family called the sprytron—a variant of the krytron that’s even more specialized for these explosive tasks.
+
+Why Krytrons Are So Regulated in the U.S.
+Because of their potential role in nuclear weaponry, the U.S. government keeps a very close eye on krytrons. In fact, their export is tightly controlled. These aren’t just restricted because they’re cool and dangerous—they’re restricted because they’re key components in nuclear weapon triggers. Krytrons and sprytrons with specs above certain thresholds—like handling over 2,500 volts, 100 amps of current, and switching in under 10 microseconds—are classified as “dual-use” items, meaning they have non-military uses but can also be weaponized.
+
+And this regulation isn’t just for show. There have been numerous cases of krytron smuggling attempts, as some countries have tried to procure them for (ahem) unauthorized purposes. One of the most famous cases involved a man named Richard Kelly Smyth, who was accused of helping smuggle around 810 krytrons to Israel back in the early 1980s. In a twist that feels almost cinematic, Israel reportedly returned 469 of them, saying the rest were “destroyed in testing.” Whether you believe that or not is up to you!
+
+Future Replacements? Solid-State, Diamond-Triggered Awesomeness
+As cool as krytrons are, they’re not exactly modern. Researchers are looking into replacements that don’t rely on traditional tubes. One potential candidate? Optically triggered solid-state switches made from diamond. Diamonds, as it turns out, are more than just sparkly—they’re fantastic at handling high voltages and might one day serve as ultra-fast, reliable replacements for krytrons. Imagine a future where the main components in nuclear detonators are made of diamonds. (Who said science couldn’t be glamorous?)
+
+Why Are We Talking About Krytrons?
+If you’re fascinated by electronics, especially the rare and unusual, krytrons are an electrifying rabbit hole. Sure, they’re dangerous, and sure, you can’t exactly pick them up at your local electronics shop. But as symbols of cutting-edge technology with high-stakes applications, they represent the extreme end of what switching tubes can do.
+
+Plus, for those of us who are drawn to anything with vacuum tubes, krytrons are like the cool older cousin who shows up at family gatherings with a mysterious past and a twinkle of danger in their eye. They're a reminder of just how powerful and complex even the smallest components can be.
+
+So, the next time you're working with a simple triode or fiddling with a tube in your synth module, spare a thought for the krytrons of the world—tiny, high-speed switches with a big impact (literally). They might not be practical for your everyday projects, but they sure add a spark of intrigue to the tube family!
+
+

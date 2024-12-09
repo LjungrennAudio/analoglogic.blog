@@ -1,0 +1,143 @@
+if cookies is first thing then reject deny mut be totl obvious easy click
+
+
+
+i know what i want, jumpto to the info
+i a intersted in design
+i am intersted in synthesis
+i just want to browse
+
+super sute soft landing pge
+
+make the tech stuff loklike datasheets?
+
+
+
+
+4mx buttons:
+
+
+pink blue
+mahgenta/purple black
+
+white writing
+
+info	?
+
+design	learning
+
+
+make font from the animal keybrat
+come up with symblos for each module base on amth and animal font
+use best indididual keys etc. for buttons on wesite.
+geenral aethisc is obviuos in folder
+colur pallette needs tbe perfected:
+iprefer fade of pink, fade of ble, the majority white/dark ever so slightly blued gray for thee darks.
+occassional highlighs of purple/yellow/orange.
+in the colages not the rounded edgees -even that little makes huge dif.
+softening -ttake it further - blur gently but not shadows. nicepage can auto do this consistently.
+non shadows and stuff keeps it a lil 'not too real' - adds that cartoon comfort/simplicity.
+subtley is key with stuff like fades etc, 
+
+SIMPLICITY IS KEY WITH THIS PALETTE
+
+[now playing: Gary Jules - Mad World (Paul Kalkbrenner remix)
+https://www.youtube.com/watch?v=EAwu9njRIcc (accessed 21/09/2023 1:57)]
+
+i sat but i didn't listen. to this day, i sit  but i don't listen.
+no matter what they do externally, in your own head you are free.
+
+
+everything.
+alll
+did it myself [sanding on shoulders of gients, nothing new under sun etc. ...]:
+font's crated  using: xxx
+one inspired by a weird typeset somthing to do with cats seen on a photo i have inn archive drive - image capture etc. [thts the headings and glyphs etc. menuss blahlah
+general readable type is concept f cross bewtween a fav o mine - the fontused for te kinda ms-dos code window genral as readable as it gets sans-serif computer green writing on black/v dark green screen, but with a touch of worn out type-writer thrown in and maybe a hint of rasnom note :P
+
+
+"		fontcreator
+
+
+and noww alles kamuffel. [gotta lookup what that means...]
+
+
+
+in mspaint:
+
+convert pic to 256 colour bitmap by doin g saveas, other formats from dropdown,
+you can try 16bit but canes are youll lose soem f theniceer subtleties. monochrome is generally hopeless unless used for effect. can be god for extracting base points for real long winded work.
+
+grow whole canves o a few times bigger:...
+
+set 'select tool mode to 'transparent background'
+eyedropper a nonblack [or nontext] colour with rmb to make that actve bckgrnd col.
+select whole pic, sliiiiiiide to the right. sjuldleave behind grey/blue/whatever you slected and move all else
+bucket fill tool, set primy colour to white[lmb] and fill th paych left behind so ou dont get in a mess.
+rinse and repeat - usually takes maybe 6 or seven iteratins if  you chose a good source.boom - good qual, not too steppy etc. monochrome of your text.
+
+there will be an teration when you los haf you text - probably it'll look lke blak but be v dark blue or something and is actualy the key part. unless there's any real problem patsleft this is time for stage 3.
+
+[der buhold]
+
+msphotos
+ajustments ssettings: [the lil sun/darness glyph, rhs of thee at top]
+it's usually as easy  as just setting 'clarity slider' max rhs. should turn to monochrome. if the baalnce of b/w isnt perfectly to you liking, try tweak the contrst up, shadws up, highlyights down with clarity at original zeroed mddle setting and then see how you fare.
+i dont recmmed altering exposure as it weill either kill the white status of the white or it'll start to destroy the integrity of letter definitions, smoothness etc.
+likewise, any colour changes,including not undr the colour box, 'tin' andwarmth will  likely be enturely unhelpful unless your whole pic is blue/red/green shifted or something.
+finally, vignette _can_ be used successfully to whiten the paper area sometimes, but since by nature it introduces a gradient even at extreme 'inverse' [lhs, i.e. lightening] it generally introdues more crap than helps.
+
+
+///// i used thes technques for making the simplified 'cartoon' modules on the website too - worked frm orignal photos, reducred colours/remoed colours/changed colours/thckned lines/eredid text with the font created as descrbed, and also alot of pixelart!
+
+
+i davide to save as a png or something quickn smol tohandle cos bmps are cumbersome and you shouldnt lose anyquality or anything.
+
+now
+
+back to ms paint:
+
+remembering to trun on transparent select[it defaults off, every single f%$£%ing time...]
+
+cut out and orgnise with selesct tool the whoe set of alphabet/numbers/math/etc.
+zoooming in to pixel level can help occasionally here.
+
+if you need to resize anything, DO NO TRY USING THE HANDLES TO STRETCH/SHRINK the select box.
+there is no keep proportional thing.
+the 'resize' funtion on the toolbar, owever does have maintian aspect ration option by default on and cn do percentage or pixels.
+
+once you got your full set of desirred glyphs, you'll need each glyph a sa sparate .bmp - prferablyy abut 300dpi min res.
+yup,no two waysabout it -it's select, copypast to a new fil for each until yougt like 50 .bmp's each labeled with your font working name and theglyph name.
+
+then you can assemble em into a font!
+
+[you can use high-logic	scanahand:
+https://www.high-logic.com/
+to print character templatei you wanna use your hndwriting or draw stuff]
+
+
+try running through inksacape or gimp and then filter guassian blur at 2 or 3 pixels.
+
+
+
+no you'll want:
+https://www.high-logic.com/
+high-logic fontcreator
+
+
+
+there'sa bit of an art to using fontcreator import image from file thingy:
+- if you select either degree of smoothing thn it will apply it, immediate - ay ooming then zooms the soom=thed shape _not_ zooms then smoothes.
+- the 2 filters are tricksy - making stuff fattr works better at high zoom and making things eroded thinner works bst a lower zooms.
+- it doesnt really previs anything like as good as th results you get when it generates the glyph in the actual editor.
+you can do a heckuvva lot in fontcreator glyph editing so you dont need to to do too much before hand.
+
+
+
+made a test font - miht polish it and use on website
+
+will also makethe glyphs or synth stuff to a unicode font maybe...
+
+
+
+come up with suoer easy to differentiate intuitive glyphs for each common/basic and even other module functions, based on math preferably and do chart f modules with all the glyphs for each.

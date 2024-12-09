@@ -1,0 +1,63 @@
+/	universal key for all emergency .txt files in my computer's c:\root for when i forget many moons/brain_clk_cycles from now... :
+/
+/	`wysiwyg`
+/	`/` commented out (iirc win10 .reg files for example use `; ` to comment stuff out, but i'm holding too many various syntaxes in my limited brain_ram rn to 	/	switch back forth - afraid you get the ones most commonly used in my world, so most conventions are _sorta_ `C` or `py` related.)
+/	`[]` button or mouse action
+/	`{}` menu/textbox/etc. action sorta stuff.
+/	`+` actions occur simultaneously e.g. to shiftclck a menu option saying restart would be [lshift]+[lclk]+restart
+/	`()` i din't have any other brackets to use on kbd having used `[]` for hardware actions and reserving the normal for code function `{}` braces for
+/	text/menu/screen actions.
+/	finally, i'm not case sensitive. i don't capit(a/o)lise.* if it's got capitalisation though, when it's wysiwyg quote for code/url/path/cmd/etc. - i very much
+/	mean to capitalise - often its referring either to something that is case sensitive or its because its a Widows10 or whoever other corporation's name who felt
+/	it so necessary to communicte the impotence of their little achivement.
+
+
+`[lshift]+{restart}`
+
+
+/ note: restart from a win menu, i.e. soft as possible: login screen power symbol, win start button* etc. - technically you can access an EFI pseudo-bios setup by
+/ holding [+vol]+[pwr] on the op left edge of surface screen/body unit itself, but holding any keyboard keys etc. wen using the main pwr button like tht doesnt access / the same win boot me option.
+
+
+`{advanced options}`
+
+
+`{XXXXXX}`
+
+/ (secret hidden option that doesn't look like an option, i.e. its just words at the bottom of the page / not a button like all other options on the list:*)
+
+
+`{6. SAFEMODE WITH COMMAND PROMPT}`
+
+
+/ ...probably some circly thing ... waiting ... etc. then a reboot... circly things and waiting...
+
+
+`{enter paassword for windows account _not_ pin or any other prior set/regularly used pass/id setting - you in safe mode, it doesn't know all tht fancy stuff ;) }`
+
+
+/ should be offered a  frenly, safe good ol' `c:\Widows\system32>` prompt.
+/ also remember, you not in wonderland anymore alice, this iis no longer the powershell pretendng to
+/ be command prompt you get by default in win10 etc. - you in real command prompt only environment.
+
+
+/ note: also relevant in general, the power button still behaves as you have it configured by last added/adjusted/etc. windows config settings, even in safmode or
+/ until you actually get to a load point where windows changes setting and successfully writes new behaviour setting. i.e. if you have [pwr] set to {sleep} the hitting
+/ power briefly/softtouch kinda manner will set the computer to sleep _not_ kill power/restart etc. when youre ready to exit safemode and reboot, you're best using the
+/ cmd.exe command `shutdown /r`
+/
+/ re: cmd.exe `shutdown` -from c:\ in win10;
+/		 `/s` (actually shutsdown)
+/		 `/f` (forces all apps to close without warning)
+/ 		 `/t {s}` (shutdown after {seconds} wait. {0} will shut down straight away)
+/		 `/d [p|u:]xx:yy` (record message  in log as to why the fuck you did this):
+/	(Reasons on this computer: types, `E` = Expected `U` = Unexpected `P` = planned; `C` = customer defined; xx = 0-255; yy = 0-65535)
+/	here i am choosing `u:2:16` - Operating System Service Pack Unplanned...
+/		 `/p` (instant death - no wait,  no warning, just kill)
+/		 `/fw` (boots into the 'bios' upon reboot)
+/		 `/o` (boots into advanced optios upon reboot)
+/ so, from `c:\`, here goes: `shutdown /r /t 2 /d u:2:16`		Event Viewer > Windows Logs > System : info source User32  "Event ID" of 1074 will be this. 
+
+
+
+

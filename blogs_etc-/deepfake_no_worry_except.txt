@@ -1,0 +1,55 @@
+...leading convo drifts across topics inluding tropical alpen from the 80s, topical alpen for open wounds/muller rice for other wound treatment, weirdest possible subjects for a deepfake reincarnation [clearly cilla black...], and we land here:
+
+
+```
+oh - a lora is a way of shortcutting traing stablediffusion 'on-the-spot' s it were - i.e. you can just refer it to a jsson and it will auto load say 'cillablack' and know what her face/body/whtever looks like...
+there are other models as well as loras but theyre the easist to pretrain/get into as a beginner
+
+i'm using it as my start point into  building up to having a local running llm and then even ustom datasets etc.
+the longterm goal is an llm specifically trained for music/emotion content
+
+so instead of image gen or code assist or conversational chat, you feed it a playlist and itll listen through it and output suggestions from, e.g. spotify or w/e banks to gib recommends
+
+ideally eventually will be able to give it thumbs up/down or summin each tune hence refining the output dynamically realtime blah blah
+it's a long road
+
+maybe  i'll even somehow integrate into a vst3 plugin for ableton that generates chords n stuffwelp, currently learning loras is just teaching me about how traing/datasets/etc. works and how to choose dif numbers of epochs blah blah
+
+welp, currently learning loras is just teaching me about how traing/datasets/etc. works and how to choose dif numbers of epochs blah blah
+
+even after that i still got generalise outward/generalise outward again/abandon specificity to image gen/abandon specifcty to etc..
+it's nota fast journey and you got time to jump on board and catchup  your own route
+i just liked this route cos i had a private sidetwack interest
+i got bored yesterday and wrote a python script that uses stablediffusions turbo sketch/control abilities to blend multiple imagesand generate new content based upon them:
+it takes minimum 1 image of a  face and turns as many faces as given intoa new combo face
+works well but i have some minor prompt issues
+[simply the current output is always standig o a beach looking wet n salty]
+😄
+that was cos 2 days ago i was doing a favour for milly who wanted to see quite how good i could make ai nudes of her  - unfortunately rtc's jailbreak had been closed up via the usual udge methods so i had to alter the jailbreak
+hence i dug into actual api accessing python
+
+by the time i'd finished, although i got reasonably reognizable graphic hardcore milly nudes, i was much more into the concept of how much of a raw data set of images it needed for input to be able to absolute anything...
+reasoning that although technically you can just give one face shot and tweaktil it gets the face right, that's a lil like cutting out a face from a magazine and sticking it on random pr0n - borrrring
+i wanted actual face regardless of angle, actual realistic boobs/pussy etc.
+yes, ofc that requires source material but theoretically, if you have raw data theres a nice balance between having some real shots of everythig you wanna see from various angles andletting the power of 'ai' do the rest
+turns out current  tech/what we can comfortably run on a home machine with a commonplace higher end nvidia card requires maybe as littlde as 50 pics and no more than 250 max to get uncannily real shots of chosen person even if never before have they stripped naked, arched their back and scuttled across the floor like a spider whilst dripping juices down inner thighs or w/e sick n  twisted shit the real crazies want...
+
+if you dont care about having that persons actual legs/boobs/hands/pussy/ears/whatever is so easy it's ridiculous but if you wanna deepfake/video etc. this becomes much more necessary
+as yo can see this is becoming faster and faster not just put millys face on a naked body but 'ohhh - so that's what it actually takes to do a real deepfake'
+and it turns out, yes as of about 6 months to a yr or so ago an member of public can repro any voice whatsoever with just a few paragraphs of spoken word
+and yes therefore a few years before gen pop there were peope who could theoreticall make convincing vids even
+but it's harder, less advanced and much more work/limited results than you think and generally requires the kinda source material ou only get from people as public as celebrities or politicians etc.
+i.e. if you've never been filmed butt naked from 25 angles and recorded speaking for approx.10-20mins with no other major noise isues etc. - welp, they aint making deep fakes, theyre just sticking a fair approx. of your face on someone elses bod and maybe getting as good your voice as a million comedians out there can
+
+
+i.e. def not  fooling a bank voiceprint id or making hyperreal accurate vids of you naked from just your face n a fully clothed photo 
+basically, short of taking this project back to where i'm interested i'm already done with that rabbithole, never worrying again and paying little heed to fools 
+[beware: if youleav a ton of footage avail of you smoking meth/stripping nude when drunk/yelling nigger/whatever on discorb, and yes, it is all recorded - near any vc of 25 cams max  alowed i guarantee you an avg of 5 or so are recording the lot, welp - youre leaving yourself open even to joe bloggs with a std gaming pc and maybe a working weeks investment of time, to reproducing you doing any goddamn thing they please. you have been warned...]
+
+[[my learning project
+part a) is 'i have maybe 10gb plus of roxie vids n pics - can  make a roxie lora?'
+part b) is 'oh look - access to sora - lets make the video equiv' (in future)
+part c) is 'can i make something that lets me do 'i wanna mix of roxie n emily' or 'i want emily pssy but roxie tits'
+that's end of curiosity for me]]
+after this hopefully we a coupla yrs in and i have a server driving multiple machines with tensor cards ofsomesrt within a budget of $10-20k and can do the music thing...]]
+`>>>/end dreaming`

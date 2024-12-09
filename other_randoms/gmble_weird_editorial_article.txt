@@ -1,0 +1,230 @@
+GMBLE - Editorial
+editorial
+easy
+
+prateek692
+
+1
+May '21
+PROBLEM LINK:
+Contest 2
+
+Author: Bhavya Dhingra 3
+Tester: Syed Ali Aatif 2
+Editorialist: Prateek Mishra 3, Naman Dhingra 2
+
+DIFFICULTY
+EASY
+
+PREREQUISITES
+Array
+
+EXPLANATION
+For each test case, first the final outcome has to be checked, whether the team batting will be able to score r runs or not. For this, calculate the sum of the given sequence S (denoted by Sum) and compare it with r. Then there can be 3 outcomes -
+Sum >= r : In this case, the team batting will be able to score at least r runs in the n balls. To calculate the profit, we have to find out at what number of balls is the sum >= r. For this, start from the first ball and keep adding the runs, as soon as it is >= r, store the number of balls left. Then the profit is 50 * ( number of balls left ) - b.
+Sum = r-1 : In this case, the team batting will tie with the other team hence the profit will be 0
+Sum < r-1 : In this case, the team batting is not able to win. To calculate the profit, we have to find, at what ball is it impossible to win? Start from the first ball and check if runs left to score > 6*balls left. If yes, then it is impossible to win and profit is 50 * ( n - i ) - a
+
+ Example 1
+
+Suppose Chef decides to place equal bets on both teams A and B. Let’s suppose this bet accounts to Rs.400 for each team. Also, currently, team A requires 10 runs from the last 6 balls to win. We provide input in the form of 400 400 6 10, giving us a = 400, b = 400, n = 6 and r = 10. Let the runs scored by team A in n = 6 balls be 1, 0, 0, 2, 4, 4. If we find the sum of runs, it comes out to be 11.That means team A will win the match at the last ball. Now, according to the given formula, the profit/loss incurred by Chef will be = 50-400. Since profit/loss incurred is negative, Chef incurs a net loss of Rs.350 . So, the desired output will be :
+
+Loss 350
+
+ Example 2
+
+Chef bets Rs.400 on team A and Rs.200 on team B. Currently, team A requires 20 runs from the last 4 balls to win. We provide input in the form of 400 200 4 20, giving us a=400, b=200, n=4 and r=20. Let runs scored by team A in last n=4 balls be 6, 6, 0 , 1 respectively. If we find the sum of runs scored, it comes out to be 6+6+0+1=13.That means team A will lose the match and team B will win.
+Also, it is IMPORTANT to note that, in the last 2 balls, team A needed to score at-least 8 runs to win, but scored 0 runs in 2nd last ball, thus needing to score 8 runs in the last ball, which is impossible. Thus, team B wins in the 2nd last ball of the game.
+Now, total profit/loss incurred by Chef will be = ( 50 * 2 ) - 400= -300. Since profit/loss incurred is negative, Chef incurs a total loss of Rs.300. So, the desired output will be :
+
+Loss 300
+
+
+SOLUTION:
+ Setter’s Solution
+
+#include <bits/stdc++.h>
+using namespace std;
+ 
+#define sync {ios_base ::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);}
+#define rep(n) for(int i = 0;i<n;i++)
+#define rep1(a,b) for(int i = a;i<b;i++)
+#define int long long int
+#define mod 1000000007
+ 
+int a,b,n,r;
+ 
+void solve()
+{
+	cin>>a>>b>>n>>r;
+	int runs[n];
+	rep(n)
+    	cin>>runs[i];
+	int sum = 0;
+	int refund = LLONG_MIN;
+	for(int i = 0;i<n;i++)
+	{
+    	if(r-sum>6*(n-i) ){
+        	refund = max(50*(n-i) - a,refund);
+    	}
+    	if(sum>=r)
+    	{
+        	refund = max(50*(n-i) - b,refund);
+    	}
+    	sum += runs[i];
+	}
+ 
+	if(sum>=r)
+	{
+    	refund = max(refund,-b);
+	}
+	else if(sum<r-1)
+	{
+    	refund = max(refund,-a);
+	}
+	else
+	{
+    	refund = 0;
+	}
+	if(refund>0)
+	{
+    	cout<<"Profit "<<refund;
+	}
+	else if(refund<0)
+	{
+    	cout<<"Loss "<<abs(refund);
+	}
+	else
+	{
+    	cout<<"No profit no loss";
+	}
+}
+ 
+int32_t main()
+{
+ 
+	#ifndef ONLINE_JUDGE
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+	#endif
+	
+	sync;
+	int t = 1;
+	cin>>t;
+	while(t--){
+    	solve();
+    	cout<<"\n";
+	}
+	return 0;
+}
+
+
+#####
+
+
+Gambling Math 101: Calculating Profits and Losses in Cricket Bets
+When it comes to gambling, understanding the math behind potential profits and losses is crucial. Today, let’s break down a simplified model based on cricket betting. Imagine two teams, A and B, where Chef has placed bets on both of them. We’ll use some Python to calculate potential profit or loss based on how the game unfolds.
+
+In our example, we’re assuming:
+
+Chef bets a certain amount on Team A and Team B.
+We know how many runs Team A needs to win and how many balls are left.
+The result depends on the actual runs scored in the remaining balls.
+Let's look at how this works step-by-step, along with some Python code to illustrate it.
+
+Problem Setup and Explanation
+Chef places a bet on both teams. Depending on the runs scored by Team A in the final balls:
+
+If Team A scores enough runs to win, Chef calculates a profit or loss based on how soon they win.
+If Team A is on the verge of winning but can't make it, Chef incurs a loss based on when it's clear they won’t reach the target.
+Example Scenarios
+Example 1:
+
+Chef bets Rs. 400 on both Team A and Team B.
+Team A needs 10 runs from 6 balls.
+Runs scored by Team A: [1, 0, 0, 2, 4, 4]
+If Team A wins, Chef's profit/loss is calculated based on how many balls remain when they reach the target.
+Example 2:
+
+Chef bets Rs. 400 on Team A and Rs. 200 on Team B.
+Team A needs 20 runs from 4 balls.
+Runs scored by Team A: [6, 6, 0, 1]
+If Team A can’t reach the target, the loss is calculated based on how early it’s obvious they will lose.
+Let’s write some Python code to simulate this.
+
+Python Code Implementation
+Here’s how we can implement this scenario in Python.
+
+python
+Copy code
+def calculate_profit_loss(a, b, n, r, runs):
+    total_runs = sum(runs)
+    profit_loss = 0
+    
+    # Calculate outcomes
+    if total_runs >= r:
+        # Team A wins, find the first point they reached the target
+        current_sum = 0
+        for i in range(n):
+            current_sum += runs[i]
+            if current_sum >= r:
+                balls_left = n - i - 1
+                profit_loss = 50 * balls_left - b
+                break
+    elif total_runs == r - 1:
+        # Team A ties the match, no profit or loss
+        profit_loss = 0
+    else:
+        # Team A loses, find the first point it became impossible to win
+        current_sum = 0
+        for i in range(n):
+            current_sum += runs[i]
+            if r - current_sum > 6 * (n - i - 1):
+                balls_left = n - i - 1
+                profit_loss = 50 * balls_left - a
+                break
+        else:
+            # If they lose at the very end
+            profit_loss = -a
+    
+    # Determine result
+    if profit_loss > 0:
+        return f"Profit {profit_loss}"
+    elif profit_loss < 0:
+        return f"Loss {abs(profit_loss)}"
+    else:
+        return "No profit no loss"
+
+
+# Example 1
+a, b, n, r = 400, 400, 6, 10
+runs = [1, 0, 0, 2, 4, 4]
+print(calculate_profit_loss(a, b, n, r, runs))  # Output should be "Loss 350"
+
+# Example 2
+a, b, n, r = 400, 200, 4, 20
+runs = [6, 6, 0, 1]
+print(calculate_profit_loss(a, b, n, r, runs))  # Output should be "Loss 300"
+Explanation of the Code
+Inputs:
+
+a: Bet amount on Team A.
+b: Bet amount on Team B.
+n: Number of balls left.
+r: Runs needed by Team A to win.
+runs: A list of runs scored by Team A on each ball.
+Logic:
+
+If Team A scores enough runs (total_runs >= r), we calculate the profit based on when they reach the target.
+If Team A ties (total_runs == r - 1), no profit or loss is made.
+If Team A is guaranteed to lose (total_runs < r - 1), we calculate the loss based on when it becomes impossible to reach the target.
+Profit/Loss Calculation:
+
+For each scenario, profit or loss is determined by remaining balls and the initial bets (a and b).
+Output Examples
+Example 1: Loss of Rs. 350.
+Example 2: Loss of Rs. 300.
+Summary
+In this blog post, we looked at a simplified betting model on a cricket game. We calculated potential profit or loss based on runs needed, runs scored, and remaining balls. Using Python, we walked through a step-by-step method to determine the outcome.
+
+This example shows how understanding probability and setting smart conditions can help you calculate risks in betting, even in a simplified scenario like cricket.

@@ -1,0 +1,302 @@
+{embedd uyoutube links for examples}
+{see source: https://funknstuff.net/wp-content/uploads/2021/11/P-Funk-Bass-Player-Mag-2005-Redo-11-2021.pdf accessed 05/02/2024 17:48}
+
+Ways of achieving more 'raw' or 'dirty' sounds in ableton: the exciting world of nonlinearities!
+
+let us assume we're starting with a synth sound that lacks somehing and  the decision is to tweak the synth slightly more 'raw' - usually meaning making either wave form single/saw rather than dual/sqr/sin, or using features like sync if waveforms like sqr are essential/duals+/etc.  are essential.
+furthermore any overdrive now applied will be more raw and have that kinda 'ayesha erotica' electropunk- diy [as a perfect silly example :P ], certainableton plugs are by nature designed to get that effect:
+
+know your tools:
+e.g., if you want to sound like it was made in a crackhouse squat with $10 of 80's gear and 12hrs of drug fuelled rage, then look to:
+- guitar pedals [or emulators/soundalikes? thereof]	:: PEDAL, DRUM BUSS?
+- old fashioned tech [i.e. anything pretending to be vintage or emulating ioldskool gear]	:: VINYL DISTORTION, EDUX/REDUX LEGACY, LOOPERS?, EROSION, DYNAMIC TUBE, CORPUS?, AMP
+-stuff that has errors/low sample rate [not necessarily chep stuff tho often the case - moreso anything that achieves degradation or losses somehow]
+- waveshapers [at suitable settings]	:: SATURATOR
+OTHER ABLEYTONE0S	::OVERDRIVE?, _SOME_ VOCODER SETTINGS, SHIFTER?, COMPRESSORS?, ABUSED LIMS?, BEAT REPEAT~, AUTOPAN, FILTERS, 
+{- put amps as a catgory sep.}
+3RD PARTY PLUGS
+etc. [ABUSED ANYTHINGS - no softclip!] 
+
+if you want to sound like 2000's electrotech thin and clear electronic but very buzzy/harsh sound [think _"Benni Benassi - _Satisfaction"]  then you'll need to  be looking more to:
+- overdrives with tunable degree of tone, filtering and the like	:: OVERDRIVE?, DRUM BUSS?, 
+- synth techniques involving asymmetric filter overdrive, synced saw-waves and relevant modulation  to get the most of those features	:: ANALOG
+{dup. sat here}
+- possibly surpisingly, application of relatively light chorus/
+COMPRESSORS?, FILTERs, 
+
+if you want to achieve tjhe classic 'schranz' german techno sound [example], look to nonlins that produce tight, 'fine' walls of distortion such as:
+- amps/pedals/guitar stuff
+- waveshapers/distortions
+- highspeed mod anythings
+- degradations/reductions etc.
+- blah blah
+
+classic funk saw bassline [e.g. Snoop Dogg'sGz And Hustlaz{https://www.youtube.com/watch?v=jvA4oV_-29Y} ampled from Parliament's Aqua Boogie {https://www.youtube.com/watch?v=zBVNOrV0Pr4}] much simple than previous  ideas:
+- analog minmoog style synth bass
+AUTO FILTER, ANALOG,
+{https://www.talkbass.com/threads/dr-dre-g-funk-bass-sound.21169/:
+_"Yep, you're right -- those lines were played on keyboards (a Minimoog, I think), so your best bet might be to find a bass synth pedal. Electro Harmonix makes one (Micro Bass Synth); so does Boss (SYB-3); and Akai recently came out with one (SB-1 Deep Impact). Line 6 also just came out with a filter modeler that includes some synth sounds (FM4). Check 'em out.."_}
+
+
+
+
+
+
+reson?
+
+
+this means in ableton, for sound sources
+
+using instrument::
+**analog**:
+
+- osc1 only;	[i.e turn off osc by setting yellow button to grey], ...optional touch of noise no more than -20dB@~8khzcolour  if osc1 is set to0dB.
+- tuning is key;	pitchenv initial~9%/time~19%, pitchmood key~99%, submode~100%
+- fil1;		lp12, freq~153, res~34, 0%to f2, as close to 0/0/1/0 adsr as possible, lin/leg-on, drive=asym3
+- amp1;		level -18, lin/leg-on, 6ms/7ms/1/10ms adsr
+
+- master
+  routing etc.;	detune -0.01, stretch2%, error100%, mono,
+  		vib-on, 49%, 0.2hz 
+		uni-on, 0.1	
+		gli-on, 45%, legato
+		unison voices 2, delay 2ms, glide-mode const
+master vol	0.0dB
+
+
+**operator**::
+- opa/b only;	[d/c should be grey-off] 	
+- tuning is key;	opb: coarse2, fine1, lvl0.0db, [should be blue-on], retrig-off [r]button-black, 25%feedback, wave: swD [iirc isposed to be vintage moog model D 'minimoog' emu]
+		opa: coarse1, fine0, lvl-5.7db, [shoulld be yellow-on], retrig-off [r]button-black, 25%feedback, wave: 64->32->16 [result is 16bit user saw]
+- op amp-envs;	env: 0/1ms/0/1ms adsr, key1%, 
+
+- master		pitch-envs: -14st/+9st/-50%[0.35ms]/50%[3.25ms]/-7st/-50%[4.20ms]/-3st		i/p/a[a.sl]/d[d.sl]/s/r[r.sl] :: [x.sl] 'slopes', tiny dot next to 'a'
+		time<vel3%, dest.a100%ab, glide-on20.4ms 
+		filter-envs: 0.0%/100%/0.16ms/1.67ms/90%/1.83ms				i/p/a/d/s/r,
+		lp12, prd, freq 38hz, res 36%, amnt env62%, flt.drv23db/shaper-hard/shp.drv-11db/freq-key1%
+  routing etc.;	routing all independent: y|c|b|r [most rhs], time-1%, tone49%, rtg-off[black 'r'], voices1, interpol-off/antialias-off 
+		
+master vol	-18db
+
+
+...
+for both of the above::
+
+- these settings get 60s/70s vintage analog sounds like minimoog or polivoks or 'raw'/'fat' sounds - good for basses
+- with these as approx default settings it's effectively modelling a very simple, raw, cheap, basic one vco/vcf/vca/sub analog synth.
+- key points are subtlety. if it's only 0.01/0.1/1/99%/etc. on a setting, that's as close to 0/100 as possible, just a tweak off. [the idea is to let it have very occassional errors/drifts/detunes/whatever as much as is realistic, letting things like tube amp distortion/speaker cab resonaces/whtever be emulated by the plugs that do those jobs]
+- these are two main routes to very low cpu, very simple sound source ableton midi soft synths. there's a million more things you can do for extra realism.
+
+
+...
+- i included operator as well as anlogue even tho the aim was to emulate analogue synth sound cos of this neat trick:
+
+when you got an operator waveform display in view, if it's editied i any way - blip something then put it back even,
+r-clk the waveform [anywhere on the blue lines], and there's a lil menu with 'export AMS'
+it'll auto save it to a folder bydefault, and focus explorer on it in ableton - if you r-clk that file and select 'show in explorer' it'll pop open a win explorer right on it.
+open the file with notepad or w/e .txt editor [r-clk 'open with' and select your choice]:
+
+basefreq; 261.625549		[hz]  261.625549 is c3 on std 12 oct midi as ableton interprets.
+rootkey; 60			this will load as basefreq @ c3
+sample rate; 44100		default 44.1khz, also  optional 96000, 48000, etc.
+channels; 1			
+bitspersample; 32			options are 16/24/32bit
+volume; auto			DO NOT FUCK WITH THIS!
+sine1; 1.000000			volume of fundamental/harmonics
+sine2; 1.000000			of the additive synth:	
+sine3; 1.000000			default is 64 hrmonics total,
+sine4; 1.000000			can be extended to 128
+etc.; ...				extra fancy can also set 'cosine'
+
+
+once you got all this set ot your desire, or just wanna jump straight to the meat of it:
+these .ams files are 'multi-cycle' waveforms that can also be used with simpler/sampler.
+you can further go on to create a 'single-cycle waveform'/wavetable file for use with aleton wavetable/other wavetables as follows:
+
+divide samplerate by number of samples and edit th base freq accordingly:
+- number of samples in this case is;		1024 [from ableton wavetable value read]
+- samplerate is freq in .ams file 'samplerate';	44100 [by default]
+- freq/number sample;			44100/1024 = 43.06640625
+
+replace basefreq value in .ams file with calculated '43.06640625'
+
+
+
+*[note: importing single-cycle .ams files created like thisinto sampler wont be 'single-cycle' straight off - sample end needs to be adjusted:
+calc start/end values
+
+sample start = 441
+sample end = sample start + ( scw length - 1 ) = 441 + (1024 - 1 ) = 1464
+( - 1 cos it starts at 441 not 440)
+
+then import file to sampler (drag'n'drop straight onto the blank 'waveform' display in a fresh sampler;
+set sustain mode to 'single:forward', sample start 441, sample end 1464
+
+the waveform display should cycle from exactly zero-xing start to zero-xing start of next cycle - i.e. if a sine then one rise-to-peak/fall-to-trough/return-to-origin.]*
+
+
+**in ableton wavetable, after drag'n'drop wave into then 'waveform display', need to hit the 'raw' button**
+
+
+there's a whole buncha wild shit you can do using numerical anaylisis software scripts to perform fourier tranformations and createactual wavetables of multiple single-cycle waveforms to extents you really don't wanna go into...
+
+...
+alt source examples:
+
+operator edited to real cruddy single harmonic/high feedback/low samplerate etc. waveforms, [try tricks like repeatedly gong between 16/32/16/32 buttons, with or w/out edits inbetween - will reduce bitdepth costantly lading back on 16 to get a 'raw' digital sound]
+combine ths with stuff like btcrushing/downsampling, very low qual digital filter models, noise, digital/lowestfilter distort options, etc. as well as playing with resample at low bitdepth/samplerate, running ableton at low res samperate/bitdepth and conversion back'n'forth can all be successful.
+[beware, every mess with samplerate/bitdepth that isn't perma export to external and set to a bounced 32bit/48khz or whatever you have ableton set to will be consta internal converted to internal rates real time and have _massive_ impact on ableton performance.]
+
+it undamentally boils down to knowing wat sound you want, read into wha gear was used, look up that gear - what internal samplerate/bitdepth or filter types or analogue cicrutiry was emploeyed etc., put those settigs into the source and you'll be a long way to having good results.
+
+from there it's muchly a combo of:
+
+
+...
+using plugins like:
+
+audio effects/
+drive & colour/
+- pedal		specific guitar overdrive model, good for proco-rat/etc. guitar pedals
+		[kinda designed to be used with /utilities/tuner > pedal > drive & colour/amp > drive & colour/cabinet/   - tuner has no affect n signal, just an analyser... ]
+
+- overdrive	general pedal overdrive model  good for oldskool roland 'boss' pedal stuff
+
+- dynamic tube	specific attemt to model tube amp stuff		
+
+- drum buss	tho designed for use on whole drum channels, it can be used for all kindsa cool kinda cheap mixer bus emulations with the right tweaks
+
+- erosions	good for some artefacty/aliasing/downsampling kinda stuff - basically when you want digital crud results
+
+- redux		does both bitcrush and downsample - again great for digital stuff, more attuned toward low-res oldskool sampler emulation
+
+- saturator	supercomplex distortion tht can be tweaked to get damn near any distorion type yu can imagune with some learning and creativity
+
+- vinyl distortion	stright up aimed to give emu of a turntable playing back the channel as form avinyl recording, but can be used for a buncha other creative shit too
+
+- amp		specific guitar/bass amp head modeller - it's pretty good wthout having to learn tons. pretty much designed to always be used with 'cabinet' direct following in 		chain
+
+
+[i would recommend always runni=ng any of these through cabinet, regardless of whether using source > pedal/fx > tube+amp > ... or other] 
+
+hot-tip: route everything up to the point of adding cab to multiple channels, then add dif verbs/cab mic settings etc then adjust volumes and mix together as a group
+this hot-tip works extra well i combined with using multiple eqs to split dif freqs of signal into dif verb channels - e.g. high freq to short bright verb, mid freq to longer regular verb, low freq to long dark verb.
+
+once you've done source > fx > amp/cab > room reverb > ...onward
+
+then try adding stuff like tape emulation or mixer emulation like ditortions/channel eq n com/etc. that might be found on a vintage mixer
+
+further going on to add more layers of tape emulation/mixer emu/general eq n multiband comp and limiting and stuff will start to pile up the soun of a mi repepatedly channel recorded then bounced to busses then grouped and bounced to master etc.
+
+rinse and repeat to taste...
+
+
+...
+finally, there's aa lot to be gained from doing things like:
+playing notes in realtime recording from a midi controller/keyboard or even ust your comouter keyborat.
+if that isnt option and/or for further processing, the groove pool can be employed effectively:
+- if you only use the quantize part of the groove functon, it doesn't actually take any note of the groove pattern -so by applying any groove and setting timing, random and velocity amounts to 0% then adjusting quantize and base parameters you can get realtime nondestructive quantising - tweak it right and you can test out all kinds of quanitisng on timing etc.
+- to opposte ends, use of 'extract groove' function or selecting from the presets in the groove pool and then applying a tiny touch of random will give a degree of 'humanisation', especially good for making parts rigidly drawn in o piano roll/drum grid sound more raw/real.
+- the global setting affects timing/random/velocity for every froove file used - if  you apply grooes a setting for  global appears on the transport bar too - that's the % next to tme sig e.g. [4/4][96%] ... note, this gos upto 130% as well as downwards, so you can totally crank up te overall impact as well as turn it down - useful for setting rough balance of grooves individually then deciding they need to be more subtle overall or more exagerrated overall.
+- try doubling either a channel of midi or a single note/drum voice/group/whatever and if using a groove already, duplicate it or just apply a fresh groove otherwise, then add a smidge of random on the groove settings to the second groove.
+- if youre _very_ sure you dont wanna have to go back and revert to bakups etc. and want to bounce shit down etc., there's a lil right-arrow on a circle button on the rhs of the groove section of the 'notes tab' of clip view in session mode. 
+
+
+i could go on forever about subtl errors ituning and timing and so on - fundamentally it all boils fown to nonlinearities -the horrendously scary math of things that arent constantly identical and consistent every single time. the trick is achieving the rightbalance of realistic nonlins where an instrument has slight error due to hot resistors/old leaky caps/drifty tunign circuits/low qual digital sampling tech etc. etc. vs. the more aggressive nonlins of human error playing real time note input or whatever vs. the extreme mess of amps/room verb/mutliple recording overdubs etc. etc.
+
+to go real deep, some of my fav nonlins used in music can be seen in examples like BoC recording audio though old vhs video tape to get time-drifting wow/flutter/smeary effects that comeout beautifully faded/detuned/filtered/etc. resulting in that incredibly nostalgic-melancholy wanna cri for no apparent reason result of the finishe music.
+
+ofc, it goes even deeper than that...
+
+
+
+#####
+
+
+Adding Raw, Dirty, and Nonlinear Sounds in Ableton Live 12 Suite
+Achieving raw or dirty sounds in Ableton Live often comes down to one thing: nonlinearities. These are subtle (or not-so-subtle) variations that make a sound feel more human, analog, and, well, imperfect. Whether you're looking to capture the grit of a 2000s electropunk track, the intense distortion of German techno, or the smooth funk of a G-funk bassline, adding nonlinearities through specific effects and techniques can bring your sound to life.
+
+1. Choosing the Right Tools for Grit and Imperfection
+To get that authentic, gritty sound, it’s all about selecting tools that emphasize nonlinearities, distortions, and lo-fi qualities. Here’s a breakdown of how different tools can help you achieve various styles.
+
+If You Want: An 80s, DIY Electro-punk Sound
+Think $10 guitar pedals in a basement studio, harsh overdrive, and crunchy effects. Look to:
+
+Pedal and Drum Buss: Use these for strong overdrive and distortion reminiscent of guitar pedals.
+Vinyl Distortion, Redux, and Erosion: Add bit-crushing, down-sampling, and old-school noise artifacts.
+Dynamic Tube and Amp: Go for a “tube amp” feel, great for lo-fi distortion and warmth.
+Beat Repeat and Autopan: Useful for rhythmic cuts, stutters, and spatial effects.
+If You Want: Clean, Buzzing 2000s Electrotech Sound
+For a sound like Benni Benassi’s Satisfaction, with that clear, electronic edge:
+
+Overdrive and Drum Buss: Both allow for controlled drive and tonal shaping.
+Saturation: Dial in asymmetric waveforms for buzzing, bright distortions.
+Filters and Compressors: Use these to sculpt the sound post-distortion for a refined, electronic polish.
+If You Want: Heavy, Tight Distortion (Schranz/German Techno)
+To achieve the intense, wall-like distortion that defines Schranz techno:
+
+Amp and Pedals: Use guitar-style distortion to create thick layers.
+Waveshapers: Adjust saturation settings to fine-tune the distortion’s texture.
+Bitcrushers and Sample Rate Reducers: Lower bit rates and add digital noise for an aggressive sound.
+If You Want: Classic Funk Bass
+For funk and G-funk basslines, you’ll want a classic saw wave bass:
+
+Analog: Start with a Minimoog-inspired analog bass patch.
+Auto Filter: Add filter modulation to shape the bass and give it that classic Parliament-Funkadelic vibe.
+2. Synth Settings for Analog Emulation
+Using Analog and Operator in Ableton
+Both Analog and Operator can be configured for vintage analog emulation. These settings aim to create raw, punchy basses and leads that are reminiscent of classic analog synths.
+
+Analog:
+
+Oscillator: Use only Oscillator 1 (disable Oscillator 2) and add a hint of noise for texture.
+Filter: Set to LP12, with moderate resonance and asymmetrical drive for warmth.
+Amp Envelope: Short attack, with subtle decay and sustain settings.
+Master Section: Add subtle unison, low detuning, and a slight glide for analog realism.
+Operator:
+
+Oscillators: Enable Operators A and B. Operator B can be set to a saw wave for a vintage tone.
+Envelope and Feedback: Use tight envelopes for punch and apply feedback sparingly for grit.
+Filter: Add a soft LP12 filter to warm up the sound and cut digital harshness.
+3. Creating Unique Waveforms with Operator
+You can use Operator’s waveform editing features to create custom, “cruddy” single-cycle waveforms, ideal for lo-fi and raw sounds:
+
+Edit Waveform: Make a small tweak to the waveform in the display.
+Export as AMS File: Right-click the waveform to export as an AMS file. This file can be used in Sampler or Wavetable for even more custom sound design.
+For example:
+
+Set the sample rate to 44100 and bit depth to 16/24/32-bit.
+Customize harmonics by editing the sine harmonics section in Notepad for deeper control.
+4. Essential Ableton Audio Effects for Grit and Dirt
+Ableton Live 12 Suite has several audio effects that are perfect for adding distortion, noise, and other artifacts.
+
+Pedal: Modeled after guitar pedals, ideal for grungy overdrive and saturation.
+Overdrive: Adds warmth and grit with classic overdrive, great for synthesizing a “vintage” distortion.
+Dynamic Tube: Simulates tube distortion for a smooth, nonlinear crunch.
+Drum Buss: Not just for drums; use it on any channel for added drive and thickness.
+Erosion: Adds noise, especially useful for lo-fi digital textures.
+Redux: Bit-crush and down-sample for low-res sampler-style degradation.
+Saturator: An incredibly flexible waveshaper, perfect for fine-tuning distortion types.
+Vinyl Distortion: Emulates vinyl crackle and turntable wear for lo-fi effects.
+Pro Tip: Always follow these effects with Cabinet to emulate the sound of an amp speaker for added realism.
+5. Advanced Techniques with the Groove Pool
+The Groove Pool in Ableton Live is not just for timing adjustments; it can add a human touch to your sequences, making them feel less robotic.
+
+Quantization: By adjusting the quantization settings in the Groove Pool, you can experiment with various timing feels.
+Humanization: Add slight randomness to timing and velocity to make piano roll patterns sound more natural.
+Global Groove Amount: Adjust the global groove amount to control how heavily grooves affect the overall track.
+6. Building Complex, Layered Nonlinearities
+For true sonic depth, try routing your signal through multiple stages of distortion and filtering, gradually building a complex texture.
+
+Multi-band Processing: Use multiple EQs to split the signal into different frequency bands, then process each band separately.
+Reverb and Delay Stacking: Route your processed signal through various reverbs and delays to add space and depth. Try different reverb lengths and EQs for each frequency band.
+Layered Tape and Mixer Emulation: After your initial processing, add tape or mixer emulation effects. Each stage adds nonlinearities that make the sound richer and more analog.
+7. Achieving Nonlinearities with Real-Time Input and Timing Variations
+To add subtle imperfections, record parts in real-time using a MIDI controller. Or, use the Groove Pool to adjust timing and add small errors, making your sequences feel more dynamic and lifelike.
+
+Remember: the goal is to create a balanced mix of controlled errors, imperfections, and variability. Some artists even run audio through VHS tape or analog gear to get natural wow/flutter and aged effects, creating a unique, nostalgic feel in the final sound.
+
+Final Thoughts
+Adding nonlinearities and imperfections is all about enhancing your sound with character and warmth. From vintage analog-style patches to intense digital grit, Ableton Live 12 Suite has the tools to bring rawness to your music. Experiment with these techniques, embrace the imperfections, and watch your sound come to life!
+
+

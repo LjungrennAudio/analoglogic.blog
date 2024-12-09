@@ -1,0 +1,43 @@
+Main
+1 [GRN] Arboretum Elemental
+1 [GRN] Assure // Assemble
+1 [KHM] Battle for Bretagard
+1 [GRN] Beast Whisperer
+1 [GRN] Candlelight Vigil
+1 [GRN] Circuitous Route
+2 [GRN] Conclave Cavalier
+1 [GRN] District Guide
+1 [SOI] Duskwatch Recruiter // Krallenhorde Howler
+1 [GRN] Emmara, Soul of the Accord
+1 [RIX] Enter the Unknown
+1 [RNA] Expose to Daylight
+7 Forest
+1 [RNA] Gatebreaker Ram
+2 [GRN] Gird for Battle
+1 [GRN] Glaive of the Guildpact
+1 [RNA] Guardian Project
+1 [GRN] Guildmages' Forum
+1 [RNA] Hero of Precinct One
+1 [GRN] Hunted Witness
+1 [RNA] Incubation Druid
+1 [C15] Llanowar Reborn
+1 [GRN] Loxodon Restorer
+1 [GRN] March of the Multitudes
+1 [GRN] Pelt Collector
+4 Plains
+1 [RNA] Sauroform Hybrid
+6 [GRN] Selesnya Guildgate
+1 [DOM] Shanna, Sisay's Legacy
+2 [GRN] Sprouting Renewal
+1 [RNA] Stony Strength
+1 [RNA] Summary Judgment
+1 [GRN] Sworn Companions
+2 [RNA] Sylvan Brushstrider
+1 [GRN] Take Heart
+1 [RNA] Tenth District Veteran
+1 [OGW] Tranquil Expanse
+1 [GRN] Trostani Discordant
+1 [GRN] Urban Utopia
+1 [GRN] Venerated Loxodon
+1 [C15] Vivid Grove
+1 [ORI] Zendikar's Roil

@@ -1,0 +1,120 @@
+- overall nonlin template
+- eq split verb
+- grouping
+- veeseeVStrack
+- basic modular synthesis
+- granular monolake stle with clouds
+- elements stuff
+- those magic midi fx
+- non-linearities and the uncanny valley
+- synth coding projects
+- serge style
+- west coast buchla style
+- brief comment on eats coast > SoS ss.
+- output chain minimum
+- working with audio
+- working with midi
+- programming ableton native synths
+- " abtn native fx
+- " etc.
+- warp algorythms
+- spatial
+- eq
+- levelling
+- group compression
+- whole special on the beat repeat fx thing
+- shortcut/key combos
+- 7.1 > reaper
+- emptyset:
+https://www.youtube.com/watch?v=hflYYbtuBj0
+https://www.itsnicethat.com/articles/emptset-dancing-to-architecture
+https://youtu.be/l8Vr3qGoEFg
+
+: D
+beware - not for the faitn hearted
+"Yeah we've got two Akai sequencing samplers running very barebones parts of what we're doing that's getting processed with a bunch of analogue outboard and then all kind of fed back on itself through a couple of mixers. So I guess it's very much akin to our studio process which is based more upon creating processes in which we're feeding skeletal sounds through and the process itself is what's imparting any kind of interest because we're always starting with sine waves and noise and that's where the music happens. So kind of creating the conditions for the music to come alive."
+...
+"We wrote the entire album in the Multiverse Studio. The signal chain we used was based on using Logic 8 as a playback device for the noise and sine waves and sending it through a series of valve compressors and EQs, various transistor based gear and series of microphones set up in the control room and on amplifiers set up in other isolated rooms. We wanted to create situations where the music came alive from its own side by finding the points within signal chains where distortion begins to form before it overpowers. If you listened to our source material it would sound pathetic, everything interesting happens in the relationship between different elements in the chain."
+Blush Response deos this shit with a fuckin deep kick - live is like the greatest techno evar - raw fucking bassy distorted power
+
+https://youtu.be/U4FNBMZsqrY
+
+
+https://soundcloud.com/waxcide/doepfer-emptyset-attempt1
+
+this was pretty much all doepfer basic modules doing the work:
+
+a-145 lfo and a-147 lfo cross modulating for cv sine and rhythm
+a-107 pinged to make a kick (tho any filter would do)
+a-110-4 for high pitch sine (any sine source would do)
+a-118 for coloured noise
+a-188-1 4096 stage bbd in the feed back loop to the main mixer
+RYO ampmix x 2 for mixing andd feedbacking
+RYO vertmix for mixing and inverting to avoid phase cancellation of certain feedbacks/mixed signals
+2hp eg for pinging the filter
+coupla mults
+and... the main killer driving force: WMD SSF ultrafold
+
+13 modules and about 30 patchcables
+
+technically you could skip the a188-1, one of the lfos, use a real cheap basic filter and a way cheaper distortion instead of the ultrafold.
+
+i'm a) thrilled how good the sounds i got first go were
+b) surprised how much was basic doepfer modules
+c) it's a real simple patch - all the skill is in feedback loops in the right places and tweaking til things just start to 'play themselves'
+
+https://soundcloud.com/waxcide/doepfer-emptyset-attempt1
+
+compressors, equalizers, distortions. Then feed them back into each other. - doom vid nails it from man who knows.
+https://youtu.be/ua-f0ypVbPA
+
+
+`"I interviewed for the music magazine I worked for.
+A lot of decent compressor, eq on their feedback paths.
+And yeah, real plate reverb must be a key.
+
+James has been playing zither like diy string instrument for their live set recently. Which was cool but their set on LUFF festival many years ago were serious mind blowing experiment for me. I could almost shit on my pants really.
+
+the pedals mentioned by Mick Gordon in the Doom video posted above:
+
+The source signal (monophonic sine waves with varying amplitude and pitch) enters 4 parallel fx chains. Each chain had the following pedals in series:
+
+Chain 1
+retro mechanical labs 432k distortion box
+metasonix kv 100
+geiger counter
+dwarfcraft fuzz
+splitter (one signal to the output, others to sidechain the compressors at the end of the 2nd and 3rd chain for dynamic mixing)
+
+Chain 2
+geiger counter
+metasonix tx 3
+mutron bi phaser
+dod 70s phaser
+compressor
+
+3rd Chain
+watkins copycat tape echo
+trogotronic valve distortion (used for compression)
+akai reel to reel driven hard
+spring reverb tank
+compressor
+
+4th Chain
+fender speaker mini amp driven too hard
+mic
+splitter with little amount of signal fedback into mini amp
+
+The 4 chains entered a mixer and then an EQ with gentle boosts at 30-60hz and 8-10khz and finally a compressor with 30ms attack, release adjusted to tempo, ratio of 12 or 20 to 1 with threshold set so it was always knocking off about 20db while the source signal played and lifted the background noise when the loud sounds died away.
+
+
+Can't wait to try my own version of this type of rig.`"
+2018
+
+"Having met them a few times I would say that a large part is having a decent studio setup and deep practice with your gear. Ginz has been doing studio work for ages - lots of experience. I seem to remember him saying that it was a revelation when he started really listening to how gear sounded/behaved rather than being lead by the level/clipping indicators on them - drive 'em hard if it sounds good!"
+
+quote from tom bug of bugbrand synthesisers, makerof one of the nicest synths i ever owned:
+`"Having met them a few times I would say that a large part is having a decent studio setup and deep practice with your gear. Ginz has been doing studio work for ages - lots of experience. I seem to remember him saying that it was a revelation when he started really listening to how gear sounded/behaved rather than being lead by the level/clipping indicators on them - drive 'em hard if it sounds good!"`
+
+
+- 				

@@ -1,0 +1,33 @@
+Lands
+12 Forest
+2 Jungle Hollow
+11 Swamp
+
+Spells
+3 Commune with the Gods
+2 Dark Betrayal
+1 Debilitating Injury
+1 Defend the Hearth
+1 Font of Fertility
+1 Nyx Infusion
+1 Plummet
+1 Reviving Melody
+2 Vineweft
+1 Whip of Erebos
+
+Creatures
+1 Baleful Eidolon
+2 Brain Maggot
+1 Courser of Kruphix
+1 Doomwake Giant
+1 Eidolon of Blossoms
+1 Graverobber Spider
+2 Grim Guardian
+1 Leafcrown Dryad
+1 Loathsome Catoblepas
+2 Nemesis of Mortals
+1 Nighthowler
+1 Noble Quarry
+3 Nyx Weaver
+2 Oakheart Dryads
+1 Reaper of the Wilds

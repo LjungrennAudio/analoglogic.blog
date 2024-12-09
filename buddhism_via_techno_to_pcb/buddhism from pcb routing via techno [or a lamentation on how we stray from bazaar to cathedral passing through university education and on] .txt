@@ -1,0 +1,269 @@
+***beware: you are about to be sucked into experiencing the mind of true adhd at full tilt from within - approach with caution...***
+
+
+but whatver you fnd best - this is he fun
+(amy) — Yesterday at 23:48
+i might have to go back and mess with the schematic after messing with the pcb 
+(amy) — Yesterday at 23:49
+i will figure it out
+wofl — Yesterday at 23:50
+bs to rubkis cube - this has like infinity sidesand the best part is when you solve it its your colours and thtere's, maybe only one, but at least one person out there who will one day see that pcb and prob;ly cos they tha smort/autistic/unique go 'huh' and move on
+bt someoe will have recongvised youre special
+oddly, overthe years i had causeto  do things like call up asys just cos i wanted to know exactly how their demo of their bbd was such beauty perfecc for dub  techno yet every other extant recording in universe had trad bbd clock noise when long delay time
+(amy) — Yesterday at 23:55
+i don't know why the ratsnest doesnt exist for this bus connection, it's annoying that i can't join it together on the pcb
+Image
+wofl — Yesterday at 23:55
+fucking bob analogue sytems himself answered the phone and we had 4hr chat about using stero phase flipped squarewave synced to signal to exactly cacel out clock that drives the lil cap bucket brigade timing inside the ic - when you use long delay the clock goes so slow the frq is dropped audible down to  - he esplained how to patch, how to do all the sond work, then took interest in how i  was using his vintage anlogue classic east coast modular for modern techno usually done on compters
+drifted into chat about the importance to human psyhology of error and uncanny valley and how fundamental comfort and hence satisfying art is erroneous and imperfecc - hence analougue/modular etc. would in a way never die
+(amy) — Yesterday at 23:57
+to err is human (if yr a human anyway)
+wofl — Yesterday at 23:57
+suspecc  that conecc thingies are either the wrong sortof linky line - theres two sorts bussing and panel breaky
+if notthat then is the labeli g convention - how it has that impossible to find menu list of each break pair and how they are frens
+wofl — Today at 00:00
+its something i'm thinking about alot, again again today - someone i value opnion of alot - partl cos not kindest soul criticismwise - we polite of mutual respecc not cos great identify frens lol, neverthless, said they like not the pitchbends/detunes/harmonics/distorts/obvious nonlinears in the lil loop i loved so
+but the rhythm
+it was the fact i had so much cross modulation in th origanal it had fed back on  itself and midi delays from latency in underpowered machine vs 3 tiers of inteacrting eg levels, plus velocity/aftertouc/glide all led to a groove impossible to achieve with computer derived patterns
+the killer was tho - after 3hrs with a constan oop no beat so no appreciation of any irregularity, i satisgy with sound, recordded, thew to a 4/4 kick plus random 4bar jazz break from folder - and it was 1 beat off.
+trim/shift left - and 💡
+it went fucking funky
+the forcing of error, the uncany valley trappped in a world of rigid perfection and looped - there's the magic of techno
+its not pure rigis pattern from computer no matter how complex or rich in timbre
+and yet unlike other music nether is it pure human
+it;s fucking musical autism
+it's that bridhe between no linear safely accessed within set cinfines of predefined linear - i.e. 4/4
+😮
+and hre's my qed:
+https://open.spotify.com/track/6EbN8Dtjek4BEjL9f085HC?si=0fd43fc08fe24448
+
+(amy) — Today at 00:07
+i like floating points
+wofl — Today at 00:07
+Raised in Manchester, England, Shepherd studied piano at Chetham's School of Music[2] before receiving a PhD in neuroscience and epigenetics at University College London.[3] He also worked as a DJ at Plastic People, a London club, in the late 2000s.[4]
+read that fuckingyrsago - stuck with me for reasons i didnt know at  the time conciously
+it jst clearly was relevat to my philosophy
+and recently it becomes clear than ever:
+Shepherd's musical influences include Claude Debussy, Olivier Messiaen, and Bill Evans.[4] He began releasing work under the Floating Points moniker in 2008,[5] and in 2017 toured with The xx.[6] Between 2019 and 2020, Shepherd collaborated with jazz saxophonist Pharoah Sanders and The London Symphony Orchestra for the album Promises, which was released on 26 March 2021 to critical acclaim.[7][8][9] It was the first major new album released by Sanders in nearly two decades.[9]
+
+He collaborated as a producer for Japanese American singer-songwriter Hikaru Utada album Bad Mode, working on the songs "BAD MODE", "Kibunja Naino (Not In The Mood)" and "Somewhere Near Marseilles".[10]
+classical, jazz, synthpony orchestra modern, techno, lectronica, ambient - combine with grasp of brain/psychology/people  and essentially - seeing the audience as to communicate with in clubs when djing etc. - experience of peple via observation
+all that takes lisening, studying  i school - so not just biology/chem, but much deep math, reading skils, stuy skills, developing a natural or having inhherent desire to suck in info to learn, to observe, to apply to other aspects of life.
+i.e. multidisciplinary.
+wofl
+ pinned 
+a message
+ to this channel. See all 
+pinned messages
+.
+ — Today at 00:13
+wofl
+ pinned 
+a message
+ to this channel. See all 
+pinned messages
+.
+ — Today at 00:13
+wofl — Today at 00:14
+there's one final puzzle piece:
+there's is no way, whatsoever, that 'copying ' inherently is 'bad.`
+wofl — Today at 00:21
+gdi - mid train of thoguth the damned troublesome internet cuts out - engineer comes tomorrow - not soon enough
+lol
+spoilt wofl 
+can tgo 12hrs no interwebs
+i was already going through phone settign up blutooth tethering to mobile hotspot
+lol
+anyways:
+3rd crucial and nownot lost or turning to digression keyaspect is:
+the concept of the mentor.
+thoughtout as lon ass time has had the existence of ssocial animals, a key elemnt of accelerated brain growth/evolution/advancementn civialisation n development of technology:
+passing down information - nt just leaning, tool using, developing skills etc. - but teching them to the next generation
+i repeatedly hear people say itsa dying aspect in modern social world
+recently begun to disagree - my mentors were effectively 'the internet', 'the radio', 'the club/festival drug momma', the record shop music-drug dealer', 'the dreamers of dreams'.
+and maybe the lat hto a bit spouting crap now seeming is actually key
+(amy) — Today at 00:27
+i don't know why the busses in the schematic don't work
+getting frustrated
+wofl — Today at 00:27
+from as young as i rmemeber i gravitated to scifi - who knows why some kids pick up a twig and go pew pew and its a gun whetehr future laser space game or cops n robber, whilst others want to dust for finerpprints or fule up with dilithiium crystals
+bevertheless, it's where people think without being judged for going places no matter how ridiculous - and on into the relevant point - sampling, freemididownlaoads.com, garage punk cover bands, etc.
+those are the mentors that teach us the things we need - not music school/sound engineering degree blah blah - we learn by doing, by cipying, by recreating, then making it ours
+adding, modifying, tweaking, improving.
+all of the masters and the real geniuses grasp 'standing on the shoulders of giants'
+...
+i absolutely agree if we insist on ,living in a capitalist world where things like music are our choice of meansto income and hence survival then we become precious and copyng in anyfprm is taboo and stigma
+yet each time someone learns how mf doom sampled somehting by accessng whosampled.com and then  loops the same jazz record with a movie snippet vocal - if they then sell that same thing for money uner the name mf doom and profit from his innovation/hard work/etc., but how far do you go - theyre alsso rippign off the 10,000 people indirectly upstreaam wo made the music and movies sampled, and the recording gear, and the movie the guy who wrote the script watched as a kid and wanted to keep the style alive 60yrs later in an industry moving on....
+wofl — Today at 00:35
+were supposed to copy - but if it'snot taboo/stigmatised, it as anyone honest will tell yu,  very very quickly becomes utterly boring ad a deep disatisfaction lurks
+i kno am happy with the loop i made htis morning bacause yes, i wanted that gusgus patch - guilty, partly cos old fashioned still jst nt trained in generations below - google it, let alone watch video demoing how - but did  and gues what - my randominstict picks guy who works for focusrite/novation - the people who bought sequnrtial circyita and i had just earlier that day written off all sequential modern synths as just crap cos no innovation - vco>vca>vcf with eg! surprise we made  our synth again
+but i've grown, so i listened, and watched - he was evry very good material for total noob - took approach i never saw before. but, he didnt cver what made the gusgus patch special - he wrote it off as just bread and butter - admitting he loved it and stated 90% of his creations there but still unspecial
+totally not saying, vcos synced, detuend, pitcybends,dif amounts of cutoff/res/drive/vca env and end;ess nonlinsand cross modds
+all subtely reigned in by the sync so it washarmonicall rch and sorta glled together not jsut mess
+luckily, i spent 2more hrs earning how to do allthis from basical principles of synthesis [thanx avareth yet again 🙂 ]
+what did i end up with - ofc my own thing - you can see gusgus inthere, but the sheer amount of nonlin, dif synths, vcos, vcas. vcfs, fx, etc. etc.
+then dif midi signals, feedbckk loops timing etc.
+then trimming differently
+and on
+then note changes
+that's how we learn, thats how we developskills and hw w come up with new
+wofl — Today at 00:42
+we synthesise something new from something extant - ingreients.
+so there's your three magic key parts ossibly to anything but definitely in my far too long drawn out thought that was actually about techno:
+wofl
+ pinned 
+a message
+ to this channel. See all 
+pinned messages
+.
+ — Today at 00:43
+wofl — Today at 00:45
+i)    core lizard brain needs error.
+ii)   techno is slightly autistic - it a pefect marriage of error confined withina  safety net of non-error
+iii) it is derived from a mentor - even though commonyl in electronic music orld the mentor is now something like torrented ableton and a free year access to loopcloud.
+patience with people who are goign down the path and even tho yes,making msuic with torrented software and just copypasta download  loops is basically beereft of any art - it's like da vinci sitting for 3yrs just drawing a circle free hand til h gets it ddown pat [dunno if that is a thign - just example].
+
+what matters is not the process, but the resulting art when someone everntually gets to that level - th is, in capitalist west society for msot things are such that music, instruments, intellectual property and the like have a particular type of value tat maes there stilla very present divide between those who sample/copypast with the knowledge they may just be paint by numbers - but it's a process and those who as in angenerational gap as long as time stretches back, don;t for the most part see past convetion and the traps of being successful in a world that rewars them and hence cling to what is dogma...
+phew.
+657        return 0; 
+hehe - irrc i think in c/c++/c# and much other code, logically youave to tell the computer a line has ended - always must be a semi-colon
+or w/e
+wofl — Today at 00:54
+as fast as i'm ;earning depths of more n more code a whole generation is entering a world where you just type:
+"when key pressed make this ound at this pitch." and ai turnsto code, adding not only the syntax that's just autofill logical analyiss etc. - but already can even go past type halfline and fill in- it even can go 'yo'u;re writing a synthesis code - how about i suggest filling onward with ampliudde envelope code for that pitched tone generated'
+i was already boggled by wolfram alpha at first - wolfram modeller thing - if you got $500 a month - and schools do, just drag n drop say 'this sample wave file x' goes into a 'thingy to make it change like this' near pure concet - ust boks on a blank sheet - and guides thru flowcharts/diagrams, then modelling and simulation and emulation - then codes, then does  calcs on necessary processing time vs stuff to use like cpu n ram - and theres the mech eng.like a frame work fr making a synth case or keybed etc.etc. etc.
+a sixxteen yr old with imagination, a good techer and a school sub to wolfram could build something that i more advanced and crweative, and likely betterr adapted to existing market that has real value than anything maade by moog for $2500 that is same architecture, electtonics, aestheticand the rest as in 1960something
+😮
+wofl — Today at 01:02
+the only thing that 16yr old doesnt have necessarily is the life experience and years of learnt knwledge that letsthem input their unique touch to the design aided by the tech and teacher and the like
+i dont panic too much becasue it would be like claimign loopcloud is the end of musicians having value or ai tking over creativity
+its the innovation with appplication to something grasped about the world experrienced as far as referencing emotion - understsnding people.
+......
+i honestlythink that will still always be lacking in anything designed/created without the love/passion/pain/experience/understanding of what maes special - yes someone could do well, make a living/life or even become rich, famous n get te glory - but i honeslty doubt there will never be much true happy derived from creating or the crations of ai or those basicaly assisietd and led by ai and even the most advanced uses of something lacking the nonlinear the humn species call a love of something.
+true end total thought train cos i want to ask - soor you werre victim but this been brewing days - can i copy past to blog and shilll all over social media?
+it's a very valuable fudamental thunk and i'd like to share with the unniverse and see it's thoguhts
+(amy) — Today at 01:07
+sure thing, it's yr words
+wofl — Today at 01:07
+mostl cos it ay be bs
+yeah, but there's some key triggers/comments/nudeges/quotes from you
+i belief in giving credit for every damn lil thing, if permitted, mostly due to selfish:
+(amy) — Today at 01:09
+sorry i havent interjected much, im trying to figure out which goes on the top board and bottom board
+wofl — Today at 01:09
+people thank back
+people promote things you helped with in return
+and key of all:
+the cathedral/bazaar concept
+wofl — Today at 01:18
+essay to google and read if you unfamilar - it's basically wy linus whatisface made liux open source - and i think that says enough in itself
+btw, one last tie up thought then i proceeed to blog heheh
+the whole concept of cathedral vs bazaar s dont be gatekeepy religion controllng mass, closed system hen release without full advantage of mass world of testers, experiences, diff thinkign etc.
+leteveryone see every little inside thing every step, every inch
+think github - the ultimate example of bazaar
+wildwest of illlions of forked others work, each evolving nad slightly going differnt mustations -  most die off for a trillion reasons - but, it's effectively a colony lifeform doing very highspeed iterations through genersations of what survval of the fitest realkly means - as applied to a not even necesssarily concious hive mind acting the same way ai  algorythms find thebest wy to do math, code, physics etc. - it's kinda brute force often on a seep level, or far aneough down based on at osmepint just plain trying every possibility and comparing - but sufficient numbers and time allows this to be a feasible method.
+espcially whe you remove money form the equation...
+wofl — Today at 01:25
+my thoughts therefore are always
+there is some value in 'informed'  throwing crsp at wall and seeing what sticks.
+too many cooks dont spoil th ebroth if they each have their own kitchen - we dont have to all eat the same crappy beginners over salted broth.
+we just ay attention when a lot of people a rea talking about  someones rather special broth.
+no matter what the problem, open source everything - maybe your problem  gets solved by someone who thinks differnt to you, maybe unseen problems are found before you went so deep you cant fix without scrapping 2 yrs work, maybe someone see's a solution so good to the original purpose of product/servce you eith just dont need uch work, or totally can abandona  wild goose chaseor actually discover an unknown option that is faster/cheaper/better etc. 
+....
+last words:
+the real takeaway i had today?
+the gatekeepign inherent due to stigmatised/taboo of 'copying' results in retardation fo learning process
+attempting a literature review of existing 'DUSG' circuits used inn the pretty much every single existing format of modular synth and hence version present in lineup of anyone who has enough maret interst to make modular in the serge philosphy, i came across the R*S/rando, source page as i worked down the  big guys - first serge tcherepinhimself, then kenstone/elby/mr sts/etc.
+wofl — Today at 01:38
+a curiosity i've, very beautifully, actually found exceptionally rare i the synth world - ridiculously poor attempts in such a classic fashion of western capitalist way to stop 'industrial espionage of a idiotic manner - the assemblyguides for each diy were so professionally, slickly, accessib;y there, website nt slow, ice graphics, few spelling/grammar errors, nice aesthetic etc. - someone spent MUNNEY$$$$.
+but - whereas the div-by-n/comp/bool logic panel had clearly marked cd4017b, cd4093, and cd4053 (iirc - terrible memeory fr non-emotional connects like numers/symbols) - but on the page for dusg - the ic's are unlabelled 😮
+oh noes - now i as someone with any electonic knowledge plus synthesis knowledge plus current tech knowledge plus patching/serge philosphy knowledge etc. really amnot gonnatakeone llo and see whats going on andhence make likely 99% probable first go guess at id of the ic's used?
+it stops someone doing a 15mins gooogle search as a n00b, copy pastaing the schems, making some diy runs at a level that even if 1% of the market of synth builders did it woulldnt come closeto denting R*S market sales for reasons if you dont grasp requires wholeother blog entry on business.
+what it does do is reflect very poorly on R*S attitude to communty in eneral, and also made me lol fully aware that anyone truly plannign to improve ttech in a way to brig them down in n industrail espionage competitive way - they'd spendthe fucking piffling sub $5k investment on actually ordering a panel and just fucking reverse engineering
+people dont want and arent going to just flat put copy - if they want to they'll do it -
+but, it does stop curious minds of the 'torrent ableton and rip stuff off youtube into sampler' stage of learning n modern world from getting past and developing modifications, improvements, etc.
+wofl — Today at 01:45
+oddly tho - i dont have a bug about this childish behaviour due the actual lack ofdirect onfo on theor intellectual property - screw it, i dont care - it's the fact i can't then go - intersting, lets go onto stack exchange/github/wiki/science journal libraries/online syllabus sources - and LEARN. see how they derived the tech from current resarch or what went befoe or learn some first principles necesseasary to make my own intellectual jumps, offshoots, etc.
+hecc - i just as well could improve something/brainwave/innpvate such that i work for/with/do wrok that leads them to new products/upgrades/etc.
+theyre technically hindering their own progress massively by cathedral behaviour on the level that blocks grass roots access and in no way affects anyone who could be problem - it aids thse who might have reason to want ill for R*S
+(amy) — Today at 01:48
+what is R*S
+im not familiar with the abbreviation
+wofl — Today at 01:49
+so instead i have a .txt file listing everyone from pre '73 serge designs themselves and linsk to his inspirations of learning the math/electronics of such basics behind the dusg - i.e. it ;eads me right back to stuff ike r/c filters being same as math for integrate/differentiate
+RandomSource
+(amy) — Today at 01:49
+ah
+wofl — Today at 01:49
+they make the euroserge
+naturally as oi progress through allthe serge 4us, the euro officials, the weird elbys and kenstone cgs's, the doepfer ndersungs, my now retired RYO co-counder's experiments in egs/slews/comparators/window stuff - i'm learning, innovating, vassilatiting between backwards to fundamentals of math that seems at first abstract and yet likewseforward to whole dif avenues of module concepts nothing like R*S dusg that's only innovationis mild tempco alowing extra octave of tracing on a good day....
+i actually no thanks to them am now making something possibly not modular, not analogue, bot conventional, bot oldskool, not anythong other than, due to the key elemen of absilute fuckin repecc,passion and love - it does have the philosophy of serge.
+i deep,y deeply beive in the importance of philosophy
+but i certainly am no threat to R*S same as ken stone/cgs/shelby arentthreatened even tho everydam circuit and schem and th e is avail for anyone - all it did was encourage and aid the sparks of a new idea thatcould be something of a gift to the orld of  music/synths/whatever - or maybe goes nowwhere and is just more 1110010100001's on the web that may or may not inspire someone else.... 
+wofl — Today at 01:57
+[crap - such many keyborat sucking missed letter to fix, typos to fix etc. - this'll be a chore to pre for blogability] 
+hehehe
+shall i just istead find a nice succinct buddhist quote of dont materialism, give love to all uncinditially and generally be fucking happy - music should be buddhist in fucking philosphy i swaer
+😄
+would be a quicker read and same damn thing 
+﻿
+(amy)
+inkpalace
+Amy 💖 Alien Slime
+Olivine 💚 Gem
+robot 📺 computer
+Minnow 🦈 shark
+
+20
+Real Cartoon Characters
+Creators of Ink Palace Modular
+https://inkpalace.bandcamp.com/
+
+
+
+important disclaim:
+i never even contacted R*S in anyway and for all i know they supply all assumed gatekept info with no issue whatsoever - i.e. i should make it clear this is more a commentary on public percieved image not meaning to cast actual aspersions n the character of R*S - get better marketing team/philosophy not you suck - i still ove you guys. :)
+
+likewise, the sstem is fucked - iabsolutely thinkwe shouldn't torrent anything like ableto if we EVER evenearn a penny fromit's use in ayway - they pour immense investment into development, research and so many employees, other users, and just people's happiness depends on them - they have a roght to keep that thing alive somehow even of maybe it's not ideal as is - i guess the knock on knowledge, inspration, encouragement of all they do etc.resulting in  open  source/free alternatives and so on means there'seffectively no reason to steal - youcan  make music baning pots n pans iwth a spoon fo you dont got drums afetr all
+
+and finally the relevant thnaks and credits wouldbe apprtopriate since it's kind of one ey point of this wordspew-rant!
+
+- amy for letting me mercilessly rubberduck whilst she was actively attempting to solve a pcb routing issue for me .
+- any other peeps
+- wiki
+- spotify
+- floating points
+- R*S serge
+- other serge links
+- [embed the youtube on basic synth patch - and brief why so special]
+- gusgus and embed
+- why spotify - linkto otherblog but therefore hypocrasy corollary. good algo tho - as listener they really are best. and they say fcuk you let jre go on which i on fence about etthically but i support right to free speech.
+- i'd like a link if i can identfy to whatever is a non-synth specific serge philosphy - should be googleable.
+
+
+note - right as i was screecapping the bit on cathedral vs. bazaar it struck me that the hrly moment of blinkered self-focussed complaint bout bad ui cropped up - this time, wouldn't it be a nice option to click a tick box in a context-relevant r/click-access menu for the snipping tool save [therefore any windows save] to turn on an ai 'you used name `capture1.pgn`, `capture2.png`, `capture3.png` and if desired use intelligent autofill. not force feature that many will hate, not insist on dumb autonumber most will never use cos percieved time lost inital learn n setup  vs. gained from it doing it. i'd love that in thsomoment rn but probably that sepcific use-asescenario willl enver arie again - otoh, it did teach me:
+- ul everything, os everything, discuss even mildest lil thing - sooner someone says 'exisits - is called linux. if you think like that, you can have any physically possible feature desired in any ux customised to the extremes beyond imagination and stop the eternal whinge about the universal issue of unintuitive and lazy ux design.
+ in fact ofc, i shave to considerall the unknowns - bloat/performance, not everyone is me - in fact am most def not avg., things are all W.I.P.these days - the mere existence of most stuff is alaboubeyond my appreiation andsometimes it not even intent or lazy orgreed or w/e - it's just plain 'it took us 20yrs to get what you have. be fucking greatful youre not staring at msdos prompt `:/` greentxt on 'black'background and realising that other's aren't so ridiculously anal synaesthetic such that they can grasp in some hard to communciate sorta 4d time-space how to navigate a technological device even relatively new, such that, e.g. finding files on a hdd efficiently might be an abstraction of thought to level of sanning briefly through a choose you own adventure
+i) 'just quickly open damn app and hit recently used to find path, vs.;
+ii) sped the 2mins required  to duckduckgo 'find everything'and never spend more than 100ms searching anything ever again, not even use explore or w/e anymore
+iii) implement ongoing a systematic appproch to locations and naming etc. of everything
+iv)... trail off inot realisation that requires a fundamental shift in philosophy of being so anal everything is organised and never lost or requiring thought to locate even if in roght place etc.;then rabbit hole into suchlifestyle precludes other pleasures of the world and actually might have more cons than pros.
+...
+..
+.
+welcome to the adhd brain - one core over clocked to 100x instead of 10cores parallel processing so allowing some backgroudn crap to tick over whilst just fucking getting on with shit that matters.
+
+are you scaerd yet? {least this is graspable if worryingly a lil too familiar -it's when you are to readily identifying with the extreme narcissist/sociopath/psychopath/etc. and you realise  there's a fine line between empathy and fucked-up...}
+
+guess oneday i get to wordvspew on spectr, greyscale, gradeints, entropy sand the very essence of the universe - and how yet again the dam buddhists etc nailed it all over philosphically.
+
+i can switch to casting everything as if nietchze was genius and should be cult leader for a brighter world instead if you are sus of any sufficintly large/smol scale religion/cult? : D
+
+
+-------------------
+
+
+techno is all about patterns/repeating-loop/interplay of poly rhythm, either taking complexity but applying sufficient focus and restriction it is exuiste highight as opposed to overwhelming mess, or conversely, taking the extreme of simola and than allowing to be eposed nonlins such that even utter raw destruction nonlins are still not able to ovwhelm the basic pattern/w.e cos such pure simple.
+it uses the predictable,  _controllable_ world of computers/code/etc. to reign in he terrifying beauty that although the human soul reequires for comfort, is also peril - risk and possible uncontrollable becomes sage when constrained by a frame work of patttern and loop or of synthetic sine/plain saw as timbral low nonlin examples.
+
+this also goes to expaine the immmense vaiety and depth of subgenres, interpretations etc. - regrdless of extremes of distortion, janky rhythm, tempo poshed to 4 figure oe further, use of analogue, dj gear, even entire symphony orchestras [*cough* jeff mills...] , ever present will be the element of predictable - the autism of number, patttern, escape to a world controllable as a framework for safely exploring the otherwise intense nonlinears of reality.

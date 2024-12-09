@@ -1,0 +1,16 @@
+i just explained to someone who wanted to be a module designer how one single circuit can be used to make every single analogue module in the entire regular functional world.
+
+then that the inner workings were quite simple, requiring 'just a few logic and core components - maybe 5 total'
+
+...and then added that you can assemble that self same single circuit set of 5 or so components using  5 x the original simple circuit with slightly dif connections routed between them.
+
+
+\oroborous
+
+\patrick_splodes
+
+it's voltage controlled slews all the way down...
+
+
+
+

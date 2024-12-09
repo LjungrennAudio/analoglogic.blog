@@ -1,0 +1,4 @@
+landing page:
+gif - 'loading on led matrix wih some sort of cool retro progress bar, then the ghost /w scrolls across and hompage loads.
+
+see whisperer/entry/eentry.txt- sup ideograph

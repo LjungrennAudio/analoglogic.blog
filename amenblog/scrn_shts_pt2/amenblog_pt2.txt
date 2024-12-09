@@ -1,0 +1,27 @@
+now we're gonna carry on from the previous article on the amen break to alter not just the pattern of the drum sequence, but the sound of the drums themselves:
+
+- starting by loading the previous project from [recent projects] in the [file menu]:
+
+- we switch the kits used from the amen sample slices to alternate ableton kits or any kits of our choosing
+
+- duplicating the loops to make banks of 4
+
+- we loop at different places
+
+- we set follow actions for the groups of 4 so they play one after another in order, lopping back to start to repeat ad infinitum
+
+-  we apply filtering and our chopper effect to switch between the two channels
+
+- apply spatialisation via reverberation effects in the 'send/return' system.
+
+- we bounce and trim the audio resulting
+
+- we apply a new groove to the bounced output
+
+- we bounce the result to a final consolidated bounce channel
+
+- we lay down a recording to the arrange window and fix it withe crucial orange button
+
+- exporting we have a long complex break of many bars with totally differents sound
+
+- true blue, new beat!

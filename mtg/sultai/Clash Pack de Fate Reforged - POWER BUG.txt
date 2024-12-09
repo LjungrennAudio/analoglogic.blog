@@ -1,0 +1,31 @@
+
+Spells
+1 Annul
+1 Dead Drop
+1 Despise
+1 Hero's Downfall
+1 Monastery Siege
+2 Murderous Cut
+1 Naturalize
+1 Neutralizing Blast
+1 Set Adrift
+1 Sultai Ascendancy
+1 Sultai Banner
+2 Sultai Charm
+2 Taigam's Scheming
+1 Treasure Cruise
+
+Creatures
+1 Gurmag Angler
+1 Herald of Torment
+1 1 Necropolis Fiend
+1 Scuttling Doom Engine
+2 Sultai Scavenger
+1 Typhoid Rats
+
+1 Merciless Executioner
+2 Necromancer's Assistant
+1 Returned Centaur
+4 Satyr Wayfinder
+1 Sultai Skullkeeper
+2 Sultai Soothsayer
