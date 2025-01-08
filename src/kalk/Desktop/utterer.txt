@@ -1,0 +1,70 @@
+
+
+									ד אִיּוֹב		
+
+
+
+
+_"if you gaze into the abyss long enough you'll see the light not the darkness. ... i'm betting my life on it." - Jordan Peterson talking to Lex Fridman._ ^[0]
+
+
+
+
+
+everyone has an o(π)nion. regardless of onions or π, many people have said many things throughout time. occassionally they speak to me, divorced from any/all context or connotations others may read in, the right words, sometimes, are simply beautiful.
+in the same way the most complex mathematical equation can reduce down to an elegant, and seemingly deceptive, collection of glyphs that represent features describing the universe as popularly accepted in all it's immense non-linear complexity, for example, gazing upon the Callan–Symanzik equation:
+
+
+the Callan-Symanzik equation^[1]^[2]^[3]:
+
+\left[M{\frac  {\partial }{\partial M}}+\beta (g){\frac  {\partial }{\partial g}}+n\gamma \right]G^{{(n)}}(x_{1},x_{2},\ldots ,x_{n};M,g)=0
+
+
+and recalling Matt Strassler's comment "The Callan-Symanzik equation is a vital first-principles equation from 1970, essential for describing how naive expectations will fail in a quantum world,..." i feel emotion akin to security.
+
+no thought of any politics, socio-economics, ethics  or any other possible aspects of reality that may have led to the discovery of this equation, those who worked toward that end, any personal opinions on those people or Matt Strassler etc. none of that is relevant, whether neutral, positive, negative, null due lack of information or the more common mess of 'all-of-the-above'.
+as a result, i invite you to attempt to remove any outside thoughts and influences from your world for a moment and in a state of mindful isolation consider the following simply for what it is - a look at some incidentally encuntered words and the resultant creation that followed: 
+
+
+2 Corinthians 4:8-18	Young's Literal Translation^[4]
+
+8	on every side being in tribulation, but not straitened; perplexed, but not in despair;
+9	persecuted, but not forsaken; cast down, but not destroyed;
+
+
+upon seeing this i thought, 'yup, that pretty much sums up this week's events' and the changes i have made to my world following on fro that will occassionally be mented upon here. if what you read here in any way troubles you, whether you are challenged  in any way by the fact there is, already to be encountered on this front page, Tana"kh references in Hebrew script/the philosophy of nietzche/mention of people (in)famously contoversial/Greek mathematical symbols representing (universal?) constants/quantuum physics equations/famous physicists' personal views on those equations/sources of reference material from any listed/my own silly pixelart creations^[5]/attempts to represent an alias using Aramaic script^[6]/a Kangxi radical^[7] or any of the various choices of font/formatting/capitolisation etc. - i suggest you just bail now - this place probably isn't for you...
+
+
+
+
+
+0. https://www.youtube.com/watch?v=sY8aFSY2zv4 (accessed September 18, 2023).
+1. Callan, Curtis G. (1970-10-15). "Broken Scale Invariance in Scalar Field Theory". Physical Review D. American Physical Society (APS). 2 (8): 1541–1547.
+2. Symanzik, K. (1970). "Small distance behaviour in field theory and power counting". Communications in Mathematical Physics. Springer Science and Business Media LLC. 18 (3): 227–246.
+3. Symanzik, K. (1971). "Small-distance-behaviour analysis and Wilson expansions". Communications in Mathematical Physics. Springer Science and Business Media LLC. 23 (1): 49–86.
+4. https://www.biblegateway.com/passage/?search=2%20Corinthians%204%3A8-18&version=YLT (accessed September 18, 2023).
+5. https://en.wikipedia.org/wiki/Ghost_(physics)#Bad_ghosts (accessed September 18, 2023).
+6. https://www.atour.com/ (accessed September 18, 2023).
+7. https://www.compart.com/en/unicode/U+2FC1 (accessed September 18, 2023).
+8. https://www.youtube.com/watch?v=SQ5PxlOkxME (accessed September 18, 2023).
+
+						
+						      [image: beware_the_ghost_propagator.png]
+						
+								       לוחשת								
+									鬼
+
+
+
+
+
+
+[descriptor txt: `"Mr. Thicke is a hard-core murmurer." who is Mr. Thicke?`]
+
+
+
+
+/	my refs:
+/	https://www.biblegateway.com/passage/?search=Job+27%3A4&version=YLT (accessed September 18, 2023).:
+/	"My lips do not speak perverseness, And my tongue doth not utter deceit."
+/	https://duckduckgo.com/?q=bab.la+dictionary+hebrew&atb=v387-1&ia=web (accessed September 18, 2023).

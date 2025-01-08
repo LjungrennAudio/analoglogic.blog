@@ -1,0 +1,43 @@
+Empyrion: sm0l ship construction…
+
+I’ve been playing Empyrion: Galactic Survival fora good few hundred hrs now and the majority of my constructions by a long shot falll under the ‘sm0l ship’ category. I find particular pleasure in trying to design the absolute optimum design perfection for a given set of requirements but also considering [my own personal, weird sometimes] aesthetic values too. Hence I’m fancying gathering my thoughts and inspiring myself further by jotting down what I’ve learned so far:
+
+By far in this game the commonest requirement set for a sm0l ship will be as a single seat fighter - transporting people may be sometimes relevant or utility industrial vehicles like miners and the like but they are generally things you’ll only want one of and so maybe less interesting to build [for example a miner you’re usually following a universal desire for max laser tooling, sufficient generators to run em, fuel oxygen and little else - not much desire for speed, high velocity/inertial stuff, armour, defence/attack or others; hence the resulting designs tend to be quite similar looking and functioning.]
+
+Fighters are a particular art form - especially the most common single seat fast attack ship to-ship type:
+
+- they require great forward speed for basic chasing and evasion as well as shifting the main weight of the ship forward
+
+- significant side thrust for strafe [essential in battle, even more so than turning] and some of the roll power as well as yaw and pitch for turning - hence thesae are crucial
+
+- relatively good reverse thrust to count the large forward force tho the great force isn’t really necessary got contribute to yaw and others as we’ll to the amount they are necessary for braking for ward momentum
+
+- finally the vertical up n down need to be there for initial takeoff/ landing and some roll component but again are minimal in requirement compared to others
+
+- All these engines have mass of their own and are the bulk of the ship - but therefore also require power [fuel, generators->fuel, and cpu];
+
+- The ton of stuff running all this mass needs  a lot of rcs’s to add the necessary manoeuvrability/agility, cpu in large amounts for those, as we’ll as finally;
+
+- Shields [trying to armour with blocks only proves impractical sidewise and mass wise, [therefore room for shield gens, pentaixd tank, sufficient cpu and big power generation hence fueler defence, and;
+
+]- For attack the weapons which are often space consuming, [they can’t be buried compactly inside requireing, usually, forward openings, much cpu, power and ammo storage.]
+
+Achieving all this along with the cockpit and structural necessities is quite a feat to achieve and also make the thing look good as far as not just being a mis-shapen lump. Although a multitude of sins can be covered to a degree with a good paint job, there are obviously limits to what can be achieved that way.
+
+A basic concept helps greatly before even starting, as with any construction - trying to build something cool as an after thought means structure tends to end up a bit random and forcing awkward decisions that may detract from a consistent styling, although there is a convenience with small ships that by the time a cockpit is at the front and centre, and engines etc are symmetrical or balance and so on the shape is to. A degree dictated naturally. There is a degree of freedom still in choosing whether to enclose engines in pods, what shape to make the main body enclosing the computing and power, shields etc and finally the biggest considerations, main engines and some kind of weapons pods in wings or similar.
+
+My very first few ships followed a formula - try to use the biggest main thrusters I had technology for, then build around that, smaller but sufficient hence large reversing, large as doable sides and other thrusters, tho often in groups of small to medium engines and then a central body symmetrical down the middle for the bulk sat behind the cockpit so as not to make view hindered. Finally I would nail on weapons as pods slung under wings, on the sides or underneath/at front in placement that didn’t block view out.
+
+This was al very well for an ugly block that looked like just some engines and stuff kinda tacked on - cool as a brutalist work of power and armoury but as soon as extra considerations like trying to make dual cockpits, large numbers of weapons or something fundamental I only tear discovered was important in certain situations was concerned - drag.
+
+Al;though drag is only relevant in atmosphere, to make a good fighter that will take off well from any planet, speed round from land base to land base, cruise fast between planet surface destinations in general or just be capable for fighting well in atmosphere, particularly in planets with heavy atmospheres, then suddenly drag is a very important factor. To keep drag low it turns out the side to side profile is as crucial as the forward facing profile and each extra pair of weapons mounted or block-square thrusters, and non-sleek edges adds a good t each symmetrical side that’s matched up. This quickly adds major lack of acceleration and agility even if there’s huge main thrusters to ensure max speed and forward oomph are not so much affected.
+
+Even landing gear is an issue for things like drag and other movements - folding landing gear really helps to get a nice look to since it gets out the way ugly and awkward looking protuberances. Likewise any decorative or other functional items that stick out can either look great or real terrible depending on very specific placement s and so also will be limited due to effects on drag and symmetry for balance too.
+
+The only final real consideration is whether to bury the radar does inside or find a balanced place to keep it on the outside, although it fortunately seems to have little to no significant losses as far as drag is concerned.
+
+The main final not I have to make that I’ve probably still not learned much off and is something therefore I’m still trying to learn from prebuilt ships in the game and the workshop is the clever ways blocks can be used to add touches of simulated things like flaps round thrusters or to make intake cowlings, tail fins and the other nice touches that really make a ship look more than a collection of parts required by necessity or just a bunch cubes. This is a real artform you only learn by getting ideas from any source of inspiration you can draw from - whether real life stealth fighter craft, other designs in game or things from science fiction, art, movies and the rest of the places such ideas tend to crop up.
+
+The real special and clever things I advent come close to are those things that often turn out to be most dear to us in real world famous designs of such small craft in space fiction - th TIE fighters hexagonal ‘wings’ in starters or weird x-shaped wing strut craft that would never fly in current airplanes in real world, organic, alien and weird shapes that can be drawn from nature, under sea and completely non-aircraft related sources. To this end I’m trying as much as possible to base ideas on weird hover cote stuff from blade runner or a famous craft I might have seen in a us navy experimental craft test video on YouTube to really develop my own unique style.
+
+Hopefully this inspires and informs you in designing your own small fighter craft in empyrean more effectively and remember - always right click with every block possible - lights can be sloped, there’s tons of hidden uses for pipe shapes or corniced wall slabs then placed in unusual rotations etc. experiment and get creative!

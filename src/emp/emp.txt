@@ -1,0 +1,88 @@
+EMPYRION: GALACTIC SURVIVIAL
+
+the view from my first base, early into my gameplay
+
+I recently went through a period of stress and very long days so I decided to reward myself with some time off and something to fill it with. I bought a new gaming rig:
+
+Amd ryzen 3 4ghz
+32gb ddr4 ram
+Gtx 1660super 6gb
+1tb m.2 raid 0 array
+
+This was to run Empyrion: galactic survival
+
+I play on a server run by a friend along with 5 or 6 other friends - we collaborate to build an empire and just survive against some damned guys called the zirax who have been hassling us and trying to wipe us off our planet since we started the game.
+
+We have advanced sufficiently to be able to significantly challenge the zirax and hence maybe actually knock out their whole setup on this planet - and I think I have figured out the fastest and cheapest way to do it:
+
+Place prefabricated artillery platforms nearby zirax supply and teleport bases and shell them to no shields or turrets before we go in to knock out the core on foot in the interior depths.
+
+The cheapest possible most effective artillery platform is described below:
+
+Since the base monted artillery has a range of 1150m vs 850 for a hover tank, along with faster rotation speed and significantly greater damage (over 3 times more), it makes sense to prefab the platforms as bases in the factory, fly in fast n low with a small ship and dropship the things into place directly nearby behind a hill or in a forest or similar cover.
+
+Artillery platform with anti aircraft and ground defences, power for long term self sufficiency and optional upgrades:
+
+Weapons                                 power              cpu
+________________                       ______              __________
+
+1 artillery turret [bs]              0.050kw           22600cpu
+
+flak turret [bs]                        0.005kw             1300cpu
+
+minigun turret [bs]                0.005kw             2800cpu
+
+rocket turret [bs]                   0.005kw           10500cpu
+                                                  _______               _________
+                                                0.065kw           42800cpu
+
+Base platform requirements dictated by the above weaponry:
+
+base core                                0.005kw           [provides] 80000cpu
+
+ammo box                               0.0001kw          250cpu
+
+blocks/sundries                     0.001kw            1000cpu
+
+fuel tank T2                            0.0018kw           675cpu
+
+Power consumption total     0.0729kw
+
+small generator provides      2.5kw
+
+Therefore plenty, allowing T2 fuel tank to fuel the platform for long time.
+
+small generator only requires 512cpu
+
+Total cpu required:                                approx 45000cpu
+____
+fits in core                                               80000cpu
+___________                                               ____________
+
+Optional teleport                                   25kw                    pushes cpu over 80k so:
+
+T2 cpu extender to                               200,000cpu         0.05kw
+Needs large generator x2 provides    50kw                     minimal cpu
+
+Still plenty of fuel if teleport used infrequent.
+
+Alternative is to create power saving config where weapons and ammo are deactivated for teleport and teleport deactivated when to in use - alternating allows teleport to run from 1 large gen and hence no T2 or extra fuel.
+
+I.e. for unlock level 20 and a few hrs build time plus minimal unobtanium resources an artillery platform that can knock out an zirax base and defend itself agains attack to a reasonable degree can be build prefab and drop shipped within range unnoticed and out of range of bases very fast, effectively and even be dismantled and moved with the correct design.
+
+What a cold calculating military killer I have become from my early game space station garden centre visiting, tomato growing, ore mining/refining/trading self I have become!
+
+And next I design a moving artillery tank…
+
+Alternative is to create power saving config where weapons and ammo are deactivated for teleport and teleport deactivated when to in use - alternating allows teleport to run from 1 large gen and hence no T2 or extra fuel.
+
+I.e. for unlock level 20 and a few hrs build time plus minimal unobtanium resources an artillery platform that can knock out an zirax base and defend itself agains attack to a reasonable degree can be build prefab and drop shipped within range unnoticed and out of range of bases very fast, effectively and even be dismantled and moved with the correct design.
+
+What a cold calculating military killer I have become from my early game space station garden centre visiting, tomato growing, ore mining/refining/trading self I have become!
+
+And next I design a moving artillery tank
+
+
+
+
+

@@ -1,0 +1,27 @@
+Choosing Modular Sequencing (Or Not...)
+
+The eternal question when building a rig - how are you gonna control it, do you want to use modular sequencing. this major decision rules all else. it dictates space available, money available and complexity of utilities needed and sub-modules etc - naurally it comes up with both beginners and others - questions such as 'What do you mean? I already have a sequencer module that I'm pretty happy with it' or 'its so limited having only 16 steps and no variety'.
+
+you have to ask yourself what you want to achieve and work backwards, startining at the highest level of complexity - how many voices doing what, then count how many sequences each needs, controlled at how many levels [note - drums can usually be counted as a voice tho they often are a group of 6 - 10 voices in themselves]
+
+to make entire songs in real time takes different seuencing to just a phrase or loop to just something to sample into the computer - theres different types of sequencing - very straight rigid step sequencing, fancy complex musial sequencing like you can do with a daw, stuff you can pretty much only do with a modular like generative sequencing. likewise, to make a whole song might require something to sequence sequences - after all, not all songs arejust one reppeated loop - even electronic dance music may need multiple phrases and loops to be performed live/recorded realtime.
+
+Many enter modular intending to have the magic generative box that writes its own music and theres a lot of options for psudeo generative stuff just by doing cv feedback into sequencers with control inputs. this still means a second sequencer would be required to do anything more composed generally.
+
+One of the commonest choices seems to be getting percussion modules and doing generative stuff with beats underneath it - doing most of the melodic sequencing by quantizing lfos and function generators and random sources instead of extra sequencers.
+
+someone said to me the other day; 'Modular is an odd combination of pigeon holing yourself but also having unlimited possibilities within whatever pigeonhole you pick'
+
+there's so much truth in that last sentence i have a case with a single monosynth that has no sequencing - its purely driven by midi-cv from daw and is sampled into the daw for sound design
+
+i have two more cases that form my live techno rig. those all sequenced by matrix sequencers, programmable pattern generators with storage banks i fade between and mute/unmute parts of.
+
+and finally i have a generative setup that uses serge style patch programming, using comparators, flipflops, dividers, derivators, integrators etc to make ever changing slowly evolving generative music that writes its own phrases, melodies, rhythms etc.
+
+all three utterly different yet i love all of em
+
+for the seeming majority who see the appeal of generative, serge style, logic based stuff but don't think they have the money/space/understanding yet, commonly coming from an east coast subtractive 'standard' synthesis and DAW sequencing background it's worth notingmy setup for serge style patch programming takes 12u in its own right to achieve what i want [just sequencing - there's another 12u for voices], whereas the daw controlled synth is only 6u and is as bread n butter as you can imagine.
+
+If, [as for most] you' re looking for compact and are on a budget then the likely i think the solution is 'semi generative in a module sequencers' - stuff like QuBit Bloom or MI marbles combined a complex master clock like Pamela's New Workout or 4ms QCD and some utilities like an o_C etc..
+
+i cant tell you exactly what modules to choose or what is ideal for you/your music but hopefully this might steer you down the way to achieve what many desire from modular when just straight step sequencers and rigid daw style composition are defeating the concepts that made modular inviting...

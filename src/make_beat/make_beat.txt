@@ -1,0 +1,125 @@
+Making A New Beat From Another
+
+I should first explain what this is all about:
+Everybody on the planet seems to want beats made at the moment - for an absolute plethora of musical genres, but there's only so many secret undiscovered old jazz and soul records with perfect breaks to be discovered still out there, and not everyone can afford a sessionn drummer to play them special or even to buy sample cds with breaks released commercially. solution? taking existing beats and changing them enough to sound new. i'm gonna describe a fairly simple but fast technique i use often that is sufficiently different from other techniques ive come across to sound fresh.
+
+I'll take this procedure right from the very start of loading a raw audio file into ableton so those who aren't used to using audio in ableton can follow it, but it should be easy enough to skip past the stuff you already know - i'll explain why i do everything i describe so you know whether you personally need to do it or not.
+
+First of all, youre gonna need a pre-existing beat of some sort - the cool thing is, this works with absolutely ANY beat whatsoever - from the amen break to something you made on a cheap sounding casio midi keyboard just yesterday. for the sake of this post i'm gonna use a break randomly pulled of my harddisk, its found in "joe williams - get out my life woman", just to show it doesnt matter how much other music there is in the background or how much groove there is to the beat etc. Once youve chosen break, whether its a whole song or a single bar of drums, load the sample into an empty track in a new ableton project.
+
+
+
+
+
+The basic steps to work with any audio beat need to be carried out: looping it, cropping away the bits you arent using to allow easy editing later and fitting the length to a whole number of bars:
+- turn on loop mode by pressing the loop button
+- move the loop start marker so it's dead on the beginning of your loop. [it's up to you if you wanna zoom in and get a perfect zero crossing - for our purposes it doest realy matter]
+- Move the loop end marker to the nearest whole number of bars [longer or shorter than the end of your sample] or even fraction of bars if you feel adventurous to do weird rhythms.
+
+
+
+
+
+- right click on the sample image in the sample editor pane, within the loop area, and select crop clip. 
+- click on the warp marker bar on the end of the sample [there may or may not be a grey transient marker - if none it will snap to the end perfectly anyways] and click to create a warp marker, then drag it to the exact length of loop desired in whole bars
+- set the loop end marker to the point where you set the sample end
+- you can now adjust the tempo to suit your needs.
+
+
+
+
+
+hit play to check if the sample is in time with the metronome or not [you may need to hit play on the actual audio clip as well as the transport bar, and also you may need to turn on the metronome].
+if the loop isn't in time with the metronome, there's two fixes:
+
+- move the start marker [not the loop start marker] until the two are in sync with the loop beginning on the down beat,
+
+
+
+
+
+or;
+- move individual warp markers to shift only _parts_ of the loop [this means you will lose the grooove of the original loop], to get real clever rather than clcking existing grey transient markers to create warp markers you can double click the warp marker bar where you like and create your own warp markers. [dragging these around can pretty much transform your sample into a whole new beat just by itself].
+
+next we're gonna add the effect of the sections of the song being played back by tapping out the break on the pads of an mpc style sampler. this will require working wih the 'beats' warp mode, so since that is the default we dont need to do anything too complex ontop:
+
+
+
+
+
+- a quick glance at your loop will let you see what granulation resoltion will best match the number of and spacing of transients in your break [bearing in mind its qauantised to the beat].
+- select loop mode off. this means that the transients will play once then cease playing with each transient for the length of time you instruct it
+.- with the loop playing, lower the transient envelope time to be just short enough such that the transients are completely decayed at the end of each transient division [or as close that there's a subtle effect you find pleasing]
+n.b. any changes in tempo you make from here on, until the track is bounced, will require an adjustment inthe envelope length to account.
+
+There's a few odd bits of settings to be adjusted and you have the basic sample settings done:
+- Adjust the clip gain to a decent level without it clipping [unless that sound is desired]
+[it may be necessary for you to loaad the sample into ram if your harddisk is slow - to improve performance click the 'RAM' button - this usually isnt necessary if you have an ssd; likewise if your cpu is getting overloaded then turn _off_ HiQ.]
+- set the desired pitch using the 'tranpose semitones' and 'detune in cents' controls; usually this will be to tune it with the rest of your project, but in this case i'm starting with the beat so i've knocked the pitch down 3 semitones to give the feeling of a sample slowed down by changing speed on an old hardware sampler with no pitch correction.
+
+Now weve readied our sample we can begin the interesting stuff. first we're gonna create a duplicate of the drum beat but in midi:
+- right click the clip in the track and select 'convert drums to new MIDI track'. this will take a few seconds.
+- mute the audio sample track and select the midi clip in the tracks pane.
+- from the collection section, in the drum browser, find a kit you like and drag it across to replace the default midi kit. [i'm using 'selector kit warm' in this case because it has a nice natural acoustic sound but with a slightly warm, vintage, lofi feel, like a sampled jazz record]
+
+you'll have to adjust the midi pattern notes to correspond with the correct drums now; so drag the top bar of the midi note editor upwards until the whole list of drums can be seen, and one at a time, select each row of midi notes to their corresponding sound by holding down [shift] and clicking the notes you want then pressing the up arrow for each time you want to move up a row:
+
+- usually the uppermost row is the hats - a row with approx three dif velocities:
+OH the strongest velocity and least number of notes,
+CH the weakest velocity and majority of the notes,
+Pedal Hat or Shaker the few remaining notes with medium velocities.
+- the kick will be the lowest row on the screen
+[often the converter picks up too many hits so you may need to delete a few unnecessary ones.]
+- and generally there'll be a snare/clap too - could be only a few or many, generally high velocity.
+
+
+
+
+
+At this point you can unmute the sample track and play both together to compare timing; usually it's ok but not good enough - to fix this you have two methods available:
+- manually move or delete any problem drum hits until everythings synced, or;
+- select all, right click in a blank bit of the midi note editor pane, select 'quantise timing' from the menu and choose '16th's', both 'start' and 'end' on, '100%' and then click 'ok' - this will snap all the notes to the nearest 16th division with no messy end overlaps.
+- finally, a cunning trick; right cllick on the audio clip, select 'extract groove(s)' - wait for it to complete, and then return to the midi clip; in the clip view pane, from the 'clip groove' dropdown, select the groove that is the title of the sample you used.
+
+
+
+
+
+voila, now your beats, audio and midi, should share the same groove and hence be in time. you can use the same groove menu selection for any or every part of your entire project that you want to share that groove! generally, very simple clean drum breaks work best for this - your mileage may vary...
+[n.b. snice this varies in effectiveness depending on the sample from which you extracted the groove, i provided the alternative method of manually adjusting note placement]
+
+
+
+
+
+Now the fun and unique part [at last!] - we're going to use some audio effects in unusual ways to blend the audio and midi tracks together into one new sounding beat:
+- match the volumes of the two channels using the mixer
+- insert an 'autopan' audio effect into the audio track and copy the settings in the picture below [i have this saved as a preset so i have a shortcut to edit when i need it ready]
+- copy and paste the autopan into the midi channel and click 'normal' to change it to 'inverted'
+These two autopan effects working together will chop the two channels playing into an alternating pattern that has a real funky feel whilst the rounded, partial depth LFO will blend the two chopped tracks into a nice smooth single beat.
+
+at this point i had to use an EQeight to roll a bit of bass off the audio sample just to stop the two kick drums sounding too boomy/messy/chaotic. this is done now because the next stage is  to do extra polishing of the final beat which requires levels to be right - if i changed the EQing etc. later then i'd have to redo all the settings of the processing downstream.
+
+Next we'll compress the two channels together to smoothe out the dynamic variations that are currently all over the place and somewhat msismatched giving a more consistent feel to the pair so glueing the resulting output together a bit. to keep the punchiness but smooth out the mess there's a very low attack but medium release along with a high ratio to get quite a strong degree of compression.
+
+
+
+
+
+- group the two tracks, and in the group channel add a glue compressor with settings as shown to the right:
+- you'll have to adjust the threshold until the meter needle is nicely maxing out but not hitting the limit, and then adjust makeup gain to get a suitable output level
+- softclip may be necessary to stop unpleasant distortion, this is a matter of personal taste.
+
+At this point you could call it done and proceed to other parts of the tune, but there's a few extra touches i like to use to really polish off this kinda beats:
+- use bitcrushing/filtering/resampling to emulate the sound of an old hardware sampler. my goto plugin of choice for this is D12's 'Decimort II' with which i started from an mpc60 preset and tweaked til i was satisfied with the effect.
+- next is to add a little extra body to the beat; an instance of abletons 'drum buss' audio effect run in parallel with the original beat and then mixed; add a send track, insert a drum buss to that send track and set it to have some boom and transients highglighted a bit
+- route both the send track's and the group's outputs to a new audio channel [don't forget to arm the track monitoring so you can hear the incoming audio]
+- start the hit play and increase the send level of the group track's relevant output to the send until you like the sound, adjusting levels on the mixer as you go
+- finally i added an instance of aberrant DSP's 'sketch cassette II' set to a nice, vintage sound, like a forgotten old mixtape dug up from a box in an attic clearout; [any tape emulator with wow, flutter, saturation and the high end rolloff of an old tape will do it.]
+- stick a 'utility' audio effect in to set mid/side and final volume as described in other posts on this blog:
+
+
+
+
+
+you've completed your drum track, ready to be sent through a channel mixdown chain when the rest of he tracks are in place!

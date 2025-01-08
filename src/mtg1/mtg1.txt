@@ -1,0 +1,76 @@
+Magic The Gathering: wofls return...
+
+I recently made the decision to pick up an old hobby of mine because i felt i need something new to focus my time on - and i knew a coupla people just getting into it so it was perfect timing for something to pop up that could fill my covid lockdown created free time. i did some researching [of course - my favourite bit of any new project is the initial decision making process where i try to gather and absorb every bit of info, lore and part of the world i am immersing myself into so as to get the most possible fun out of it and really make sure i get the place in this new world that fits me best].
+
+After much reading and studying i decided my best bet would be to buy whole sealed boxes of 15 card booster packs from old now out of production serieses of cards and build a deck based on whatever particular cards took my fancy without being bound to only the currenty available 'new' cards or having to buy cards as singles at great expense - this means i'd also get the thrills of opening booster packs, not knowing whteher i'd get a $40 ultra rare popular legendary card or just a dime-a-dozen, 10c base card.
+
+i love to get enjoyment from every step of the process and although it's kinda adjacent to gambling, on average you'll get about the same monetary return in high value cards from a booster box that you have to invest to buy one sealed off ebay. having read the back stories and lore of a fair few serieses of cards i settled on building my deck based on the ravnica guilds world series of cards and so decided to buy boosters from the ravnica alegiance and guilds of ravnica card serieses.
+
+I Was initially planning a blue and white deck, a classic mix of powerful spells and strong healing capacity, but as i began to open the first ravnica allegianace booster packs, the cards i was getting immediately got me far more excited and interetsed in the concept of putting together a black and white deck - a somewhat unorthodox combination of healing power and death/damage exacting powers that both balance and can counteract others abilities in such fields. In other words, my cards have dictated that i begin playing with an Orzhov Guild deck. incidentally there's enough cards left over from the boxes to construct entire green/red or red/blue or whatever other colour decks too - it really works out quite efficient moneywise!
+
+Although we were going to be playing by fairly basic, standard mtg rules and gameplay mechanics, the guys i was going to be playing with agreed that we should work with 80 card decks, rather than the mtg competion 60 card deck limit but we would stick to the ruke that no more than 4 cards per type copuld be included excepting lands.
+
+The advice i had read during my researches was to include 26 lands per 60 cards total in a standard competition deck, which equates to 32 lands per 80 card deck. after opening my boosters, i was left with the following advanced mana producing cards:
+
+Going through the fancy lands/gates I had, I didn’t want to use more than 8 that entered tapped - along with the 4 lockets, the godless shrine and other artefacts that could be tapped for mana, this added up to 15 tap for mana cards - [note, this covers a number of gates for creatures/spells that take advantage of gates specifically]; although, some have a mana cost [the artefacts] and some have other abilities too or cost life - i chose to add a remaining 10 of each black and white basic lands to cover the 32 minimum lands I had settled on:
+
+10x Plains      1 white mana
+10x Swamp    1 black mana
+
+80 cards total - 32 lands leaves 48 cards to split between creatures and spells - most advice pointed to a roughly equal balance between the two unless planning something special. I settled on a perfect equal split, 24 and 24 [but all things considered after the final count the spells actually came to 32] and although the recommended mana curve was weighted heavily to the 4 mana cost cards followed by 3 mana cost cards, I decided I could afford to shift that weighting slightly more in favour of 3 mana cost cards to get myself on the board early and take advantage of the relatively cheap but powerful spells I had available:
+
+[I had to calculate the mana curve numbers via percentages of a 60 card deck to get the recommendations for an 80 card deck, and then make my alterations]
+
+Next was to choose the actual creatures and spells - certain ones were essentials - generally rare or powerful one offs that I couldn’t resist using, although there were certain real nice basic/simple/cheap cards that I wanted to include too - by the time I had included the doubles of the ones that were worth increasing the odds of them turning up balanced against getting the full range I had desired, the list looked like this:
+
+
+
+
+
+
+
+The idea being that there were a large number of spells that remove or add life to players directly so bypassing the need for combat creatures, and the creatures that were there tend to also have powers to give or take life directly. There were also a number of direct destroy cards to target 'problem attackers' and a number of cards to allow deck manipulation by shuffling, graveyard access etc. And finally a number of +/+ cards to boost the power of the relatively cheap and weak monsters chosen as they were needed later in the game.
+
+When I did a breakdown of the necessary mana it came out to:
+
+23 white mana needed
+24 black mana needed
+
+Since I had a bunch of colourless mana sources, a bunch of black or white mana sources and equal numbers of dedicated basic lands I was already on a perfect mana balance between the necessary black and white:
+
+10x [lnd] Plains 1 white mana
+10x [lnd] Swamp 1 black mana
+
+Along with the other gates/lands the final line up of mana producing cards was as follows:
+
+4x [lnd] Gateway Plaza 1 any mana [gate], pay 2 enters untapped
+1x [lnd] Godless Shrine 1 black or white mana, enters tapped, pay 1 life or sacrifice
+4x [lnd] Orzhov Guildgate 1 black or white mana [gate], enters tapped
+
+1x [art] Chromatic Lantern all lands have 'tap, +1 mana any colour'
+4x [art] Orzhov Locket 1 black or white mana
+
+1x [art] Tome of the Guildpact cast multi spell, draw card - tap for mana
+
+10x [lnd] Plains 1 white mana
+
+10x [lnd] Swamp 1 black mana
+
+This brings the final mana curve and card distribution to:
+
+
+<p>
+<table>
+<tr><td>Recommended Mana curve</td><td>creat.</td><td>spell</td><td>total</td></tr>
+<tr><td>5x 1 mana</td><td>2x 1</td><td>3x 1</td><td>5x 1 mana</td></tr>
+<tr><td>8x 2 mana</td><td>4x 2</td><td>7x 2</td><td>12x 2 mana</td></tr>
+<tr><td>12x 3 mana</td><td>8x 3</td><td>9x 3</td><td>17x 3 mana</td></tr>
+<tr><td>16x 4 mana</td><td>5x 4</td><td>8x 4</td><td>13x 4 mana</td></tr>
+<tr><td>4x 5 mana</td><td>2x 5</td><td>3x 5</td><td>5x 5 mana</td></tr>
+<tr><td>3x 6 mana</td><td>2x 6</td><td>2x 6</td><td>4x 6 mana</td></tr>
+<tr><td>48</td><td>24</td><td>32</td><td> 56</td></tr>
+</table>
+<br>
+
+
+Of course, none of this takes into account the fact i havent played mtg in near 20yrs and i have no clue if any of this math, statistics and cunning strategy will have any bearing on my success at playing well - it'll be an interesting few opening games

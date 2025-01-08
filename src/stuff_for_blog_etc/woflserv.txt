@@ -1,0 +1,19 @@
+
+
+[n.b. root has no ssh access]
+
+
+wofl-serv1 public server:
+server ipv4 public eth0 ip:  `138.197.11.134`
+
+
+to login:
+for access to the server log in via: `ssh wofl@138.197.11.134`
+[pass: `WheatCrunchies6`]
+
+https://ryomodular.com/
+https://analoglogic.blog/
+https://whispr.dev/
+
+server is running ubuntu linux fully updated/upgraded
+

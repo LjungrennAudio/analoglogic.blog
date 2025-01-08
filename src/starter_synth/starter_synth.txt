@@ -1,0 +1,37 @@
+...More Than The Ideal Basic Beginner Modular Synth?
+
+Below is a pic showing the layout of my Analogue Systems modular synth as it currently stands - an evolved form of the original RS-15 i bought for £1200 off ebay many moons ago:
+
+Although i havee moved it into a custom case slightly larger than the 84hp x 6U that the original RS-15 case was, [now a 104hp x 6U custom Lamond portable with custom Synovatron power], and hence it has a few extra modules in the increased space available, it's still very similar to the original, very bread 'n' butter, simple and containing pretty much just the basics for standard east coast subtractive synthesis.
+
+at first glance one can see 3 x vcos, 3 x vcas, 3 x egs, 2 x mixers, 2 x filters, a ring mod and some mults - the obvious necessaries for basic east coast subtractive. [the bonuses i added later were the ext in and bbd and might add 2hp noise source and sequencer].
+upon closer inspection it can be seen that the egs can be switch to cycling upto audio rate, the filters self oscillate, the bbd self-oscillates and the vcos can be switched to lfo mode  - this gives:
+- up to 11 x vcos*
+- up to 11 x lfos**
+- up to 12 stage eg by daisy chaining egs***
+- up to 12 stage complex lfo/vco by setting the daisy chained egs to cycle
+- static chord generator using the filterbank tuned to a triad chord****
+- up to 5 x fm voices by modulating the audio rate possibilities with others
+- the above includes up to 3 v high freq modulation fm voices using the higher frequencies of the vcos wide mode.
+- up to 7 channel mixer by daisy chaining the two mixers
+
+*pitch of egs is controlled by cv-in dec+rel control.
+**-ve offset voltage may have to be applied to some modules to get self osc down to lfo rate [apply -ve static voltage to cv-in].
+***requires cunning use of the trig/retrig and a mixer to combine the output waveforms.
+****all filters have 1v/oct individual inputs so in fact with the right cv sources full 4 note varying chord structures can be sequenced.
+
+to liven things up even further some more weird west coast stuff can be achieved by using the tricks above combined with creating feedback loops amongst self/cross-modulating vcos, filters and egs!
+
+further tips n tricks and cool features:
+- vco soft sync can be achieved by attenuating the wave form amplitude being fed into the hard sync input of the vcos
+- vcos have cv control over all waveshapes - as well as pwm for sqr/pulse and saw/tri/ramp, the sine an be shaped to left or right by applying cv to the saw/tri output!
+- egs have ability to be adust from full +ve peak, down to zero and then through to full inverted - along with a retrig, cv over dec/rel time and gated/auto-repeat, oneshot/hold/std mode switches they are pretty versatile.
+- vcos have std, -2oct and wide modes allowing everryything from extra high freq top end to lfo bottom freq output
+- cv mixer output swings from full +ve to full inverted out, which along with a -ve out for each row of the buff mults alows complex cv shaping as well as inverting waveforms for mixing and filtering purposes.
+- vocal/phase filterbank is multi mode with lp/hp/notch/band outs as well as individual 1v/oct, gain and res control along with master freq control/cv depth control.
+- vcas have log in as well as lin in - ideal for audio and cvmodulation when combined with lfos/egs
+- lpf and vcas have two inputs saving valuable mixer space, like wise egs have dual outputs saving mults and there is an extra 4-way mult on the ring mod module.
+- two vcos have 10 turn, high accuracy, lockable bournes pots to allow exqact frequencies to be diald into to the tiniest fraction of a deegree
+- ext processor tracks freq, converts it to a cv signal and derives a gate signal from an external input audio signal allowing the whole modular to be 'played' by any instrument one can plug in!
+
+Considering this synth is all analog with circuitry from moogs classic 24dB/oct ladder filter and the ability to crank every audio module output past unity gain so saturating/overdriving the next stage down the line, a gorgeous range of sounds can be had from it. not only is it ideal to learn basic east coast subtractive vco-filter-vca patching, it also is capable of complex multi op fm and cross mod west coast stuff and when patched right the bbd can not only do lovely dreamy echos but go right down to karpluss-strong synthesis. not bad for a 6u starter synth...

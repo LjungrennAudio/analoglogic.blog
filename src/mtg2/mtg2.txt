@@ -1,0 +1,97 @@
+Mtg: reflections and lessons learned
+
+...i'm working from memory 3hrs after the games took place so details aint perfect and some big things may even be omitted or confused between gates, but I think this is near spot on now…
+
+[n.b. in all 3 games even when hands weren't the best we both decide to stick with the initial 7 card hands cos its a good way to testa deck- see if it pulls through regardless of initial lucks]
+
+Game 1
+
+he starts, gets no lands for around 10 turns - it's clear that even a deck with sufficient lands statistically can suffer from poor luck or poor shuffling
+
+i also got limited lands early on and no creatures, paniced that my strategy of  going mild on the creature weighting, only 50% of nonlands, was going to prove erroneous .
+
+the lands started appearing right as I was getting the real special spells - specifically ill gotten inheritance, a steady whittling down of his life one point at a time, turn by turn, whilst my increase of one per turn keeps undoing his hard work in removing odd life points through creature attacks
+
+my deck finally started behaving textbook, to plan - a frenzy of white spells restoring life taken off by his creatures whilst black spells are burning life off him directly, bypassing combat.
+
+and then... killer blow from 'revenge', an expensive [6 mana] half of a dual sourcery card - halved a life in the teens and then when he finally gets some creatures, kayas wrath sends him back to the stoneage for a cost of only one medium creature for me - the check that would leave to my checkmate
+
+i finally get some creatures In time to deliver remaining damages as he just managing to finally get a kill artefact/enchantment card to kill ill gotten inheritance, the bane of his game
+
+I win with 52 life remaing
+
+notably, we have had no cretaure on cretaure combat involving both attack and block in the entire game!
+
+Game 2
+
+i win the start roll, then proceed to get no lands for first 10-11 turns
+
+i lose continuous life to creature attacks that start early on and continue steadily throughout the game
+
+he has a creature with lifelink and can start adding to his life
+
+as the game progresses his bigger creatures come into play, doing more damage and hence either killing off any cretaures i do get into play or dealing me continuing damage
+
+the death knell sounds and I die with mana coming in way too late to save the day
+
+I lose soundly
+
+still we have had very little creature on creature combat and so are slighty confused by the rules still [combat is by far the most complex part of gameplay as far as we have encountered]
+
+Game 3
+
+he wins the start roll but gets crappy cards
+
+i'm awash with lands right from the start, including gates, but no spells or creatures I could afford to play - only 5 or 6 mana cost cards.
+
+i start getting cheaper creatuers and spells so build a solid grounding of lands and attackers/blockers
+
+the game at this point is very even creature-wise - i gain confidence that maybe I'm not too mild on the numbers after all
+
+my more mid range [3-4 mana] creatures seem slightly overtaken by his sheer numbers, although his are mostly weaker [1-2 mana] and relying on artifacts and obscure activated abilities to be effective or are 1/1 tokens 
+
+we are finally having true creature on creature combat, repeatedly, turn after turn, generally my mid range creatures winning over his low end artifact equipped ones and weak tokens.
+
+i get to start providing backup for my creatures, which were keeping me afloat but not progressing in damage done to him,  with the spells like ill gotten inheritance - this spells his doom
+
+I finish him off with creature attacks as he no longer has any blockers left 
+
+I win with 27 life remaining
+
+finally we have got to grips with battle and experienced a close to full complexity game, and so seeen how our deck building strategies fare
+
+first off,  a couple of things that early on I thought were going to be issues i had discovered in my deck strategy but have proven to probably be fine after all:
+- right at the beginning of the first game i thought i needed more creatures - the next two games this seemed to be a needless worry.
+- likewise, i thought due to the initial seming lack of creatures that if i wanted to stick to a spell heavy deck, i'd at least need other forms of defence early on - i.e. cheap monster killing spells, but, again, later games reveal my balance of spells/creatures and the nature of them seems ok.
+
+this goes to show you can't judge a deck until its been played a number of times to account for the statistcal variations of all the card combos that can be drawn - i.e. you gotta account for good and bad luck at all stages of the game. notably, the sole element of luck in the game is drawing cards - hence this can be mitigated in two ways;
+- one, having a well designed deck that takes advantage of the odds - you need the right numbers of lands vs spells vs creatures, and of those, if you need a specific card urgently, put in the maximum 4 for example.
+- two, see below for comments on shuffling:
+
+shuffle, shuffle, shuffle - be fair to _you_ - by shuffling well after every game. by far the single most severe lesson I learned, and should partly be solved by getting enough top loaders - cards all in or not in protectors instead of a mix will ease shuffling
+
+artifacts/enchantments don't see combat often [rare abilities or artifacts being the exception maybe?] - you need artefact and enchanment zapping spells/abilities
+
+Put in the max 4 each of killer cards not just 1 or 2 as a selection of everything you won - although your opponent opponent can kill one or two, its not as easy to negate 4, and with 4 in a deck it is much more likely to get one early on
+
+The life deducting cards that bypass combat with creatures are great, especially if theyre low mana cost to use for a steady early start, likewise the for the add life to me cards
+
+failing to look what the 'lifelink' ability means ended up with me ignoring it and so not including cards with that ability in my deck - it turns out ifelink is a killer ability, giving you health for successful combat damage - always read all of the card and learn the rules
+
+Attacking causes creatures to become tapped and both attackers and blockers do damage - attackers damage blockers and blockers do it back - this was not abundantly clear in the rules, wiki or gameplay guide
+
+The following cards from my deck proved to be fantastic and deserve to have four of present if only possible:
+
+- [rival]//revenge; revenge - opponent loses half their life/you double your life for 6 mana
+
+- luminous bonds; enchanted creature cant attack or block, is a permanent so requires despelling
+
+- ill gotten inheritance; a slow burning gem - you gain 1 life and opponent loses 1 life every upkeep permanent; again, a permanent so requires despelling
+
+- severed strands; a 2 mana plus creature sacrifice cost to gain life = to target toughness plus destroy creature
+
+- smothering tithe; opponent pays 2 life every time they draw or you get a tap+sacrifice for mana treasure token
+
+- kayas wrath; destroy _all_ creatures, you get life equal to number you controlled that were destroyed
+
+some of the above things that i think are lessons to draw from these three games or things to alter about my deck may prove to be statistical anomalies, not poor deck design or strategy - so if the deck isn't as good after making changes i will always have to be aware it maybe worth reverting back to this build...

@@ -1,0 +1,92 @@
+New MTG considerings!
+
+I'm finally writing more on my MTG explorations! although i've rebuilt all my decks with knowledge gained from agood 12 or so games since last post, i started playing more with my Selesnya green & white ravnica - guilds and allegiance deck and so am writing about the revisions and reasons for what i've done with that.
+
+Green being strongly leaning towards growth and creatures, and white leaning towards life restoring and creating cheap tokens, plus both doing boosting stats, the ravnica Selesnya guild is a onderful allegiance between green and white based on quickly building mana generation options, creating creatures fast and cheap, +/+ boosting them for growth whilst restoring lost life.
+
+Although the 60 card deck became a 69 card deck which i do plan to try and whittle down to a standard 60, i went with 23 lands out of the 69 total cards, which is within the recommended 20 - 26 per 60 commonly used, especially so when considerring there are creatures that can be tapped for up to a total of 5 mana per turn, cards to pull them out by direct seraching for both basics and gates, and an untap all card. when whittled down the deck will continue to have the same land setup.
+
+the potential 28 total mana that can be sourced is from 23 lands + 3 creatures - 16 basic lands, 10 green and 6 white; 6 gates, green & white Selsnya guildgates which enter tapped so need to be got early when there's time to get things untapped with no worrying about the 1 turn wait for useable mana, one colourless generating land which can be, at the cost of 1 extra mana, will produce any colour mana and also boost +1/+1 any mutlicolour creatures. finally, 3 of the creature can be tapped for mana, up to 5 total at max, and so along with 4 spells to add become an any colour generating land, 1 untap all at end of turn spell, 1 search library for 2/1 search library for 1 and 1 create a green 2/2 token when lands enter the battlefield spell, the mana powers of this deck are immense.
+
+Lands (23)
+6 Forest
+1 Guildmages' Forum
+10 Plains
+6 Selesnya Guildgate
+
+Artifacts (1)
+1 Glaive of the Guildpact 2
+
+Enchantments (9)
+2 Candlelight Vigil 3w
+1 Guardian Project 3g
+4 Urban Utopia 1g
+1 Wilderness Reclamation 3g
+1 Zendikar's Roil 3gg
+
+Instants (6)
+1 Expose to Daylight 2w
+1 March of the Multitudes xgww
+1 Might of the Masses g
+1 Stony Strength g
+1 Summary Judgment 1w
+1 Take Heart w
+
+Sorceries (6)
+1 Camaraderie 4gw
+1 Circuitous Route 3g
+1 Gird for Battle w
+2 Sprouting Renewal 2g
+1 Sworn Companions 2w
+
+Creatures (24)
+1 Arboretum Elemental 7gg
+1 Beast Whisperer 2gg
+2 Conclave Cavalier ggww
+1 District Guide 2g
+1 Duskwatch Recruiter // Krallenhorde Howler 1g
+1 Gatebreaker Ram 2g
+1 Generous Stray 2g
+1 Hero of Precinct One 1w
+1 Hunted Witness w
+1 Incubation Druid 1g
+2 Ledev Champion 1gw
+1 Loxodon Restorer 4ww
+1 Pelt Collector g
+2 Saruli Caretaker g
+2 Sauroform Hybrid 1g
+2 Sylvan Brushstrider 2g
+1 Tenth District Veteran 2w
+1 Trostani Discordant 3gw
+1 Venerated Loxodon 4w
+
+colours
+23 white mana needed
+39 green mana needed
+
+Lands are weighted perfect = 37% white, 63% green
+= 6 white, 10 green
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th> <strong>cost</strong> </th><th> <strong>Recommended</strong> </th><th> <strong>creatures</strong> </th><th> <strong>spells</strong> </th><th> <strong>total</strong> </th></tr></thead><tbody><tr><td>1 mana</td><td>5</td><td>4</td><td>5</td><td>9</td></tr><tr><td>2 mana</td><td>8</td><td>4</td><td>5 +1a</td><td>10</td></tr><tr><td>3 mana</td><td>10</td><td>8</td><td>4</td><td>12</td></tr><tr><td>4 mana</td><td>12</td><td>3</td><td>5 +1a</td><td>8</td></tr><tr><td>5 mana</td><td>5</td><td>2</td><td>1</td><td>3</td></tr><tr><td>6 mana</td><td>3</td><td>1</td><td>1</td><td>2</td></tr><tr><td>9 mana</td><td>2</td><td>1</td><td>0</td><td>1</td></tr><tr><td>?+x mana</td><td>1</td><td>0</td><td>1 x 3+x</td><td>1</td></tr></tbody><tfoot><tr><td> <strong>totals</strong> </td><td> 46 </td><td> 23 </td><td> 23 </td><td> 46 </td></tr></tfoot></table><figcaption class="wp-element-caption">breakdown of card numbers vs. mana cost</figcaption></figure>
+
+
+
+
+
+The split is an exact 23/23 creatures vs. spells, although the balance/mana curve is a medium number of early cards, peaking with the mid-mana cost cards and only a few high mana cost cards, but the creatures peak around 3 mana cost - aiming to not have too many weak creatures but not have too many unaffordable creatures, whereas there's a wider spread of spells across coonsistent in number across the 1-4 mana cost range, so allowing a constant availability of counters etc, but still some big spells for later in the game.
+
+A quick count check of the card type numbers shows the split is:
+33% creat. / 33% spells / 33% lands,
+and the split is 23/23 creatures vs. spells - a balanced 50/50.
+
+when considering these weightings, there'sthe right numbers of each to have ready creatures, spells and lands early, mid and late in the game of all costs and abiltiies - it's telling that the stats show the mana should be always plentiful to allow play of any card desired, including counterspells during opponents turn and use of abilities. this should allow getting defense out earl, a significant damage causing ability whether to troubling attackers, defenders or the actual oppeonent for the win.
+
+There are some draw a card and search library for card abilities available allowing targetting specific creatures to be got into play to follow a specific plan - the star being a werewofl card that transforms back and forth alternating between searching library then lowering cost of spells. there are a number of create multiple tokens for very little cost cards, many the classic white 1/1 with lifelink which so readily can be boosted +/+ to quickly make powerful attack./defense but also life restoring troops.
+
+therefore the are also a healthy number of boosting spells and creatures to give +/+ bonuses, generally avoiding the 'til end of turn' type since they just dont seem to be worth the mana cost. the other main chunk of card type is mid rnage cards with good toughness for use as defenders if needed without losing them if they're invested in, but also a good enough attack, along with abilities like viigilance that they are actually useful attackers.
+
+finally there are the life restoring spells and creatures and the counterspells that do nasty things like directly killing creatures, artifacts and enchantments. along with the creatures and spells already discussed that all affect land/mana play, the deck is extremely well rounded alalowing it to be used well against near any opponent.
+
+The main strategy i have had success with using this deck so far is to get mana production going fast, search the dec for the cards that creatte cheap plentiful tokens and then use the mass mana to boost the tokens with +/+ making an army of unstoppable 3/4/5 level toughness and power attacker-defender dual purpose cards with lifelink so being able to regenerate any life lost early on whilst building growth nad also preparing for a midgame assault. if the game stretches on then there are expensive cards that are real nasty to spend excess mana on to make kill strikes with if needed to end the game.

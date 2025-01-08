@@ -1,0 +1,6 @@
+Lockstep Development Process Continued...
+
+STEP 4: A NEAR FINISHED SCHEMATIC / PROTOTYPING CONT.
+
+after some discussion here's the current state of affairs ready to be breadboarded when components arrive:
+

@@ -1,0 +1,33 @@
+Following The Stages Of A New Module Development Process
+
+This is the first of a string of articles following the development of a new module in detail throughout the entire process. its an open source, diy learning/experience project to allow some who are planning a carreer in the industry get a taste of whats necessary and gain experience with no great risk of loss financially or as a reputation killer due to failiures etc. Hopefully it will bring to fruition a new, useful, desirable module that actually finds a place in peoples rigs and proves to teach those interested what they need to learn so they can move on to designi ng their own ideas and being independent.
+
+STEP 1: CONCEPTUALISATION
+
+The absolute most utter start point is an idea. that moment of inspiration that hits at 4am in bed when you should be sleeping but instead are reading wikipedia on 1960's british mixing desk circuitry... and suddenly 'what if this sound were available in eurorack format?' or 'everytime i see this particular module mentioned someone has this issue - it needs a little 2hp expander to solve that'. this is something that either happens for you or it doesnt - you cant learn inspiration, you cant force ideas and you cant take a pill that engnders creativity - but if you have those ideas and can bring them to fruition then every other part of this process can be learned, practised, bought or undertaken from someone in a team.
+
+in the case of the module were are gonna follow the development, the initial idea brewed from realising how many people srtruggle with problems arising from poor clock/trigger/gate outputs/inputs from eurorack modules - there's a need for a utility that would act as a general purpose toolbox for fixing all the issues frequently encountered in one nice compact simple module. thus the raw idea of 'Lockstep' is born.
+
+the first step to take is some very crucial research:
+- Does the module already exist?
+- If so, has any functionality been missed that means its still realistic to make the idea?
+- If there are exisiting equivalents, and no improvements can be made, can it be done cheaper or higher quality?
+- If none of the above make sense, is there any point in carrying on down this thought path at all?
+
+its important to keep in focus what the main aim is and what you want to get out of the process - if at anypoint you are deviating from these things and going off on a tangent due to getting hyperfocussed on solving some tiny issue or making some tiny profit or not enjoying the process then you should be gaining perspective or listening to others and realising youre going wrong.
+
+in the case of this module i quickly browsed throuhg the entire of the ModularGrid listings on utility/clock/trigger moduifier etc type modules and looked to see if they were overlapping this idea significantly and then considered that since it seeemed unique enough, that was plenty enough to justify using this as a learning process since it doesnt matter if its massively profitable or brings great success to a brand trying to attract attention etc.
+
+the next thing to do was a basic google search t get an idea of the scope o requirements the module would have - just a basic search using keywords covering the original issues inspiring it such as 'clock, signal, weak, issues, spike, slewed, ground, etc.' . This provided a significant set of results listing peoples forum and server and manufactuirer requests for support on a number of module combinaions that suffered from relevant issues. having noted what the issues were and what fixes were suggested to solve them, it bwecame clear that the main issues were from either clocks/trigs being poorly shaped [having slewed rising edge, spikes on beginning or end, being weak, not returning to ground properly etc] or gates not syncing /being wrong length.
+             this suggested that there needed to be two main halves of the module - a conditioner that would take near any input signal, whether clock/gate/trig or even unexpected waveform shapes and non standard signals; and then convert them to perfect square edged trigs/clocks/gates of sufficint amplitude to make the destination module happy. the second half needed to be a path that would allow adding variable delay of a signal to sync it to something with latency issues along with something to alter length such that a gate source could be altered to satisfy needs of a destination module not getting the required gate to perform correctly.
+
+this set of info derived from the searches that suggested the above also gave suggestions of how to fix such issues - using a Doepfer A-160-2 (sync issues), amplifier like the A-183-3 (weak clock signal), an active buffer (ground issues) or a trigger modifier like the A-162 (slewed or otherwise invalid clock signal). hence rather than having a bank of these kinda 4-6hp utilities it seemed there was a sensible avenue to make a single 6-10hp module that could do all this and preferably in a dual or multiple set up so modern sequencers and clock sources with multiple outs can be treated.
+
+This research also sparked the idea of collecting together as many known issues of certain module or module pairings into a database that wopuld help potential users diagnose probnlems and so decide whether or not the 'Lockstep' module we were designing could help. this also makes a good sellin point for the module - a good manual with a database in it is  a great source of info for the user that puts it ahed of other modules and also attracts good attention toward the idea. this resulted in just these few problems from the intial quick gooogle search:
+- sq1 slewed clocks
+- es pulses spikes
+- marbles when supply voltage stabilizes slowly to its target voltage, something that depends on which PSU you use, where your module is located, and how other modules on the bus board behave,
+- PNW seems to be one that doesn’t like to be slaved
+- something with Rene?
+- slaved Metropolis often needs a dedicated reset signal that is different from (earlier than) the reset bus all other slaved seqs get
+- erogenous tones structure not good with clocks

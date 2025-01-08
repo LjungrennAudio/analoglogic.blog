@@ -1,0 +1,35 @@
+More MTG, More Learning...
+
+After doing a whole bunch more playing, reading and chatting to people who knew more than me it became clear that although there wasnt anything hugely wrong with my previous attempts to put together decks there wasnt anything hugely right either - i had read advice written in deck building guides then meandered along using bits that worked from different advices here n there without fully grasping what i was supposed to be doing.
+
+having discovered i was enjoying my red & blue ravnica - guilds and ravnica allegiance based deck way more, which relies on an unusual combo of a barrage of powerful red spells to remove life directly from the opponent [as with my b&w deck], creatures that make those spells cheaper and both spells and creatures that give extra card draws or create copies of spells and creatures.
+
+we had decided to start playing with the traditional/convenntional/standard 60 card decks, so of courcse i did some reading into mana curves for 60 card decks and immediately noticed something significant: the recomkmendation on the WotC site by many pro players was not the 26 lands per 60 i had been using but the lower 20 - 24
+
+so having been relying on getting lots of mana or at least sufficient mana to get going early in gthe game, i went with 24 lands total; also deciding i should only have lands as mana sources not anything like the artefacts i'd been using to provide some of the total as previous, though i was still happy to risk having nearly a third of them that enter tapped. this would give an approx balance of 8 red, 8 blue and 8 guildgates that can be either, tho enter tapped.
+
+Also, although its somewhat unorthodox, my new aimed creature/spell balance is 16/20 [16+20+24=60]
+
+The advice i had been reading about the use of mana curves in a 60 card deck boiled down to one fantastic piece of advice:think about what turn you want a given card to be played in. lay them out in front of you so you can see how much mana you will need, have available, what will be playable, how you should change your strategy based on what was/wasnt possible. then choose your cards accordingly.
+
+My strategy of blocking early n with high toughness creatures that were cheap due to low attack, but have such high toughness they dont die off whilst i kill my opponenty with spells that directly bypass combat resulted in this 16/20 creatures vs. spells balance but a slightly odd weighting of the recommended mana curve limits:
+
+rec
+creatmy
+creat.rec.
+spellmy
+spellrec
+totalmy
+total1 x 1 mana3 x 13 x 12 x 1545 x 2 mana4 x 25 x 24 x 28104 x 3 mana4 x 38 x 38 x 312123 x 4 mana3 x 42 x 43 x 4652 x 5 mana2 x 51 x 51 x 5331 x 6 mana0 x 61 x 62 x 62216 tot creat16 tot20 tot20 tot3636
+
+Creatures
+2 extra 1's and zero 6 mana creatures pushes mana curve out from getting creatures out at turn 2/3 to turn 1/2 so to get early creatures out for defences - blocking creatures thatare cheap mana for high toughness, specifically 'walls'  - see cardlist for  the specific theories behind attack/defence.
+
+Spells
+i have used a few less 1  and 2 mana spells and more 3/4/6 instead - 3 and 4 because i plan to be getting the defensive creatures out in turns 1 and 2 and the 6's to give end game power if i havent delivered a kill and have mana to burn.
+
+since there's slightly more red than blue mana needed - colour balance coming out 27 red mana needed vs. 22 blue mana needed, this resulted in a land weighting of 45% blue, 55% red. so i'm now gonna use all this learning to chose my lands - 9 red, 7 blue and 8 guild gates that can be either;
+
+then my final step is to choose creatures and spells based on how many i want to appear at what turn and what i want to be able to do if i do or dont get the right ones in play. i.e. not choosing what cards i want then trying to fix the odds of them appearing withe the right amount of mana  if i'm lucky but instead saying if i want this or that card by turn x then i need this many in the deck and this much of this mana sources out ready available. it nearly feels like working in an opposite but more sensible direction.
+
+we shall see if it works and i'll continue to blog with my results!

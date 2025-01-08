@@ -1,0 +1,168 @@
+SMAPLE SYRUP ON ABLETON WAFFLES: Emulating the Akai MPC Sampler in Live 11
+
+Samplers:
+A sampler is a device or program that can record and store sounds digitally, and further manipulate, edit and replay them in real-time.
+
+Hardware Samplers:
+These are ‘standalone’ devices that include a memory unit that records and stores sound. Samples can be manipulated directly on the device.
+
+Technically speaking, you can argue there is such a thing as analogue sampling, but The name ‘sampling’ itself derives from the process of converting an analogue signal to digital form. Early samplers were horrendously expensive due to the digital technology required. when the Australian company Fairlight unveiled their Computer Music Instrument (CMI) to the world in 1979, music truly stepped into the next era. It had the promise of being the world’s first polyphonic digital sampler but came with a high price tag. It was only in the later 80's that sampling technology became commercially viable, with hardware samplers gradually dropping in price and increasing in power up to their 90's heyday. By the late 90's and early 2000's, hardware samplers were looking dead in the water as software options finally began to mature, and DAWs offered previously unseen levels of sample processing power.
+
+
+
+
+
+The interest of this blog post comes from the desire to recreate 1990s house and BoomBap along with more recent lo-fi house and lo-fi hip hop beats that was born of those 90's glory years of the hardware sampler. although big studios often had high resolution converters that were already good quality and at least 16 bit, even in the 80's, for underground house, techno and hip hop in the 90's it was a whole different story.
+
+
+
+
+
+In the same way the Roland tb303, tr808 and tr909 went from failed bass guitar and drum machines that were aimed at a market of bands looking to replace humans, but instead found a home in acid house and techno, sampling was adopted readily by the underground house, techno and hip hop scenes. Particularly popular amongst certain 90s house and hiphop artists was the Akai MPC range of sampling Music Production Centres - the DAWs of their day. Akai’s MPC series found huge success with their MPC60, and to this day remains an important part of hip hop legacy. The MPC60/2000/3000 can't do much that Ableton Live can’t, but there's some things people will die on a particular hill over and that's the unique sound they impart - the colouring/saturating of the sound. It’s significantly easier to get your drums and samples to sound better (i.e. grittier, warmer) on those MPCs. MPCs over the years have continued to be cool pieces of equipment, but it’s easier to do the job with Ableton live, and there’s so much more you can do using plug-in instruments and effects.
+
+MPC emulation:
+
+
+
+
+
+Back in the 90s complete tracks were being sequenced in the MPC and laid down through the console to tape before mastering. Or for others - sequenced on the computer and triggered from the Akai. Everything went through the DACs of the Akai - so that’s what must be recreated to give the most authentic sound. To process just the kicks, vocals, bass or whatever would defeat the purpose of the process when whole tracks were created using the one single machine, so - ALL the drum bus and other samples/channels should be going through sample emulation.
+
+
+
+
+
+The Akai MPC used the same (or similar) DACs of the Akai S1000. These were 16-bit, so not talking entirely about "bit reduction" here, but a certain flavour given by that particular circuitry, and that's emulated in plugin emulators such as:
+
+D16 Decimort 2
+
+TAL Sampler
+
+TAL DAC
+
+RX950
+
+ToneBoosters TimeMachine (part of the TrackEssentials 3 bundle)
+
+waveTracing SP950
+
+Beatskillz SampleX
+
+Plogue Chipcrusher
+
+And others besides…
+
+
+
+
+
+Emulating the pad based sample triggering functionality:
+
+(Normally, I understand people tend to either have warping set to default to on when importing audio source material or a beat or whatever sample will be warped such that transients fall squarely onto a quantised grid early on. I don't do this and I'll explain why later on.)
+
+
+
+
+Once you've placed an imported sample audio file into a slot on the session grid and warped it to your hearts desire etc., right click the warped clip, and select [slice to MIDI], using the appropriate slice settings.
+
+You will then see a new MIDI channel with your sliced sample mapped to individual pads in a Ableton drum rack instrument.
+
+
+
+
+
+Select the MIDI track containing the drum rack. In the lower half of the screen you will see your drum rack and it's control parameters.
+
+In the top row of its control parameters will be the envelope functions – Attack, Decay, Sustain and Release.
+
+Turn the Release knob all the way to the right, which numerically should be 60.0s
+
+Turn your Attack knob nearly all the way to the left (a hairs breadth before 0 in order to get a quick response when you press a pad but a slight infinitesimally sm0l attack like a rubber pad on an older worn machine would give).
+
+
+Remaining in Session View, return to the drum rack channel. At the top of the channel will be a downward pointing triangular 'expand arrow', right next to the name of the chopped loop. #
+
+Click the triangle to open the channels for each individual slice.
+
+In the input/output area of the slice channels is a dropdown menu labelled choke. ('choke' is a hangover from hi-hats on drum sets muting the sound of the OH off when the pedal is depressed so causing the CH or PH to 'choke' the sound.)
+
+This feature allows you to assign each channel to a choke group.
+
+Channels that share the same choke group setting essentially mute one another as if monophonic.
+
+In practice this means that you can set all of your channels to the same choke group, and make your drum rack pads silence each other as you play them, just like they would on an MPC.
+
+
+
+MPCs have some proprietary features, that mostly have to do with the sequencing - specifically the 'swing'. Ableton has emulated versions of these swing patterns in the groove pool. If you go into the groove pool, you will notice several MPC swing variations.
+
+advanced pad emulation:
+Alt. Method Sequenced MPC pad fade and choke;
+
+
+
+
+Import your sample source material into a session view clip slot, but don't warp/quantise it to the beat.
+
+Select the clip on the audio waveform view mode and engage the [loop] button.
+
+Select the [beats] algorithm:
+
+Select [1], [2], [4], [8], or even [16] divisions per bar as befits the speed you would be triggering the pads by the sequencer. Generally it's best to choose this based on the smallest division in the transient pattern of the sample, e.g. 16 for a beat playing fast
+16ths on the CH.
+
+Select [play only once forward] mode.
+
+Turn the [%] down to 85% - 98% of full play length.
+Select [1], [2], [4], [8], or even [16] divisions per bar as befits the speed you would be triggering the pads by the sequencer. Generally it's best to choose this based on the smallest division in the transient pattern of the sample, e.g. 16 for a beat playing fast
+16ths on the CH.
+
+Select [play only once forward] mode.
+
+Turn the [%] down to 85% - 98% of full play length.
+
+
+
+Now the sample will automatically play as if divided into separate sections and mapped to pads, as many as you have selected divisions, and fade away slightly as if the pads are releasing too early and naturally choke each other since they can't overlap due to the 'sequence' being still the single original sample playing continuously and unbroken. The advantage of this method is it's totally nondestructive and works from the source material - no snipping into pieces and no bouncing from a file to midi pads - this means you can easily change the number of divisions, release time, groove pattern, quantise, warping, pitch, gain or even the entire sample chosen if necessary.
+
+
+
+as mentioned earlier, I don't use the warp function on automatic, preferring to have my samples and loops etc unquantised so that they retain their natural groove and  humanisation. When using lots of parallel samples in a tune this can sound very messy and noisy but when chosen well, the samples can either fit together or the    following technique can be used to toe them into line a little without losing the magic; if you have one sample with a particularly strong or just a groove/rhythm/ oddness to the rhythm that you wish to dominate the overall song then you can [right click] the clip, and select [extract groove] - this will now make the same rhythmic    pattern dictated by that particular clip available from the dropdown groove list for every other clip in the session view whether audio or midi. By applying it universally the song will be all in time across the board but retain the groove of the original sample s it was imported. this happens to emulate the sound achieved by turning of sample quantisation in the MPC, a technique made famous by artists such as J Dilla - it's one of the secrets to their funky an groovy jazzy feel that makes  them flow so well.
+
+
+
+Re-pitching:
+
+You may notice in that last sentence I mentioned altering the pitch of a pseudo-sequenced sample - re-pitching the samples is a crucial element of the 90's and lo-fi aesthetics. Oddly enough the trick is to not spend hrs carefully adjusting the complex pro algorithm to get an artefact free non-chipmunk-esque pitch shift; instead the desire is in fact to straight up shift the speed of a sample set to the pitch altering algorithm upward. - you may need to slow it first then bounce it or lower the pitch then bounce it to have room for manuevre, then shift the speed upward until it reaches the desired pitch and bounce it to the track you then intend to apply the pseudo sequencing or other form of fake MPC processing. -
+
+This will add the hiss, shifted drum frequencies, altered background elements like reverb and every other odd artefact of pitch shifting that gives a characteristic lo-fi sound special to not having modern constant-pitch speed alteration techniques. When these artefacts and weird verbs and hisses and the like are then chopped, sequenced and suffer pad release fade etc. it becomes much more noticeable than a high quality original pitch sample carefully converted to a different speed.
+
+Clip / Scene Sequencing:
+
+The clip triggering features of the 'follow order' functionality of the session view can also be used to emulate the MPC pad/sequencing setup; they already do behave like a crude hardware sampler, firing long one-shots containing effects or speech samples. Turning these into MPC style pads holding loops or short sample blocks is easy to do in a Live audio track:
+
+Select a channel and insert a column of multiple clips into the scenes. (they don't all have to be filled if your timing does not require or allow for it, but they must be neat loops of whole numbers of beats or bars).
+
+click the top clip of the channel, then [shift + click] the bottom clip in the channel column and then select the follow action expand-triangle in the looping section of the audio editing panel.
+
+Set the whole selected group to 'next', then deselect them and set only the last one to 'first'.
+
+when the first clip ends the next will trigger exactly on the beginning of the next bar's downbeat, and this will continue until the last track ends whereupon it will return to the top of the column to begin again.
+
+If you want the long samples to continue playing as you switch Scenes, use Cmd+E to remove the clip stop buttons in empty slots.
+
+
+
+Audio effects complete the signal processing chain involved in emulating the hardware MPC sampler sound. they can be a challenge if your hardware instruments or effect units sound distinctive like the MPC does, matching the filters wasn’t a problem in this case because they're built into plugins like D16's Decimort (my personal choice due to the flexibility of the sounds to be had from it even if it's not the worlds greatest MPC emulator), but the distortions are trickier. try choosing only some sample tracks to be processed with certain effects or even use plugins such as FabFilter's Saturn that can process specific parts of the audio bandwidth. to achieve 'that 90's' sound, tape emulation is equally important, since things were generally going to tape back then even if digitally sourced. I lean towards waves J37 for realistic print-to-tape overall mix emulation and subtleties, but for lo-fi house and lo-fi hip hop, SketchCasette is the most fantastic tool available in the known musical world and very reasonably priced. A must have. Likewise, EQing and console choice are crucial to the sound, very importantly it was commonly Neve consoles and hence Neve EQing in play. Sadly, since even in emulation trying to accurately reproduce the sounds of these bits of hardware gets expensive and tricky you have to get yourself a long way there by just using your ears til stuff sounds right and enjoy making sounds you enjoy hearin…
+
+Some tips 'n' tricks:
+
+When importing or copying your samples across multiple pads in a drum rack;
+If you make any parameter edits along the way that you want to be global anywhere in the drum rack sample editor or pad editor, you can copy the changed value to all subsequent pads by right clicking the parameter and selecting “copy value to siblings”. (coincidentally a feature available first in the MPC samplers!)
+
+Sound sources are very often the most crucial element in the process;
+
+and:
+
+Don't forget to [collect all and save]!
+

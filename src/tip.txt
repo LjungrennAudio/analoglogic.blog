@@ -1,0 +1,11 @@
+A Brief Music Production Tip:
+
+I recently was playing with ableton preset instruments in a moment of boredom when i noticed in the efect chain of one the 'utility' plugin had a mid-side knob rather than a stereo-mono knob. not being aware ableton had this mysterious alternate utility i immediately googled and found that in whatever update, along with bringing in mid-side functionality to the eq eight plug they added an option to right click the stereo field knob on utility and switch it to mid-side processsing mode.
+
+For those unfamilair with mid-side processing, its simply an alternate way of treating sounds within the stereo image - instead of having left-right panning and mono as an on/off state, it defines sound elements as having verying amounts of spread from the centre of the stereo field [pure mono, mid] spreading out to normal stereo at the mid mark and then full width [entirely split to full left and right only, side].
+
+This form of processign allows you to keep basses and low frequencies in the center of the field in mono or a degree of so as not to cut throuh the mix and then spread verbs, pads, and more space-requiring elements to the sides so as to keep them from interfering with and being interefered with by other elements in the mix.
+
+i like to keep my low kicks and subs absolute pure mid, other kicks and basses 75 to 50% miod and then liekwise spread out the top ends like hats and pads and some backing vocals etc to varying degrees of side, with very washy stuff liek verb tails spread completely to 100% side. loading a utiltiy into each ableton channel or mixdown group and adjusting mid-side degrees along with gain compensation, phase and stereo swap otpiions are an absolute breeze now in ableton - nad all this time i didnt know!
+
+The final real fun trick which i was more familiar is using the mid-side mode in eq eight - splitting the field depednding on the eqing setup and very complex frequency spectrum tuning for each element in the mix - many faancy eq plugins have had this available for much longer thaan ableton but for those who have been unaware of such things, mid-side processing may massively improve the clarity and quality of your mixdowns and the professional sound results of your musics in general!

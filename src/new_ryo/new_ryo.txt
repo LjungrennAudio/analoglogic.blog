@@ -1,0 +1,21 @@
+RYO Finally Has New Designs In Development!
+
+yes, i have spent 145 hrs over the last 10 days working on new RYO modules designs - starting from unfinished prototypes left over from the previous development cycle and concepts developed a prvious incarnation of the company ago but never actually developed, i'm already deep into the CAD circuit design aspect of prototyping and have started training a new member of staff to take on the pcb layout and development work that is the next step.
+
+i have had and am having more mockups of the new modules made and also have engaged someone to help withsetting up the possibility of manufacturing assembled modules for sale as well as pcb/panel kits. below for you enjoyment and anticipation is the half way developed start of a whole new range for RYO, which will be a complete synth voice - along with the existing lines of utility and sound processing modules this will allow the construction of a complete modular synth from just RYO modules!
+
+
+
+
+
+5 of a possible 7 new modules to make the as yet unnamed ryo voice
+
+the chainsaw has circuit design completed and is ready for pcb/prototyping - this is a complex 2x3/1x6 stage wave multiplier with diode clipping to fatten input waveforms and add harmonics west coast serge style.
+the dual subdivder is near completed in circuit design stages - its a dual stage or single chained subharmonic generator that can also be used for clock/logic purposes.
+he dual dynamic vca will be based around the 13700 OTA vca's used in RYO 3xVCA, but also have included a feature that will allow dynamic use of velocity in put to both control gain and transient shape of audio throughput.
+the two mixers may neither be implemented but at least replaced by if not having in addition a quad eg/lfo with single shot, cycling and daisy chained sequential triggering otions - this will allow creation of complex multi stage eg's and lfo's as well as up to 4 basic AD or tri/saw/ramp LFOs. this eg/lfo has been completed in circuit design phase but is awaiting mockup front panels still. likewise the final element of the voice, the dual VCO, likely to be CEM3340 based is still is concept stage and so has no mockup or even concrete circuit design completed as yet.
+
+i have also near completed design of circuitry and panel layouts etc for an eq to add to the existing line of filters and processing modules and also a new addition to the 4hp logics range.
+
+finally, there's some exciting new concepts far off in as yet only mockup picture stages so far such as the magic window module i showed a hint of many moons ago when first starting this blog!
+

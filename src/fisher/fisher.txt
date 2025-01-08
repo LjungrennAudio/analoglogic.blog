@@ -1,0 +1,94 @@
+Fisher – Stop It (waxcide remix): How It Was Produced
+
+In a moment of random excitement today I was listening to Fisher's 'Stop It' and realised it would be relatively easy to remix even though I didn't a have stems or loops or an official remix pack or whatever. This blog entry is a guide through the journey of remixing a track in ableton using only filtering and audio editing to create the separate tracks and loops to remix a single stereo wave file and produce a complete remix with multiple separate tracks processed and altered to make a different but still good version from the original.
+
+
+
+
+
+I like to start in ableton's session view by loading the song I plan to remix into an audio channel slot and getting the tempo to my liking, then exploring it using the waveform to visually identify likely sections for snipping out sections that are free of to much overlapping sounds allowing breaks of just drums, basses, vocal hooks and the like. Once I have harvested as many loops as are conveniently are available and set them aside for later work, I keep a copy of the whole song in a channel for sampling stuff that needs more work than just snipping out and then set to work proper.
+
+
+
+
+
+Drums;
+When doing a remix this way I always start by dropping a midi kick drum into the leftmost channel, generally just to act a bit like a metronome to keep playing as I work on all the other parts of the tune, keeping things in sync and giving a feel for how different rhythmic parts interplay, but generally this kick will end up being the main kick driving the tune too so its generally worth my time polishing it a bit in the first place. in this case since I was going to use a sampled drum loop from fisher's song as the main drums, including a kick in it, I chose to just add a very subby kick to fill out the low end and keep fisher's kick as a low-mid kick more for punch – as a result I settled on a heavily compressed 808 kick doing a 4/4 pattern, heavily compressed and set so that the release was the perfect length to sound round and sub-filling but not muddying the low end too much. This last bit of tweaking has o be done after all other edits like drive, compression, filtering, eq and the all essential tuning – all of these other tweaks to a kick will change the length of release needed to make that magic 'bouncing' boomy sub kick. Finally the kick is mid/side set to 100% mid and/or mono'ed under 250hz just to ensure no phase weirdness etc happens. [n.b. As with all the other channels to be discussed in this entry, the final eqing and filtering is adjusted during the mixdown because it needs to be done when all the elements of the tune are present at once].
+
+The reason I decided this track was ripe for a remix was that whilst listening and doing my inevitable deconstruction in my head that I cant help doing with all music I love hearing, I realised there were quite a few break in the tune where just loops of the beat or vocals etc were played – easy prey for a quick audio edit to snip out the desired parts and filter out any odds n sods of excess reverb tails etc to get perfect parts for remixing. This was the case with the main drum beat – lifted straight out of Fisher's finished tune and filtered to fit my remix. I left it right inbetween the extremes of mid and side to allow it some stereo field but not too much width that would make it sound weak and potentially introduce things like phase issues which would be especially undesirable in a crucial part of a tune like the main drums.
+
+The hats were the first bit of the sampling from the original that require more than just the normal audio editing with cut'n'paste – I took the hats from the main song, with full instrumentation present so I had to remove the low end and non tops parts completely using high pass filters and then to tidy up the individual strikes I used a gate with a very carefully adjusted threshold set to just allow the peaks of the actual hats n cymbals through – this removed all other hiss and noise from reverb tails etc in the same frequency band, and then I added just a little release and 'floor' to give a more natural decaying sound rather than the sharp cutoff of a more strict gate. Finally I added an auto-filter set to a medium resonance high pass with some movement automation to make the resonance peak occasionally in a rhythmic pattern adding a bit of life and interest to what would otherwise be a very static top end. The last polish was to set the mid-side placement to a medium side setting to keep the hats relatively wide in the stereo field so not competing with the top end of some of the more important parts of the tune that had top end.
+
+
+
+
+
+Basses;
+I decided to use two separate basslines, the same frequency range of the immense bass fisher used but split into two bands so I could drop the lower sub in and out as the song required. Both of these basses were derived from the same filtered sample lifted straight outta the main meat of fisher's original track and then one filtered with a low pass around 100Hz to separate out just the lowest sub frequencies, the other with a band pass centred around 500Hz getting the nice mid-bass frequencies with all that nice detuney, slightly chorused, subtley driven sound that might not even be there but I suspect sneaks into fisher's bass to give a few extra harmonics for colour and resulting in that lovely bouncy powerful sound. Both basses are mid-side'ed to dead centre/mono'ed under 250Hz, again to avoid weird phase issues etc.
+
+
+
+
+
+Up n Down, Side to Side;
+The main hook of this tune is the fantastically weird vocal about rollercoasters – a great piece of silliness that had all the potential to become a very cool and somewhat darker sounding techno hook when repeated ad nauseam in a loop to the point it becomes an abstract sound and can get very confusing as to what the voice is saying or even if it is a voice at all – a great fun techno trick I often employ since I enjoy it muchly when done by others. I had to do some slight low pass and high pass filtering of the 'up n down, side to side' to get rid of some occasional drums and sweeps left in the sample since it wasnt completely clean anywhere in fisher's song, and then I ran the loop through a waves jjp vocal plugin to polish the loop off to perfection.
+
+
+
+
+
+i also had the great idea of taking two copies of the loop and setting one through an autopan doing a kinda off symmetry spinning effect whilst moving in n out of phase with a more static one so becoming quite dizzying and changing the loop constantly without altering pitch or timing. These two copies were then fed as a group into a gate to trim off excess messy clashes of the two overlapping loops, then eq'ed using ableton's eq8 in mid-side mode to give even more stereo weirdnesses but this time frequency dependent, and finally a short delay to fill in the gaps left by the gate.
+
+
+
+
+
+This initial idea then expanded into making another pair of two copies of this loop, applying instead of autopan, different filtering and setting one copy to a more mid position in the stereo field than the other – this second pair was then set to have the left channel out of phase with the right, and the mid side to about 50% side whilst the original looping pair was set with the two stereo channels out of phase against eachother but in the opposite orientation and the mid-side set to 50% mid. These complex mix of stereo weirdnesses and phase settings and pan/spin etc resulted in the most fascinating set of cancelling and stuttering and stuff when the two pairs were played in conjunction, the movement settings of it all giving wonderful rhythmic patterns and strangeness.
+
+
+
+
+
+The final moment of inspiration was setting the two pairs to be on the two different ends of a crossfader and fading/chopping back n forth to get weird mutating warps when faded between and fantastic rhythmic chaos when chopped back n forth sharply. I also set up a duplicate of the non-weird up/down-side/side channel with a delay on it just to drop in a loop at the end to give a nice finish to the song.
+
+
+
+
+
+Like a Roll/A Rollerc';
+the weird high pitch, resonant, peaking, echoing chant heard in the intro and throughout the song is in fact two loops, both sampled from the 'up n down, side to side' hook, slices of the phrase being the 'moving up n down, side to side, LIKE A ROLLercoaster' and 'moving up n down, side to side, like A ROLLERCoaster'. These were treated very similarly to the initial pair of loops in the main hook, one channel being out of phase autopanned and then the pair as a group being gated, mid-side filtered and then delayed. There's some final filtering to bring out resonant peaks in tune with the songs frequency spectrum and then a mid-side encoding set to a fairly wide spread to avoid the vocal clashing too much with the main hook from which it was also sampled so sharing a very similar frequency band.
+
+
+
+
+
+Send/Return Effects and Mixdown Output Chain;
+The only reverb and rhythmic use of delay in the remix are a pair of send/return channels set to the default 'main-aux' style sends for overall verb sharing – specifically verb applied to the drums, hats and vocal hook samples to give unity. The hats were also given some movement to using the delay set to a ½ bar on left and 1/3 bar on the right channel timings to give syncopation. These then find their way to the master out with no further excitements except setting levels when doing the mixdown. During the final mixdown I ended up turning down the actual return of the verb channel to reduce the amount of verb on everything by a similar amount because I felt it was just a little too strong.
+
+The Master channel has an initial utility to, again, mono all bass below 250Hz, and reduce the gain by about 15dB to give headroom for the output chain plugins since I was running the tracking channels real hot to get some drive and clipping into stuff in places. The actual mixdown output chain was simply a set of fabfilter dynamic EQ, multiband compressor and limiter in that order.
+
+[the pairs of bocal loops are in single group channels within other groups because i started with a different setup and was too lazy to move blocks of effects around]
+
+
+
+
+
+Now that the basic parts of the tune are setup, its time to switch to the arrange window and start laying out the actual meat of the tune. Starting with a wall of every part looped and copied over n over, covering the whole screen, maybe 10 or so 8 bar loops of each part stacked up, I mute everything one by one searching for the ideal part to use as an intro and then test out different combinations of parts until I find good drops, breaks, fills, bridges, main sections etc – at this point I delete blocks of 8 bar loops to remove the muted out parts until what remains is the frame work of the song. There may be some copying and pasting of builds or repeating main sections etc but it doesnt take long to build up a decent layout. At this point, in a normal from scratch production i'd often put in sweeps, fills, and all the other little bits of window dressing that complete a tune, but since this was to be a very basic, bare bones techno track by intent I chose not to clutter it with all that crap and instead just to move onto the automations.
+
+The only automation I used in the entire tune in fact was the x-fader controls for the two grouped pairs of vocal hoook that were do mix back n forth – both by slow sweeps in the builds n drops and then fast chopping back n forth during the main blocks of music. That was a single lane of data in the master channels controls that I quickly drew in using a mixture of the draw tool, copy/paste and some drag'n'drop to draw sweeps – the fact I was using the cross fader meant I could select a fader curve and avoid having to creat curves for each sweep to get a natural sounding change from the one loop pair to the other.after listening through a few times and making changes as I heard the song as an actual finished track as far as arrangement was concerened I finally had a feel for any changes needed to drops and breaks n stuff and so was done and ready to mixdown.
+
+Mixdown;
+kick was filtered using the built in filter in the ableton drum sampler – just removal of top end and resonance set to get the right amount of mid smack but retaining low end bounce and clear defined sound when drive and tuning interact with the sub and bass – pretty much left the bass as the perfect sound and adjusted the sub and bass around it.
+
+Drums were eq'd to remove the lower sub end that would clash with the big kick I had shoehorned in and the tops removed to leave space for the hats that I introduced as a separate tops layer – some final eq'ing to get desired resonant frequencies pulled to the forefront of the sound and it sat just right.
+
+Hat's were eq'd very simply – high pass right the way up the top end to remove any competing noisiness they might introduce to the other parts and then a spike at the top end to emphasise the real high presence, though using a resonant low pass to achieve this so as to remove any hiss above the high teens of kHz. A few tweaks to pull out the nicest peaks of resonance in tune with the songs overall frequency spectrum and the tops were set in the mix.
+
+The basses were filtered to separate them out from the other sounds present in the samples, so to eq I just adjusted the filters to get the sub in tune/resonance with the midi sub-kick, and the low-mid bass to fit just above the sub in frequency band so that the two seem to be one single bassline when playing together – this was achieved by setting the sub to a 12dB sloe and the bandpass of the low-mid to a 24dB slope giving some degree of overlap when the top sub frequencies and lower mid freqs were adjacent but not building up to too much overpowering layers.
+
+All the channels of vocal hook samples were filtered both high pass and low pass to remover unwanted drum noise and swooshes n stuff, so it was very convenient to set these ersatz band passes to the exact cutoffs needed to isolate the hook in the mid to mid-top range of the song, away from both basses and tops.
+
+Once the Eqing was done it just needed the individuals levels readjusting to perfection and then the master output chain could be setup. The EQ and Multiband Compressor were set to tweaked versions of the 'mix general balancing' dynamic eq preset and 'heavy handed 6-band squeeze' preset, the final limiter set to an adjustment of the 'fast peak' preset.
+
+And there you have it – a remix done from no stems or official materials in just a couple of hours, only needing export, conversion to video, upload to youtube and promotions on social media to be complete. Give it a go!
+

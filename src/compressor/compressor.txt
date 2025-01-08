@@ -1,0 +1,90 @@
+COMPRESSOR
+
+[not even for dummies, for me - i.e. simple but also useful]
+When it comes to audio a compressor uses a signal to squish itself.
+next. [It's used for smoothing out the changes in gain of a signal thats very changey].
+its really that simple at most basic - when the music is louder the compressor does more squishing - bigger signal, bigger squish, smoothes out the output signal. I'll explain how a feedback type compressor works and how to patch one - other types are available.
+
+
+
+
+
+
+A compressor uses a cuircuit to convert the audio signal passing through to a control signal which tells a vca how much to squish and when. this requires a control circuit to convert audio into cv - at most basic level this is an envelope follower.
+
+
+
+
+
+
+The envelope follower takes the contours of the audio signal's gain - i.e. the chape of the audios loudness and quietness and makes an envelope, a cv based on that - a signal related to the audio that's not changing as fast as the actual waveform frequency but is still related to the inoming signal. how it does that are settings we choose and affect aspects of the compression results.
+
+Now for some detail:
+Envelope followers are basically just Low Pass Filters or slews [same thing - we just know it as lpf for audio and slew for cv]. by removing high frequenicies and only passing lower ones they remove the high freq. oscillations of the audio wave form and only alloww the lower frequency contour signal that makes up the shape of the signal through - this means an audio frequency signal is converted to a dc cv signal.
+
+The conversioon of one signal type into another is the root of all modular audio synthesis - in the case of patching a compessor, converting an audio signal into a cv and then combining the cv and the audio in the vca to make the output signal.
+logical 'AND' combining is what a vca does but just in an analogue way - rather than the on/off digital combiner that an AND gate is somthing we might think of when AND gate is mentioned normally [google 'boolean' logic - it's a whole other mess], a vca just says if there's a signal at both one input AND the other input, let the 'in' signal pass.
+[normally in modular synthesis vca's will combine audio and cv in any combination, tho often thought of as cv control auio passing - audio/cv, they usually also do cv/cv and even audio/audio].
+
+With this knowldege in theory we can make a compressor:
+take audio input signal, convert to cv, use that cv to control a vca that says when there's cv let the audio input signal pass and then you got it - audio signal controlling itself - ofc, the vca is analogue so it doesnt just get told by the cv to let signal pass or not, but how much to pass - i.e. to squish the signal and how much. bam - compressor.
+
+Now a few details - if you just feed the input signal into the envelope follower you don't get the negative portion of the waveform, so, it needs to be 'rectified' - the negative portion flipped into positive.
+after we have done this we are then sending out a cv that gets bigger when the audio is louder - but we want to make the audio signal quiter when the incoming signal is louder - so, we invert the cv.
+when you've remembered to include the mult used to split the output signal and make a copy to go into the envelope following circuit youve now assembled all the modules needed to patch a compressor:
+vca, rectifier, envlope follower, inverter.
+
+
+
+
+
+
+but wait, you ask, every comprssor i see has all these mystery settings we havent mentioned: Attack, Release, Ratio, Threshold, Knee, Makeup Gain, Input Level, Output Level...
+
+In your terms:
+
+
+
+
+
+
+Attack: Rise time - the time it takes the low pass filter or slew to respond to the rising portion of the waveform.
+
+Release: Fall time - the time it takes for the low pass filter or slew to respond to the falling portion of the waveform
+
+Threshold: usually called 'Initial' on a vca, the amount of signal that passes before the compressor kicks in - totally open and threshold is total zero - always acting, if there's a signal then it gets compressed, conversely the more the init setting is closed the less signal passes through, so the less the cv signal is kicking in to act on itself so the more signal required before the compressor kicks in.
+
+Ratio: The amount of compression occuring for the size of incoming signal - this is the 'Amount' knob on your vca - the cv input attenuator, the more the cv amount is cranked up the more the cv from the env-fol affects the incoming sigal so he more the signal is compressed.
+
+Knee: Exp/Lin/Log on your env follower rise/fall curve settings. This controls whether the bend in the response curve between below threshold and above threshold is abrupt (hard) or gradual (soft)
+
+
+
+
+
+A soft knee increases amount of compression slowly, reaching full ratio more gradually. [A soft knee just softens the transition from uncompressed to compressed, particularly desirable for higher ratio settings where sudden onset of compression can sound too pronounced.]
+
+
+
+
+
+Makeup gain: simply a boost to the output to get the level out of the compressor back to nominal range [some compressors will reduce the gain of. signal overall] - In your patch this would just be cranking whatver out put boosts your signal back to where you want it.
+
+Input/Output Level: exactly what they say on the tin.
+
+
+
+
+
+
+[* note: all explanations i ever read say 'ratio - the amount a signal is compressed once threshold is passed'; i think this is confusing due to:
+a) by nature of what threshold is, of course once threshold is passed, and
+b) knee means it aint this simple.]
+
+You now in theory know what a compressor is/does, how it doe it and what the jargon means. not only can you now use one, you can patch one from individual modules and therefore you can design one of your own. this means you can go learn electronics and become a world class audio electronics engineering designery person. 
+
+weirdly i havent actually told you 'how' to use on in terms of what settings to use when and how to set them up and so on - partly because i cant possibly cover every use case scenario [when i first strted trying to learn to use them i just copied settings from charts to get the numbers for a kick drum or a string section - worst idea ever], and also, htere's an element of personal taste/discovery, it's best to learn what you like and what works for you.
+
+There are no rule in music. anyone who says othewise is a dick. iyou like what your eears hear then its what you lik. if othrs dont and you want them to, that's a diffeerent problem. If you want to learn to use compressors to get stuff to sound like prticular other peoples music you like or you want to be a mastering engineer or whatever, that would be a whole other blog post.
+
+i'm gonna go have fun abusing track compressors in techno to get pumping/pulsing/slapping/smacking/swooshing/etc - please; experiment, explore and break the goddamn rules!

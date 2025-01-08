@@ -1,0 +1,17 @@
+Lockstep development process continues
+
+STEP 2: BASIC DESIGN CONSIDERATIONS;
+
+from the initial research done during conceptualistation it became clear the emost likely requirements for the module would be:
+- two channels of clock conditoning that would take near any signal and produce a nice square correct output according to doepfer standards of clocks/trigs/gates. i.e. two input jacks and two output jacks.
+- two channels of trig/gate delay that would allow changing timing of signals for sync purposes and alter length of high state to shift signals from a trig right through to any desired gate.
+
+using something that is required if youre going to design modules - i.e. electronic engineering we now have the bare minimum to set out the next stage of the process - circuit design. tedchnically it would be cheapest and easiest to run up an smd based mdoule with an arduino ic doing microcontroller programmed processing - but the aim was to make an open source project people could learn from, DIY easily and do with little as possible knowledge/experience/sklills.
+
+Hence the clock conditioners i knew were simplest done in TH by usign a cd40106b cmos logic ic - its a hexinverter with schmedit trigger, which means tho you could just build an opamp based kinda discrete custom schmidt trigger, two stages of 40106 [twice inverting to return to correct polarity] with the 40106 using a 5V supply will output a perfect square rising/falling edge clock/trig/gate, lengh dependent on input and some simple circuitry. whilst doing this initial circuit design i had a brief moment of further inspiration and thought 'it's be useful to have a choice of jumper selectable output voltages in case people needed a variety rather than just 5v. the final major part was to buffer the output to allow convenient multing with no voltage droop.
+
+Likewise, trig./gate delaay and gate length control can be done very simply by a basic 555 timer circuit that leads on to using an ne556 ic for each channel - dual 555 ic's that therefore only need two ics to provide the whole logic necessities and then the same voltage selection and buffering circuits. to top off the initial circuitry would be needed the power [already designed from previous modules that had current overload fuse resistors, reverse polarity diodes, and decoupling caps], all the relevant power decoupling for the opamp and logic ic's and the tie offs to ground for any unused logic inputs [the 40106 ic has two spare in this instance].
+
+having penciled out these basic necessary requirements, progress may enter basic testing and prototyping with via CAD, simulation, breadbaording or even straight to pcb if you have access to cnc machinery. personally i like to draw out pencil sketched basic ideas into a clear readable cad drawn simulator package to help others discuss and learn from and try out extra ideas/easily, change as well as simulate just for certainty and troubleshooting in parallel with breadboarding - personally i believe in breadbaording p much everything so that real life conditions can be checked to avoid the inconsitstencies and weirdnesses of reality vs. simulation can be ironed out.
+
+the result was this:

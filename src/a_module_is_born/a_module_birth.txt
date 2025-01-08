@@ -1,0 +1,53 @@
+A Module Is Born
+
+It's 4am, i'm sitting in bed staring intensly at the laptop infront of me:
+
+- "this guitar pedal circuit uses 2 diodes to emulate the softclipping sound you get from tape saturation - i wonder what would happen if the diodes were swapped for leds?"
+- "this buchla lpg circuit uses a vactrol to achieve voltage control over a vca/filter combination - i wonder how the vca controlling an overdrive circuit would sound with a similar setup?"
+- "this guitar stompbox distortion uses a a clipped opamp to get the overdriven sound - its a real nice distortion, maybe it would combine well with the those previous ideas floating round..."
+
+so the concept for the RYO Optodist was born!
+
+
+
+
+
+As soon as i could get hold of my RYO colleagues frontpanel sketch layouts were being drawn, more detailed ideas developing, circuit details being suggested - ergonomics, necessary safety features, styling, possible variations on the theme, the actual mechanics of the thing all had to be discussed.
+
+then schematics had to be drawn up and the circuit prototyped on breadboard to see if it even worked, and if it did - did it sound good, was it a pleasure to use?
+
+
+
+
+
+In parallel to this concept art is drawn up of panel graphics, knob/jack/led layouts and panel marking designs - all have to be decided before the front panels can be made.
+
+
+
+
+
+then comes prototype pcb's ordered from a fabrication house in some foreign land - they're delived a number of days later and it's straight to getting components soldered on and the hardware bolted together; soon there's a complete prototype - it aint pretty, but... IT WORKS! AND IT'S GOOD!
+
+
+
+
+
+from here we move to notifying shops of a new product - they want to be vendors for us, advertising is done and word spread through social media - interview requests from specialist magazines appear and demonstration videos have to be made - an up'n'coming new demo guy seems the perfect way to gain attention, cue one of the early DivKid youtubes...
+
+
+
+
+
+now that the shops want to sell it production runs have to be made, kits packed and shipped, with relevant safety details, compliances, documentation and build/userguides.
+
+
+
+
+
+customers recieve their purchases in the eagerly awaited mail and get stuck in - soon there's optodist popping up in blog posts, tweets, youtube fan videos and more, all over the world, resulting in threads on the muffwiggler synth forum and inclusion in the modulargrid module database
+
+
+
+
+
+the module is in use and here to stay!
